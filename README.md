@@ -42,79 +42,27 @@ Two different accounts, two years apart, one name. Merging them would have been 
 
 ## Confidence, and why most entries have none
 
-`scammers-verdict.json` rates each accused account:
+`scammers-verdict.json` rates each accused account by **how many distinct people**
+reported it:
 
 | Rating | Meaning | Count |
 |---|---|---|
-| `high` | 3+ servers, 2+ distinct reporters | 1 |
-| `medium` | 2+ servers, or 2+ reporters with screenshots | 11 |
-| `low` | a single source | 108 |
+| `high` | 3+ distinct reporters | 1 |
+| `medium` | 2 distinct reporters | 5 |
+| `low` | a single source | 98 |
 
 **Count reporters, not servers.** People cross-post the same accusation to every
 market server they are in, which makes one complaint look like three. `maximum.7799`
 appears on three servers but every post came from the same reporter. Use
-`distinctReporters`; treat `serversAccusing` as noise.
+`distinctReporters`; treat `serversAccusing` as context, not corroboration.
 
-Twelve of 120 accounts have any corroboration at all. The rest is one person's word,
-unverified. That is a property of the source material, not of the processing.
+**Replies are not accusations.** On Discord a reply auto-mentions the author of the
+message it answers. A victim who posts "scammed for 400kk" therefore gets mentioned
+in every reply to their own report — and a naive extractor files them as the accused.
+Sixteen accounts were wrongly listed this way before `type: "Reply"` was checked
+against the referenced message's author; they are excluded now, and the count of
+ignored reply pings is kept per account in `replyPingsIgnored`.
 
-## Format
-
-```json
-{
-  "sources": [ { "server": "...", "channel": "...", "messageCount": 609 } ],
-  "messageCount": 4892,
-  "messages": [
-    {
-      "server": "Europe-Market",
-      "channel": "scammer-proofs",
-      "channelId": "983274544250904576",
-      "messageId": "985227296443101235",
-      "timestamp": "2022-06-11T17:01:32.11+00:00",
-      "author": { "name": "...", "nickname": "...", "id": "..." },
-      "content": "i have proof that ... is a scammer",
-      "attachments": ["https://cdn.discordapp.com/..."],
-      "embeds": [],
-      "reactions": [],
-      "link": "https://discord.com/channels/972502585825173514/983274544250904576/985227296443101235"
-    }
-  ]
-}
-```
-
-Messages are sorted by timestamp. Every entry carries a `link` back to the original
-message on Discord — **always check the original before acting on anything here.**
-
-## Read this before you use it
-
-**These are accusations, not verdicts.** Anyone with access to those channels could
-post a name. Reports here include mistakes, grudges, revenge posts, and cases that
-were later resolved. Treating this file as a blocklist without reading the source
-messages will get innocent players banned.
-
-**Screenshots will rot.** The `attachments` URLs point at Discord's CDN, which stops
-serving old files. They worked on the collection date; many will be dead by the time
-you read this. The message `link` is the durable reference, not the image URL.
-
-**Coverage is partial.** Four channels on Asian Market and one on Rucoy Online Market
-Place require a role the collecting account did not have, so they are missing.
-Servers that have since closed are not represented at all.
-
-**Names, not people.** Entries identify Discord and in-game accounts. Accounts get
-sold, shared, stolen and renamed — an account named in 2022 may have nothing to do
-with whoever holds it now.
-
-## Provenance
-
-Collected with [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
-v2.48.0 from servers the collecting account was a member of. Nothing was edited: the
-merge step only adds the `server`, `channel` and `link` fields and drops binary
-payloads. Re-run `merge.py raw/` to rebuild `scammers-all.json` yourself.
-
-Not affiliated with Rucoy Online or any of the servers listed.
-
-## Takedown
-
-If you are named here and believe it is wrong, open an issue with the message link
-and your side of it. Corrections are appended rather than silently deleted, so the
-record stays honest in both directions.
+Six of 104 accounts have corroboration from a second reporter. The rest is one
+person's word, unverified. That is a property of the source material, not of the
+processing.

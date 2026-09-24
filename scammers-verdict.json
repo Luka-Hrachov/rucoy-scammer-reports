@@ -1,7 +1,180 @@
 {
- "note": "Stable key is discordId (permanent). confidence is derived from evidence: high = accused on 3+ servers by 2+ distinct reporters; medium = 2+ servers, or 2+ reporters with screenshots; low = single source. This is aggregated community reporting, not proof.",
- "count": 120,
+ "note": "Stable key is discordId. Reply pings are NOT accusations: on Discord a reply auto-mentions the author of the message being answered, so victims who post a report get mentioned in every reply to it. Those are excluded here. confidence: high = 3+ distinct reporters, medium = 2, low = 1.",
+ "count": 104,
  "people": [
+  {
+   "discordId": "1018632368510222378",
+   "currentUsername": ".chefinho_vendas",
+   "displayNames": [
+    "Chefinho Vendas"
+   ],
+   "accountCreated": "2022-09-11",
+   "confidence": "high",
+   "distinctReporters": 3,
+   "serversAccusing": [
+    "Europe-Market",
+    "Klauzo-Treasury"
+   ],
+   "proofMessages": 1,
+   "replyPingsIgnored": 0,
+   "firstReport": "2024-01-19",
+   "lastReport": "2025-09-11",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2024-01-19T21:14:10.289+00:00",
+     "reportedBy": "dhu213",
+     "text": "@Chefinho Vendas scammer use fake screen of acc i dont have 100% scammer if need more proof tell me",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1198012551561228418"
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "scamming-proof",
+     "timestamp": "2025-08-28T10:15:47.975+00:00",
+     "reportedBy": "drivetheshadow",
+     "text": "@Chefinho Vendas  scammer",
+     "attachments": [],
+     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1410568543954796605"
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "scamming-proof",
+     "timestamp": "2025-09-11T18:00:58.733+00:00",
+     "reportedBy": "itary0912",
+     "text": "scamer doesn't want to use inter  @Chefinho Vendas",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1406537186593083483/1415759040318935092/Screen_Recording_20250911_115927_Discord.mp4?ex=6ab6b6da&is=6ab5655a&hm=41cf0af8769a5452184c20d56c8ad92cbc0e07926dae03a0c01f6cea3dc7f14f&"
+     ],
+     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1415759040276987976"
+    }
+   ]
+  },
+  {
+   "discordId": "1243073577742503986",
+   "currentUsername": "gigabyte.kom",
+   "displayNames": [
+    "Twonx"
+   ],
+   "accountCreated": "2024-05-23",
+   "confidence": "medium",
+   "distinctReporters": 2,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-02-25",
+   "lastReport": "2025-02-25",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-02-25T18:08:40.838+00:00",
+     "reportedBy": "mani4565",
+     "text": "You scammed me once, i wont let you steal from me twice.",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344008181096910908"
+    },
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-02-25T18:10:13.894+00:00",
+     "reportedBy": "devilzz6467",
+     "text": "Maybe hes , but not scammer like u 🤡",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344008571402321920"
+    },
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-02-25T18:15:48.429+00:00",
+     "reportedBy": "devilzz6467",
+     "text": "so, what if he will put the items u will scam it ?",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344009974543683666"
+    }
+   ]
+  },
+  {
+   "discordId": "1321525801077968948",
+   "currentUsername": "lebancmid",
+   "displayNames": [
+    "Leblanc"
+   ],
+   "accountCreated": "2024-12-25",
+   "confidence": "medium",
+   "distinctReporters": 2,
+   "serversAccusing": [
+    "ABYSS-Market",
+    "Rucoy-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-05-25",
+   "lastReport": "2025-07-19",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-07-19T15:17:33.647+00:00",
+     "reportedBy": "manes_73",
+     "text": "@Leblanc fake",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1396148970023026863"
+    },
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-25T07:56:25.787+00:00",
+     "reportedBy": "ysqlevrai",
+     "text": "?ban @Leblanc \nFake leblanc",
+     "attachments": [],
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376106623164223538"
+    }
+   ]
+  },
+  {
+   "discordId": "1397579081897480224",
+   "currentUsername": "realsidest",
+   "displayNames": [
+    "sidest"
+   ],
+   "accountCreated": "2025-07-23",
+   "confidence": "medium",
+   "distinctReporters": 2,
+   "serversAccusing": [
+    "ABYSS-Market",
+    "Klauzo-Treasury"
+   ],
+   "proofMessages": 1,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-05-15",
+   "lastReport": "2026-05-17",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2026-05-17T18:09:36.761+00:00",
+     "reportedBy": "shinzakis",
+     "text": "@sidest fake",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1505633403712704572"
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "scamming-proof",
+     "timestamp": "2026-05-15T04:28:37.862+00:00",
+     "reportedBy": "coolest_player",
+     "text": "@sidest  fake sidest",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1406537186593083483/1504702021390045204/Screenshot_2026-05-15-11-26-52-97_572064f74bd5f9fa804b05334aa4f912.jpg?ex=6ab6a135&is=6ab54fb5&hm=def769555ed90b70d3a47aa6ca3743005e3d0b96321c91acb3c6bd027e348d95&"
+     ],
+     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1504702021184520222"
+    }
+   ]
+  },
   {
    "discordId": "432580042518822922",
    "currentUsername": "roiii11",
@@ -9,23 +182,23 @@
     "RoxyYy"
    ],
    "accountCreated": "2018-04-08",
-   "confidence": "high",
+   "confidence": "medium",
+   "distinctReporters": 2,
    "serversAccusing": [
     "Dream-Market-Place",
     "Klauzo-Treasury",
     "Rucoy-World"
    ],
-   "distinctReporters": 2,
    "proofMessages": 2,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-06-02",
    "lastReport": "2026-08-27",
    "evidence": [
     {
      "server": "Dream-Market-Place",
      "channel": "scam-report",
-     "date": "2026-06-02",
-     "by": "crissssto",
+     "timestamp": "2026-06-02T13:48:51.809+00:00",
+     "reportedBy": "crissssto",
      "text": "@RoxyYy scam 2.05kkk",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1481601555148050534/1511365987658895430/Captura_de_pantalla_2026-06-02_153929.png?ex=6ab67bc3&is=6ab52a43&hm=dabda00e25417ee711d2be2c50d961a6733a7a785f21b235d71453ddd38979fe&",
@@ -40,8 +213,8 @@
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-06-02",
-     "by": "crissssto",
+     "timestamp": "2026-06-02T13:47:42.43+00:00",
+     "reportedBy": "crissssto",
      "text": "@RoxyYy scammer 2.05kkk",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1406537186593083483/1511365696481656903/Captura_de_pantalla_2026-06-02_153929.png?ex=6ab67b7d&is=6ab529fd&hm=0bb8effba501e2a05f641f5e98bad6001144611dd6c40b78a094a23e39e539b5&",
@@ -56,11 +229,357 @@
     {
      "server": "Rucoy-World",
      "channel": "scammer-proofs",
-     "date": "2026-08-27",
-     "by": "little_kabanchik",
+     "timestamp": "2026-08-27T09:48:57.73+00:00",
+     "reportedBy": "little_kabanchik",
      "text": "@RoxyYy scammer",
      "attachments": [],
      "link": "https://discord.com/channels/1461772543269667014/1461781393125412999/1542470973175890000"
+    }
+   ]
+  },
+  {
+   "discordId": "980929564089937940",
+   "currentUsername": "weygar",
+   "displayNames": [
+    "!   WEYGAR"
+   ],
+   "accountCreated": "2022-05-30",
+   "confidence": "medium",
+   "distinctReporters": 2,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 1,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-04-11",
+   "lastReport": "2026-05-25",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-04-11T13:18:04.539+00:00",
+     "reportedBy": "iz.naaky",
+     "text": "@Alphachino trying to scam my friend, with fake sidest, ban him @!   WEYGAR",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/983274544250904576/1492514072099291399/image.png?ex=6ab6748c&is=6ab5230c&hm=1127f37c9e578e0fd5403e13c4a8cb449f610a4dd157676165a882ce1b5f437a&"
+     ],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1492514072854401256"
+    },
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-05-25T19:59:48.322+00:00",
+     "reportedBy": "m.snezzer",
+     "text": "Incase ur done reading your server's scam proof ban him here aswell @!   WEYGAR",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1508560237534248970"
+    }
+   ]
+  },
+  {
+   "discordId": "398901202634539018",
+   "currentUsername": "mary_berry97",
+   "displayNames": [
+    "Mary"
+   ],
+   "accountCreated": "2018-01-05",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2024-11-24",
+   "lastReport": "2024-11-24",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2024-11-24T15:57:09.269+00:00",
+     "reportedBy": "burnedtodeath.",
+     "text": "@Mary  ban him he is scammer in every server",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1310273009956950076"
+    }
+   ]
+  },
+  {
+   "discordId": "1338889274577387676",
+   "currentUsername": "arcanajunment",
+   "displayNames": [
+    "Astro supernova"
+   ],
+   "accountCreated": "2025-02-11",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 1,
+   "firstReport": "2025-02-26",
+   "lastReport": "2025-02-26",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-02-26T21:27:35.946+00:00",
+     "reportedBy": "mani4565",
+     "text": "@Astro supernova thats the account he stole items from",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344420628433866804"
+    }
+   ]
+  },
+  {
+   "discordId": "1318811612345401358",
+   "currentUsername": "rucoyxneshara",
+   "displayNames": [
+    "R̷u̷c̷o̷y̷X̷n̷e̷s̷h̷a̷r̷a̷"
+   ],
+   "accountCreated": "2024-12-18",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market",
+    "Europe-Market"
+   ],
+   "proofMessages": 1,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-03-10",
+   "lastReport": "2025-03-10",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-03-10T17:06:35.69+00:00",
+     "reportedBy": "louis04578",
+     "text": "@R̷u̷c̷o̷y̷X̷n̷e̷s̷h̷a̷r̷a̷ scammer",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1348703598946685041"
+    },
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-03-10T17:06:00.922+00:00",
+     "reportedBy": "louis04578",
+     "text": "@R̷u̷c̷o̷y̷X̷n̷e̷s̷h̷a̷r̷a̷ scammer",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/983274544250904576/1348703452532047932/Screenshot_20250310_222129_Discord.jpg?ex=6ab6a9f8&is=6ab55878&hm=ad6d4de7651bbb0610a70ce942f9e53d36244c9403876308c6a6c94357ee8067&",
+      "https://cdn.discordapp.com/attachments/983274544250904576/1348703452825653280/Screenshot_20250310_222137_Discord.jpg?ex=6ab6a9f8&is=6ab55878&hm=a996cdbe80fcf0fb42d335b884a65db1ff3a64715ab52546cefa90a06cf5c70d&"
+     ],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1348703453119123487"
+    }
+   ]
+  },
+  {
+   "discordId": "485478653203972117",
+   "currentUsername": "welwzz.",
+   "displayNames": [
+    "e"
+   ],
+   "accountCreated": "2018-09-01",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market",
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-03-13",
+   "lastReport": "2025-03-22",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-03-13T23:56:32.817+00:00",
+     "reportedBy": "apal0npx",
+     "text": "@e scammer I have proof DM me",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1349893930371514378"
+    },
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-03-22T06:23:53.109+00:00",
+     "reportedBy": "apal0npx",
+     "text": "@e scam",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1352890510146273300"
+    }
+   ]
+  },
+  {
+   "discordId": "1319600514614169612",
+   "currentUsername": "imiliviasz",
+   "displayNames": [
+    "Lívia Oliveira❤"
+   ],
+   "accountCreated": "2024-12-20",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-07-19",
+   "lastReport": "2025-07-19",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-07-19T15:18:34.423+00:00",
+     "reportedBy": "manes_73",
+     "text": "@Lívia Oliveira❤ This is also fake",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1396149224936181761"
+    }
+   ]
+  },
+  {
+   "discordId": "1244212892858060863",
+   "currentUsername": "ezzpochmak228",
+   "displayNames": [
+    "Walriyana"
+   ],
+   "accountCreated": "2024-05-26",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-08-07",
+   "lastReport": "2025-08-07",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-08-07T17:35:14.525+00:00",
+     "reportedBy": "manes_73",
+     "text": "@Walriyana scammer",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1403068988103069736"
+    }
+   ]
+  },
+  {
+   "discordId": "1381300489911668816",
+   "currentUsername": "ply4vca.",
+   "displayNames": [
+    "Ply4vca"
+   ],
+   "accountCreated": "2025-06-08",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 1,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-12-16",
+   "lastReport": "2025-12-16",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-12-16T07:32:38.202+00:00",
+     "reportedBy": "louis04578",
+     "text": "@Ply4vca Scammer aka rahul sharma",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1309948238010388481/1450390147639279637/Screenshot_20251216_125754_Discord.jpg?ex=6ab6cc56&is=6ab57ad6&hm=3a8dc86229f0e842fff0966bfe340f59c3b3cb12dc5a46056ee02895e58f5774&"
+     ],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1450390147886616586"
+    }
+   ]
+  },
+  {
+   "discordId": "598463213448986634",
+   "currentUsername": "wredna0",
+   "displayNames": [
+    "WREDNY"
+   ],
+   "accountCreated": "2019-07-10",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "ABYSS-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 1,
+   "firstReport": "2026-01-16",
+   "lastReport": "2026-01-16",
+   "evidence": [
+    {
+     "server": "ABYSS-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2026-01-16T11:48:21.432+00:00",
+     "reportedBy": "jav.buruclee",
+     "text": "Did he scam you? @WREDNY",
+     "attachments": [],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1461688525891047548"
+    }
+   ]
+  },
+  {
+   "discordId": "1449791031607562270",
+   "currentUsername": "zero_ieam",
+   "displayNames": [
+    "ZERO\\Fan"
+   ],
+   "accountCreated": "2025-12-14",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-01-19",
+   "lastReport": "2026-01-19",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-01-19T13:06:12.014+00:00",
+     "reportedBy": "h1peron",
+     "text": "@ZERO\\Fan  scamer",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1462795279328612403"
+    }
+   ]
+  },
+  {
+   "discordId": "1143534679555838082",
+   "currentUsername": "jav.buruclee",
+   "displayNames": [
+    "Bogalaf"
+   ],
+   "accountCreated": "2023-08-22",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "Rucoy-World"
+   ],
+   "proofMessages": 1,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-02-17",
+   "lastReport": "2026-02-17",
+   "evidence": [
+    {
+     "server": "Rucoy-World",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-02-17T20:32:18.17+00:00",
+     "reportedBy": "scorlyrx7",
+     "text": "fake mm @Bogalaf",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1461781393125412999/1473416792964599914/leblanc_fake.png?ex=6ab63192&is=6ab4e012&hm=f5a2f3b05e8142ad7cf4ea032036c44a801c93196b33fd09bcd8268e1ca9aaf6&"
+     ],
+     "link": "https://discord.com/channels/1461772543269667014/1461781393125412999/1473416792826446081"
     }
    ]
   },
@@ -71,23 +590,23 @@
     "𝑴𝒂𝒙𝒊𝒎𝒖𝒔"
    ],
    "accountCreated": "2025-07-21",
-   "confidence": "medium",
+   "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "ABYSS-Market",
     "Dream-Market-Place",
     "Rucoy-World"
    ],
-   "distinctReporters": 1,
    "proofMessages": 3,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-03-30",
    "lastReport": "2026-03-30",
    "evidence": [
     {
      "server": "ABYSS-Market",
      "channel": "scammer-proof",
-     "date": "2026-03-30",
-     "by": "magical.rai",
+     "timestamp": "2026-03-30T11:56:25.632+00:00",
+     "reportedBy": "magical.rai",
      "text": ":emoji_105: @𝑴𝒂𝒙𝒊𝒎𝒖𝒔 :emoji_105:  This person has scammed me out of 240kk. We had a deal where he was supposed to buy my account for 240kk, and I was promised to receive the Golds after 7 days. However, even after the 7-day period has passed, he is refusing to give me the Golds and not even returned my account either. He is a fraud. I have attached the screenshots below as evidence.\n\nhe made fake ",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1309948238010388481/1488144866906214521/Screenshot_20260330_152602.jpg?ex=6ab66168&is=6ab50fe8&hm=1833d1aeb147f2adc7ee159c6ef50a4c36291da31fc1a8672c4e56f48bd984d5&",
@@ -105,8 +624,8 @@
     {
      "server": "Dream-Market-Place",
      "channel": "scam-report",
-     "date": "2026-03-30",
-     "by": "magical.rai",
+     "timestamp": "2026-03-30T11:36:21.879+00:00",
+     "reportedBy": "magical.rai",
      "text": ":Warn: @𝑴𝒂𝒙𝒊𝒎𝒖𝒔 :Warn: This person has scammed me out of 240kk. We had a deal where he was supposed to buy my account for 240kk, and I was promised to receive the Golds after 7 days. However, even after the 7-day period has passed, he is refusing to give me the Golds and not even returned my account either. He is a fraud. I have attached the screenshots below as evidence.\n\nhe made fake proofs with",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1481601555148050534/1488139816326402248/Screenshot_20260330_152602.jpg?ex=6ab65cb4&is=6ab50b34&hm=8e99962917fbcfc30ad906b38952bd6c1249f9be5c37a048b0fc717276d64f20&",
@@ -124,8 +643,8 @@
     {
      "server": "Rucoy-World",
      "channel": "scammer-proofs",
-     "date": "2026-03-30",
-     "by": "magical.rai",
+     "timestamp": "2026-03-30T12:12:46.37+00:00",
+     "reportedBy": "magical.rai",
      "text": ":BANpls: @𝑴𝒂𝒙𝒊𝒎𝒖𝒔 :Warn: This person has scammed me out of 240kk. We had a deal where he was supposed to buy my account for 240kk, and I was promised to receive the Golds after 7 days. However, even after the 7-day period has passed, he is refusing to give me the Golds and not even returned my account either. He is a fraud. I have attached the screenshots below as evidence.\n\nhe made fake proofs wi",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1461781393125412999/1488148980570525788/Screenshot_20260330_152602.jpg?ex=6ab6653d&is=6ab513bd&hm=8997346ce8067443152940c86df28f448571778f00ad58a51ee998fa14efb1ec&",
@@ -143,483 +662,6 @@
    ]
   },
   {
-   "discordId": "1536302266708135997",
-   "currentUsername": "lightingclouds",
-   "displayNames": [
-    "Lightning"
-   ],
-   "accountCreated": "2026-08-10",
-   "confidence": "medium",
-   "serversAccusing": [
-    "ABYSS-Market",
-    "Europe-Market",
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 3,
-   "botBanned": false,
-   "firstReport": "2026-08-19",
-   "lastReport": "2026-08-19",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2026-08-19",
-     "by": "poncingg.zr",
-     "text": "@Lightning scammer",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1309948238010388481/1539654623533473926/IMG_5330.png?ex=6ab6909b&is=6ab53f1b&hm=49f7a80383c996ca197552a78cc64868bddc519edc9a73183369c9f4e09985e8&"
-     ],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1539654624129056799"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-08-19",
-     "by": "poncingg.zr",
-     "text": "@Lightning  scammer",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/983274544250904576/1539654142912503808/IMG_5330.png?ex=6ab69029&is=6ab53ea9&hm=ac107997f01b6f4a1319c453616ae65dccede249db7b9322d8fdc594e09010cc&"
-     ],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1539654143478730895"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-19",
-     "by": "poncingg.zr",
-     "text": "@Lightning scammer",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1406537186593083483/1539654473536901211/IMG_5330.png?ex=6ab69077&is=6ab53ef7&hm=0aed97164fed197ea0d09021520743e052b075732558a56b2b450175739341c0&"
-     ],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1539654474023575613"
-    }
-   ]
-  },
-  {
-   "discordId": "466802206998265878",
-   "currentUsername": "alent3711.",
-   "displayNames": [
-    "alent"
-   ],
-   "accountCreated": "2018-07-12",
-   "confidence": "medium",
-   "serversAccusing": [
-    "Europe-Market",
-    "Rucoy-Market",
-    "Rucoy-Online-Market-Place"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2024-11-02",
-   "lastReport": "2025-05-24",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-list",
-     "date": "2024-11-02",
-     "by": "hellcaty",
-     "text": "?ban @alent **- fake alent**",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1302370982656348252"
-    },
-    {
-     "server": "Rucoy-Market",
-     "channel": "scammer-list",
-     "date": "2025-05-24",
-     "by": "hellcaty",
-     "text": "?ban @alent \nfake alent",
-     "attachments": [],
-     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937881155309719"
-    },
-    {
-     "server": "Rucoy-Online-Market-Place",
-     "channel": "scammers-list",
-     "date": "2024-11-02",
-     "by": "hellcaty",
-     "text": "@alent **- fake alent**",
-     "attachments": [],
-     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1302370636827594752"
-    }
-   ]
-  },
-  {
-   "discordId": "1018632368510222378",
-   "currentUsername": ".chefinho_vendas",
-   "displayNames": [
-    "Chefinho Vendas"
-   ],
-   "accountCreated": "2022-09-11",
-   "confidence": "medium",
-   "serversAccusing": [
-    "Europe-Market",
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 3,
-   "proofMessages": 1,
-   "botBanned": false,
-   "firstReport": "2024-01-19",
-   "lastReport": "2025-09-11",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2024-01-19",
-     "by": "dhu213",
-     "text": "@Chefinho Vendas scammer use fake screen of acc i dont have 100% scammer if need more proof tell me",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1198012551561228418"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2025-08-28",
-     "by": "drivetheshadow",
-     "text": "@Chefinho Vendas  scammer",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1410568543954796605"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2025-09-11",
-     "by": "itary0912",
-     "text": "scamer doesn't want to use inter  @Chefinho Vendas",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1406537186593083483/1415759040318935092/Screen_Recording_20250911_115927_Discord.mp4?ex=6ab6b6da&is=6ab5655a&hm=41cf0af8769a5452184c20d56c8ad92cbc0e07926dae03a0c01f6cea3dc7f14f&"
-     ],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1415759040276987976"
-    }
-   ]
-  },
-  {
-   "discordId": "1318811612345401358",
-   "currentUsername": "rucoyxneshara",
-   "displayNames": [
-    "R̷u̷c̷o̷y̷X̷n̷e̷s̷h̷a̷r̷a̷"
-   ],
-   "accountCreated": "2024-12-18",
-   "confidence": "medium",
-   "serversAccusing": [
-    "ABYSS-Market",
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 1,
-   "botBanned": false,
-   "firstReport": "2025-03-10",
-   "lastReport": "2025-03-10",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-03-10",
-     "by": "louis04578",
-     "text": "@R̷u̷c̷o̷y̷X̷n̷e̷s̷h̷a̷r̷a̷ scammer",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1348703598946685041"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-03-10",
-     "by": "louis04578",
-     "text": "@R̷u̷c̷o̷y̷X̷n̷e̷s̷h̷a̷r̷a̷ scammer",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/983274544250904576/1348703452532047932/Screenshot_20250310_222129_Discord.jpg?ex=6ab6a9f8&is=6ab55878&hm=ad6d4de7651bbb0610a70ce942f9e53d36244c9403876308c6a6c94357ee8067&",
-      "https://cdn.discordapp.com/attachments/983274544250904576/1348703452825653280/Screenshot_20250310_222137_Discord.jpg?ex=6ab6a9f8&is=6ab55878&hm=a996cdbe80fcf0fb42d335b884a65db1ff3a64715ab52546cefa90a06cf5c70d&"
-     ],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1348703453119123487"
-    }
-   ]
-  },
-  {
-   "discordId": "485478653203972117",
-   "currentUsername": "welwzz.",
-   "displayNames": [
-    "e"
-   ],
-   "accountCreated": "2018-09-01",
-   "confidence": "medium",
-   "serversAccusing": [
-    "ABYSS-Market",
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-03-13",
-   "lastReport": "2025-03-22",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-03-13",
-     "by": "apal0npx",
-     "text": "@e scammer I have proof DM me",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1349893930371514378"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-03-22",
-     "by": "apal0npx",
-     "text": "@e scam",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1352890510146273300"
-    }
-   ]
-  },
-  {
-   "discordId": "1321525801077968948",
-   "currentUsername": "lebancmid",
-   "displayNames": [
-    "Leblanc"
-   ],
-   "accountCreated": "2024-12-25",
-   "confidence": "medium",
-   "serversAccusing": [
-    "ABYSS-Market",
-    "Rucoy-Market"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-05-25",
-   "lastReport": "2025-07-19",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-07-19",
-     "by": "manes_73",
-     "text": "@Leblanc fake",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1396148970023026863"
-    },
-    {
-     "server": "Rucoy-Market",
-     "channel": "scammer-list",
-     "date": "2025-05-25",
-     "by": "ysqlevrai",
-     "text": "?ban @Leblanc \nFake leblanc",
-     "attachments": [],
-     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376106623164223538"
-    }
-   ]
-  },
-  {
-   "discordId": "1397579081897480224",
-   "currentUsername": "realsidest",
-   "displayNames": [
-    "sidest"
-   ],
-   "accountCreated": "2025-07-23",
-   "confidence": "medium",
-   "serversAccusing": [
-    "ABYSS-Market",
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 1,
-   "botBanned": false,
-   "firstReport": "2026-05-15",
-   "lastReport": "2026-05-17",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2026-05-17",
-     "by": "shinzakis",
-     "text": "@sidest fake",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1505633403712704572"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-05-15",
-     "by": "coolest_player",
-     "text": "@sidest  fake sidest",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1406537186593083483/1504702021390045204/Screenshot_2026-05-15-11-26-52-97_572064f74bd5f9fa804b05334aa4f912.jpg?ex=6ab6a135&is=6ab54fb5&hm=def769555ed90b70d3a47aa6ca3743005e3d0b96321c91acb3c6bd027e348d95&"
-     ],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1504702021184520222"
-    }
-   ]
-  },
-  {
-   "discordId": "1086471275435802664",
-   "currentUsername": "lotre_1",
-   "displayNames": [
-    "Just Furıan"
-   ],
-   "accountCreated": "2023-03-18",
-   "confidence": "medium",
-   "serversAccusing": [
-    "Dream-Market-Place",
-    "Rucoy-World"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 2,
-   "botBanned": false,
-   "firstReport": "2026-09-23",
-   "lastReport": "2026-09-23",
-   "evidence": [
-    {
-     "server": "Dream-Market-Place",
-     "channel": "scam-report",
-     "date": "2026-09-23",
-     "by": "nicholas.anj",
-     "text": "scammer using a fake account in mm\n@Just Furıan accomplice\nnichalas.anj fake me",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1481601555148050534/1552444550860242974/IMG-20260923-WA0284.jpg?ex=6ab64ae7&is=6ab4f967&hm=ef59e0589b5fa9ba93ee38013d94d86be417a3377ed625ffdaa5ee52c5671a85&",
-      "https://cdn.discordapp.com/attachments/1481601555148050534/1552444551795576892/IMG-20260923-WA0286.jpg?ex=6ab64ae8&is=6ab4f968&hm=61b36e5a7ec79f2cb0bb83aa8906ac6e67045a7f65ef30ee0bdf83d307056e72&",
-      "https://cdn.discordapp.com/attachments/1481601555148050534/1552444552433115187/IMG-20260923-WA0287.jpg?ex=6ab64ae8&is=6ab4f968&hm=7ff11cd6574fe30e86a6e38044e9ae4f03cef3ac2780378fd87f2d81fe3e061a&"
-     ],
-     "link": "https://discord.com/channels/948850425141002290/1481601555148050534/1552444553175375902"
-    },
-    {
-     "server": "Rucoy-World",
-     "channel": "scammer-proofs",
-     "date": "2026-09-23",
-     "by": "nicholas.anj",
-     "text": "scammer using a fake account in mm\n@Just Furıan accomplice\nnichalas.anj fake me",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1461781393125412999/1552444819970990190/IMG-20260923-WA0284.jpg?ex=6ab64b28&is=6ab4f9a8&hm=1e4fc57d8fe8a61aebbb9d1740a89ec52cd6d4a4271c525b4e0af906c67379e6&",
-      "https://cdn.discordapp.com/attachments/1461781393125412999/1552444820713111623/IMG-20260923-WA0286.jpg?ex=6ab64b28&is=6ab4f9a8&hm=934d7d91be88687dea2da83a9db02091642974cd26914cb7ad558428d72948e5&",
-      "https://cdn.discordapp.com/attachments/1461781393125412999/1552444821833252974/IMG-20260923-WA0287.jpg?ex=6ab64b28&is=6ab4f9a8&hm=a09c3cf2ac50e1ba6945c693d2f13944109bf9a644e8e8e3c7939ad78c258dda&"
-     ],
-     "link": "https://discord.com/channels/1461772543269667014/1461781393125412999/1552444822621786162"
-    }
-   ]
-  },
-  {
-   "discordId": "1140549242193186856",
-   "currentUsername": "little_kabanchik",
-   "displayNames": [
-    "Luka"
-   ],
-   "accountCreated": "2023-08-14",
-   "confidence": "medium",
-   "serversAccusing": [
-    "Dream-Market-Place",
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-08-27",
-   "lastReport": "2026-08-30",
-   "evidence": [
-    {
-     "server": "Dream-Market-Place",
-     "channel": "scam-report",
-     "date": "2026-08-30",
-     "by": "dreamglxtch",
-     "text": "hes on scammer list on almost every serv....",
-     "attachments": [],
-     "link": "https://discord.com/channels/948850425141002290/1481601555148050534/1543626825954238475"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-27",
-     "by": "imklauz",
-     "text": "He was already removed from most of the servers, so I honestly don’t know how he’s still even able to scam people. Unfortunately, you’re not the only victim. :emoji_1:",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1542539284857491466"
-    }
-   ]
-  },
-  {
-   "discordId": "980929564089937940",
-   "currentUsername": "weygar",
-   "displayNames": [
-    "!   WEYGAR"
-   ],
-   "accountCreated": "2022-05-30",
-   "confidence": "medium",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 1,
-   "botBanned": false,
-   "firstReport": "2026-04-11",
-   "lastReport": "2026-05-25",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-04-11",
-     "by": "iz.naaky",
-     "text": "@Alphachino trying to scam my friend, with fake sidest, ban him @!   WEYGAR",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/983274544250904576/1492514072099291399/image.png?ex=6ab6748c&is=6ab5230c&hm=1127f37c9e578e0fd5403e13c4a8cb449f610a4dd157676165a882ce1b5f437a&"
-     ],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1492514072854401256"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-05-25",
-     "by": "m.snezzer",
-     "text": "Incase ur done reading your server's scam proof ban him here aswell @!   WEYGAR",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1508560237534248970"
-    }
-   ]
-  },
-  {
-   "discordId": "1243073577742503986",
-   "currentUsername": "gigabyte.kom",
-   "displayNames": [
-    "Twonx"
-   ],
-   "accountCreated": "2024-05-23",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-02-25",
-   "lastReport": "2025-02-25",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-02-25",
-     "by": "mani4565",
-     "text": "You scammed me once, i wont let you steal from me twice.",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344008181096910908"
-    },
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-02-25",
-     "by": "devilzz6467",
-     "text": "Maybe hes , but not scammer like u 🤡",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344008571402321920"
-    },
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-02-25",
-     "by": "devilzz6467",
-     "text": "so, what if he will put the items u will scam it ?",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344009974543683666"
-    }
-   ]
-  },
-  {
    "discordId": "789939300229447720",
    "currentUsername": "panda05982",
    "displayNames": [
@@ -627,593 +669,23 @@
    ],
    "accountCreated": "2020-12-19",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "ABYSS-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 7,
    "firstReport": "2026-04-27",
-   "lastReport": "2026-05-28",
+   "lastReport": "2026-04-27",
    "evidence": [
     {
      "server": "ABYSS-Market",
      "channel": "scammer-proof",
-     "date": "2026-04-27",
-     "by": "rucoyslayer_14662",
+     "timestamp": "2026-04-27T07:41:05.555+00:00",
+     "reportedBy": "rucoyslayer_14662",
      "text": "Why he's in ur friend list if he's scammer @lmpannda",
      "attachments": [],
      "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1498227474138533988"
-    },
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2026-05-27",
-     "by": "rucoyslayer_14662",
-     "text": "Why tag scammer dog?",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1509226808065789962"
-    },
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2026-05-28",
-     "by": "rucoyslayer_14662",
-     "text": "Poor bitch usa dog + scammer",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1509434524868804708"
-    }
-   ]
-  },
-  {
-   "discordId": "1085454924457971712",
-   "currentUsername": "d1mitrije69",
-   "displayNames": [
-    "Dimitrije"
-   ],
-   "accountCreated": "2023-03-15",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-05-04",
-   "lastReport": "2023-05-04",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-05-04",
-     "by": "MEE6",
-     "text": "GG @Dimitrije, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1103577469040201768"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-05-04",
-     "by": "hades052959",
-     "text": "That’s a scam too",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1103601106585665597"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-05-04",
-     "by": "krypton_kr",
-     "text": "It's not about the amount of money.  this scammer can steal 200 million gold from someone else tomorrow",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1103684324995383406"
-    }
-   ]
-  },
-  {
-   "discordId": "1406611666824724601",
-   "currentUsername": "deviousdev404",
-   "displayNames": [
-    "deviousdev404"
-   ],
-   "accountCreated": "2025-08-17",
-   "confidence": "low",
-   "serversAccusing": [
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 2,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-08-11",
-   "lastReport": "2026-08-19",
-   "evidence": [
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-11",
-     "by": "asifbro3053",
-     "text": "@deviousdev404 he is scammer,approved by sidest,abyss and dream glitch middle mans",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1536794203068301352"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-16",
-     "by": "yoinkz._",
-     "text": "Arctic wizard lv 569 is scammer as well",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1538429565897285682"
-    },
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-19",
-     "by": "yoinkz._",
-     "text": "Denial is always a scammer’s first defense. Typical MPGR",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1539573122712477756"
-    }
-   ]
-  },
-  {
-   "discordId": "818958214091636757",
-   "currentUsername": "islam9016",
-   "displayNames": [
-    "Лидер клана .V A Y N. A H."
-   ],
-   "accountCreated": "2021-03-09",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2022-12-07",
-   "lastReport": "2022-12-07",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2022-12-07",
-     "by": "sillygooberjinx",
-     "text": "Everyone say you're a scammer too tho",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1050107945381281935"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2022-12-07",
-     "by": "MEE6",
-     "text": "GG @Лидер клана .V A Y N. A H., you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1050113002042576996"
-    }
-   ]
-  },
-  {
-   "discordId": "620081878837362708",
-   "currentUsername": "casualblink",
-   "displayNames": [
-    "Casual<3"
-   ],
-   "accountCreated": "2019-09-08",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-04-24",
-   "lastReport": "2023-04-24",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-04-24",
-     "by": "MEE6",
-     "text": "GG @Casual<3, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1100057457906163783"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-04-24",
-     "by": "d1mitrije69",
-     "text": "@Casual<3 that is fake mm acc of Fxrex he is warden sama",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1100095372187152394"
-    }
-   ]
-  },
-  {
-   "discordId": "1093383186991554704",
-   "currentUsername": "fortifiedhill_20",
-   "displayNames": [
-    "fortifiedhill_20"
-   ],
-   "accountCreated": "2023-04-06",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-07-02",
-   "lastReport": "2025-01-25",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-07-02",
-     "by": "MEE6",
-     "text": "GG @fortifiedhill_20, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1125144952473649183"
-    },
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-01-25",
-     "by": "wyzoo0175",
-     "text": "@fortifiedhill_20  try scam",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1332667228721512449"
-    }
-   ]
-  },
-  {
-   "discordId": "1377249515018518628",
-   "currentUsername": "noobguyew",
-   "displayNames": [
-    "Ho ho ho nigga"
-   ],
-   "accountCreated": "2025-05-28",
-   "confidence": "low",
-   "serversAccusing": [
-    "Rucoy-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-06-02",
-   "lastReport": "2025-06-02",
-   "evidence": [
-    {
-     "server": "Rucoy-Market",
-     "channel": "scammer-proof",
-     "date": "2025-06-02",
-     "by": "drivetheshadow",
-     "text": "What when I tried @Ho ho ho nigga  to scam",
-     "attachments": [],
-     "link": "https://discord.com/channels/985707520486150186/1375929455628783736/1379078735692824639"
-    },
-    {
-     "server": "Rucoy-Market",
-     "channel": "scammer-proof",
-     "date": "2025-06-02",
-     "by": "drivetheshadow",
-     "text": "Bro I didnt try to scam this man maybe try to scamback u cuz some proofs got to players",
-     "attachments": [],
-     "link": "https://discord.com/channels/985707520486150186/1375929455628783736/1379079433054584933"
-    }
-   ]
-  },
-  {
-   "discordId": "398901202634539018",
-   "currentUsername": "mary_berry97",
-   "displayNames": [
-    "Mary"
-   ],
-   "accountCreated": "2018-01-05",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2024-11-24",
-   "lastReport": "2024-11-24",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2024-11-24",
-     "by": "burnedtodeath.",
-     "text": "@Mary  ban him he is scammer in every server",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1310273009956950076"
-    }
-   ]
-  },
-  {
-   "discordId": "995773841823498360",
-   "currentUsername": "noizy36",
-   "displayNames": [
-    "TheBestNoizy"
-   ],
-   "accountCreated": "2022-07-10",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2024-12-02",
-   "lastReport": "2024-12-02",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2024-12-02",
-     "by": "romanfbi",
-     "text": "Aslında Amiral gibi birisi konu içerisinde olduğu halde nasıl legendden scam yemiş onu anlamaya çalışıyorum",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1313160215901769770"
-    }
-   ]
-  },
-  {
-   "discordId": "1338889274577387676",
-   "currentUsername": "arcanajunment",
-   "displayNames": [
-    "Astro supernova"
-   ],
-   "accountCreated": "2025-02-11",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-02-26",
-   "lastReport": "2025-02-26",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-02-26",
-     "by": "mani4565",
-     "text": "@Astro supernova thats the account he stole items from",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1344420628433866804"
-    }
-   ]
-  },
-  {
-   "discordId": "562810214752059392",
-   "currentUsername": "peligrx",
-   "displayNames": [
-    "Hesneider 💙"
-   ],
-   "accountCreated": "2019-04-03",
-   "confidence": "low",
-   "serversAccusing": [
-    "Rucoy-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-07-11",
-   "lastReport": "2025-07-11",
-   "evidence": [
-    {
-     "server": "Rucoy-Market",
-     "channel": "scammer-proof",
-     "date": "2025-07-11",
-     "by": "legendmofficial",
-     "text": "Yes he scammer new nick lmao",
-     "attachments": [],
-     "link": "https://discord.com/channels/985707520486150186/1375929455628783736/1393342551263678474"
-    }
-   ]
-  },
-  {
-   "discordId": "1319600514614169612",
-   "currentUsername": "imiliviasz",
-   "displayNames": [
-    "Lívia Oliveira❤"
-   ],
-   "accountCreated": "2024-12-20",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-07-19",
-   "lastReport": "2025-07-19",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-07-19",
-     "by": "manes_73",
-     "text": "@Lívia Oliveira❤ This is also fake",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1396149224936181761"
-    }
-   ]
-  },
-  {
-   "discordId": "1244212892858060863",
-   "currentUsername": "ezzpochmak228",
-   "displayNames": [
-    "Walriyana"
-   ],
-   "accountCreated": "2024-05-26",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-08-07",
-   "lastReport": "2025-08-07",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-08-07",
-     "by": "manes_73",
-     "text": "@Walriyana scammer",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1403068988103069736"
-    }
-   ]
-  },
-  {
-   "discordId": "1381300489911668816",
-   "currentUsername": "ply4vca.",
-   "displayNames": [
-    "Ply4vca"
-   ],
-   "accountCreated": "2025-06-08",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 1,
-   "botBanned": false,
-   "firstReport": "2025-12-16",
-   "lastReport": "2025-12-16",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2025-12-16",
-     "by": "louis04578",
-     "text": "@Ply4vca Scammer aka rahul sharma",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1309948238010388481/1450390147639279637/Screenshot_20251216_125754_Discord.jpg?ex=6ab6cc56&is=6ab57ad6&hm=3a8dc86229f0e842fff0966bfe340f59c3b3cb12dc5a46056ee02895e58f5774&"
-     ],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1450390147886616586"
-    }
-   ]
-  },
-  {
-   "discordId": "598463213448986634",
-   "currentUsername": "wredna0",
-   "displayNames": [
-    "WREDNY"
-   ],
-   "accountCreated": "2019-07-10",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-01-16",
-   "lastReport": "2026-01-16",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2026-01-16",
-     "by": "jav.buruclee",
-     "text": "Did he scam you? @WREDNY",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1461688525891047548"
-    }
-   ]
-  },
-  {
-   "discordId": "1449791031607562270",
-   "currentUsername": "zero_ieam",
-   "displayNames": [
-    "ZERO\\Fan"
-   ],
-   "accountCreated": "2025-12-14",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-01-19",
-   "lastReport": "2026-01-19",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-01-19",
-     "by": "h1peron",
-     "text": "@ZERO\\Fan  scamer",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1462795279328612403"
-    }
-   ]
-  },
-  {
-   "discordId": "1143534679555838082",
-   "currentUsername": "jav.buruclee",
-   "displayNames": [
-    "Bogalaf"
-   ],
-   "accountCreated": "2023-08-22",
-   "confidence": "low",
-   "serversAccusing": [
-    "Rucoy-World"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 1,
-   "botBanned": false,
-   "firstReport": "2026-02-17",
-   "lastReport": "2026-02-17",
-   "evidence": [
-    {
-     "server": "Rucoy-World",
-     "channel": "scammer-proofs",
-     "date": "2026-02-17",
-     "by": "scorlyrx7",
-     "text": "fake mm @Bogalaf",
-     "attachments": [
-      "https://cdn.discordapp.com/attachments/1461781393125412999/1473416792964599914/leblanc_fake.png?ex=6ab63192&is=6ab4e012&hm=f5a2f3b05e8142ad7cf4ea032036c44a801c93196b33fd09bcd8268e1ca9aaf6&"
-     ],
-     "link": "https://discord.com/channels/1461772543269667014/1461781393125412999/1473416792826446081"
-    }
-   ]
-  },
-  {
-   "discordId": "537014899121979425",
-   "currentUsername": "causam0rtis",
-   "displayNames": [
-    "CausaM0rtis"
-   ],
-   "accountCreated": "2019-01-21",
-   "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-03-19",
-   "lastReport": "2026-03-19",
-   "evidence": [
-    {
-     "server": "ABYSS-Market",
-     "channel": "scammer-proof",
-     "date": "2026-03-19",
-     "by": "maximum.7799",
-     "text": "Bro wtf then why rucoy making shop acc she stupid thats are visible scam🤣",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1484236115870486619"
     }
    ]
   },
@@ -1225,20 +697,20 @@
    ],
    "accountCreated": "2024-06-02",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-05-12",
    "lastReport": "2026-05-12",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-05-12",
-     "by": "rucoyslayer_14662",
+     "timestamp": "2026-05-12T15:10:51.847+00:00",
+     "reportedBy": "rucoyslayer_14662",
      "text": "@Nihal...  scammer @κlαuzø",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1406537186593083483/1503776480126177330/Screenshot_20260512_203718_Discord.jpg?ex=6ab68efb&is=6ab53d7b&hm=31acdc9951fa4a78a7e5caa33cbc58c086716548b7ed0f204a069f37893a9c76&",
@@ -1256,20 +728,20 @@
    ],
    "accountCreated": "2026-03-16",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "ABYSS-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-05-27",
    "lastReport": "2026-05-27",
    "evidence": [
     {
      "server": "ABYSS-Market",
      "channel": "scammer-proof",
-     "date": "2026-05-27",
-     "by": "panda05982",
+     "timestamp": "2026-05-27T13:32:44.94+00:00",
+     "reportedBy": "panda05982",
      "text": "remind this Indian scammed information @g̸͎l̴̡x̷͜t̶̛x̸̡c̴͓h̷̨.exe  😂 @Hayashi Ryohei",
      "attachments": [],
      "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1509187607341301932"
@@ -1277,30 +749,56 @@
    ]
   },
   {
-   "discordId": "336150705591287819",
-   "currentUsername": "ragingmag",
+   "discordId": "1536302266708135997",
+   "currentUsername": "lightingclouds",
    "displayNames": [
-    "Zay"
+    "Lightning"
    ],
-   "accountCreated": "2017-07-16",
+   "accountCreated": "2026-08-10",
    "confidence": "low",
-   "serversAccusing": [
-    "ABYSS-Market"
-   ],
    "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-07-23",
-   "lastReport": "2026-07-23",
+   "serversAccusing": [
+    "ABYSS-Market",
+    "Europe-Market",
+    "Klauzo-Treasury"
+   ],
+   "proofMessages": 3,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-08-19",
+   "lastReport": "2026-08-19",
    "evidence": [
     {
      "server": "ABYSS-Market",
      "channel": "scammer-proof",
-     "date": "2026-07-23",
-     "by": "devilzz6467",
-     "text": "he's scammer",
-     "attachments": [],
-     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1529822310515605655"
+     "timestamp": "2026-08-19T15:17:47.792+00:00",
+     "reportedBy": "poncingg.zr",
+     "text": "@Lightning scammer",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1309948238010388481/1539654623533473926/IMG_5330.png?ex=6ab6909b&is=6ab53f1b&hm=49f7a80383c996ca197552a78cc64868bddc519edc9a73183369c9f4e09985e8&"
+     ],
+     "link": "https://discord.com/channels/1309917041234280498/1309948238010388481/1539654624129056799"
+    },
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-08-19T15:15:53.196+00:00",
+     "reportedBy": "poncingg.zr",
+     "text": "@Lightning  scammer",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/983274544250904576/1539654142912503808/IMG_5330.png?ex=6ab69029&is=6ab53ea9&hm=ac107997f01b6f4a1319c453616ae65dccede249db7b9322d8fdc594e09010cc&"
+     ],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1539654143478730895"
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "scamming-proof",
+     "timestamp": "2026-08-19T15:17:12.004+00:00",
+     "reportedBy": "poncingg.zr",
+     "text": "@Lightning scammer",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1406537186593083483/1539654473536901211/IMG_5330.png?ex=6ab69077&is=6ab53ef7&hm=0aed97164fed197ea0d09021520743e052b075732558a56b2b450175739341c0&"
+     ],
+     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1539654474023575613"
     }
    ]
   },
@@ -1312,20 +810,20 @@
    ],
    "accountCreated": "2026-02-03",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "ABYSS-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-02-08",
    "lastReport": "2026-02-08",
    "evidence": [
     {
      "server": "ABYSS-Market",
      "channel": "scammers-list",
-     "date": "2026-02-08",
-     "by": "abysswq_",
+     "timestamp": "2026-02-08T13:31:26.424+00:00",
+     "reportedBy": "abysswq_",
      "text": "@Gforce Spy scammer gei",
      "attachments": [],
      "link": "https://discord.com/channels/1309917041234280498/1309947966852694086/1470049388536528927"
@@ -1340,20 +838,20 @@
    ],
    "accountCreated": "2020-08-21",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-06-05",
    "lastReport": "2026-06-05",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-06-05",
-     "by": "javierz_c",
+     "timestamp": "2026-06-05T15:37:00.627+00:00",
+     "reportedBy": "javierz_c",
      "text": "@Javier ban , fake javier",
      "attachments": [],
      "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1512480369549512835"
@@ -1368,23 +866,69 @@
    ],
    "accountCreated": "2023-12-22",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-06-21",
    "lastReport": "2026-06-21",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2026-06-21",
-     "by": "fataldist",
+     "timestamp": "2026-06-21T13:24:21.613+00:00",
+     "reportedBy": "fataldist",
      "text": "@Shaze scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1518245192874987652"
+    }
+   ]
+  },
+  {
+   "discordId": "1086471275435802664",
+   "currentUsername": "lotre_1",
+   "displayNames": [
+    "Just Furıan"
+   ],
+   "accountCreated": "2023-03-18",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "Dream-Market-Place",
+    "Rucoy-World"
+   ],
+   "proofMessages": 2,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-09-23",
+   "lastReport": "2026-09-23",
+   "evidence": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "scam-report",
+     "timestamp": "2026-09-23T22:20:24.502+00:00",
+     "reportedBy": "nicholas.anj",
+     "text": "scammer using a fake account in mm\n@Just Furıan accomplice\nnichalas.anj fake me",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1481601555148050534/1552444550860242974/IMG-20260923-WA0284.jpg?ex=6ab64ae7&is=6ab4f967&hm=ef59e0589b5fa9ba93ee38013d94d86be417a3377ed625ffdaa5ee52c5671a85&",
+      "https://cdn.discordapp.com/attachments/1481601555148050534/1552444551795576892/IMG-20260923-WA0286.jpg?ex=6ab64ae8&is=6ab4f968&hm=61b36e5a7ec79f2cb0bb83aa8906ac6e67045a7f65ef30ee0bdf83d307056e72&",
+      "https://cdn.discordapp.com/attachments/1481601555148050534/1552444552433115187/IMG-20260923-WA0287.jpg?ex=6ab64ae8&is=6ab4f968&hm=7ff11cd6574fe30e86a6e38044e9ae4f03cef3ac2780378fd87f2d81fe3e061a&"
+     ],
+     "link": "https://discord.com/channels/948850425141002290/1481601555148050534/1552444553175375902"
+    },
+    {
+     "server": "Rucoy-World",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-09-23T22:21:28.743+00:00",
+     "reportedBy": "nicholas.anj",
+     "text": "scammer using a fake account in mm\n@Just Furıan accomplice\nnichalas.anj fake me",
+     "attachments": [
+      "https://cdn.discordapp.com/attachments/1461781393125412999/1552444819970990190/IMG-20260923-WA0284.jpg?ex=6ab64b28&is=6ab4f9a8&hm=1e4fc57d8fe8a61aebbb9d1740a89ec52cd6d4a4271c525b4e0af906c67379e6&",
+      "https://cdn.discordapp.com/attachments/1461781393125412999/1552444820713111623/IMG-20260923-WA0286.jpg?ex=6ab64b28&is=6ab4f9a8&hm=934d7d91be88687dea2da83a9db02091642974cd26914cb7ad558428d72948e5&",
+      "https://cdn.discordapp.com/attachments/1461781393125412999/1552444821833252974/IMG-20260923-WA0287.jpg?ex=6ab64b28&is=6ab4f9a8&hm=a09c3cf2ac50e1ba6945c693d2f13944109bf9a644e8e8e3c7939ad78c258dda&"
+     ],
+     "link": "https://discord.com/channels/1461772543269667014/1461781393125412999/1552444822621786162"
     }
    ]
   },
@@ -1396,20 +940,20 @@
    ],
    "accountCreated": "2020-03-21",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-04-11",
    "lastReport": "2026-04-11",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2026-04-11",
-     "by": "iz.naaky",
+     "timestamp": "2026-04-11T13:18:04.539+00:00",
+     "reportedBy": "iz.naaky",
      "text": "@Alphachino trying to scam my friend, with fake sidest, ban him @!   WEYGAR",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1492514072099291399/image.png?ex=6ab6748c&is=6ab5230c&hm=1127f37c9e578e0fd5403e13c4a8cb449f610a4dd157676165a882ce1b5f437a&"
@@ -1426,20 +970,20 @@
    ],
    "accountCreated": "2018-12-28",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-09-18",
    "lastReport": "2025-09-18",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2025-09-18",
-     "by": "dreamglxtch",
+     "timestamp": "2025-09-18T14:42:10.897+00:00",
+     "reportedBy": "dreamglxtch",
      "text": "@Mastu \nMy fake 👆",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1418245726366073015"
@@ -1454,20 +998,20 @@
    ],
    "accountCreated": "2021-02-09",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-10-27",
    "lastReport": "2022-10-27",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-10-27",
-     "by": "altdestino",
+     "timestamp": "2022-10-27T18:27:03.387+00:00",
+     "reportedBy": "altdestino",
      "text": "@Akshin scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1035258344031653950"
@@ -1482,20 +1026,20 @@
    ],
    "accountCreated": "2020-05-11",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-11-14",
    "lastReport": "2022-11-14",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-11-14",
-     "by": "altdestino",
+     "timestamp": "2022-11-14T18:09:20.296+00:00",
+     "reportedBy": "altdestino",
      "text": "@deleted_user073274 scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1041776866685636618"
@@ -1510,20 +1054,20 @@
    ],
    "accountCreated": "2020-01-14",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-11-17",
    "lastReport": "2022-11-17",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-11-17",
-     "by": "Deleted User",
+     "timestamp": "2022-11-17T21:24:46.428+00:00",
+     "reportedBy": "Deleted User",
      "text": "@Tk scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1042913213244768426"
@@ -1538,20 +1082,20 @@
    ],
    "accountCreated": "2023-01-11",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-05-15",
    "lastReport": "2023-05-15",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-05-15",
-     "by": "merch_18",
+     "timestamp": "2023-05-15T02:53:03.342+00:00",
+     "reportedBy": "merch_18",
      "text": "@UwU[🇧🇩] scammer",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1107500867197866014/FB_IMG_1684118715031.jpg?ex=6ab68acf&is=6ab5394f&hm=8c8b6251bbc432c56adfc62fb44e921a9534a91b5a8fdaeddc74c8f09c248da7&",
@@ -1571,20 +1115,20 @@
    ],
    "accountCreated": "2019-12-03",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-07-15",
    "lastReport": "2023-07-15",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-07-15",
-     "by": "Deleted User",
+     "timestamp": "2023-07-15T04:55:36.486+00:00",
+     "reportedBy": "Deleted User",
      "text": "@TheEak scammer yesterday me bought melee tyrant he deleted all messages but weygar know he selled acc to me he recovered acc",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1129637369289650328"
@@ -1599,20 +1143,20 @@
    ],
    "accountCreated": "2020-12-11",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-07-23",
    "lastReport": "2023-07-23",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-07-23",
-     "by": "sam729.11",
+     "timestamp": "2023-07-23T06:37:40.985+00:00",
+     "reportedBy": "sam729.11",
      "text": "@Jshdhs scammer reset my phone",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1132562160225091644"
@@ -1627,20 +1171,20 @@
    ],
    "accountCreated": "2017-12-26",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-10-11",
    "lastReport": "2023-10-11",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-10-11",
-     "by": "hellcaty",
+     "timestamp": "2023-10-11T13:10:46.078+00:00",
+     "reportedBy": "hellcaty",
      "text": "so u agreed you scammer?",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1161652112523001906"
@@ -1655,20 +1199,20 @@
    ],
    "accountCreated": "2023-07-02",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2024-01-23",
    "lastReport": "2024-01-23",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-list",
-     "date": "2024-01-23",
-     "by": "hellcaty",
+     "timestamp": "2024-01-23T13:44:43.812+00:00",
+     "reportedBy": "hellcaty",
      "text": "?ban @☠Rafaelqqer☠ fake hellcaty",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/990201459213750342/1199348997421273118"
@@ -1683,20 +1227,20 @@
    ],
    "accountCreated": "2021-12-23",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-06-09",
    "lastReport": "2025-06-09",
    "evidence": [
     {
      "server": "Rucoy-Market",
      "channel": "scammer-list",
-     "date": "2025-06-09",
-     "by": "ysqlevrai",
+     "timestamp": "2025-06-09T21:54:30.899+00:00",
+     "reportedBy": "ysqlevrai",
      "text": "?ban @Jesiko\nFake weygar",
      "attachments": [],
      "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1381753352194494605"
@@ -1711,20 +1255,20 @@
    ],
    "accountCreated": "2022-09-29",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2024-11-13",
    "lastReport": "2024-11-13",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2024-11-13",
-     "by": "Deleted User",
+     "timestamp": "2024-11-13T11:45:50.517+00:00",
+     "reportedBy": "Deleted User",
      "text": "@Hellcaty get @Bex tf outta here hes a scammer stripped an acc and scammed all 4 accs hes tryna sell @Natu bex is a scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1306223498565521459"
@@ -1732,30 +1276,50 @@
    ]
   },
   {
-   "discordId": "664517810369724417",
-   "currentUsername": "marmagka",
+   "discordId": "466802206998265878",
+   "currentUsername": "alent3711.",
    "displayNames": [
-    "mushroom"
+    "alent"
    ],
-   "accountCreated": "2020-01-08",
+   "accountCreated": "2018-07-12",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
-    "Europe-Market"
+    "Europe-Market",
+    "Rucoy-Market",
+    "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 0,
    "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2022-06-06",
-   "lastReport": "2022-06-06",
+   "replyPingsIgnored": 0,
+   "firstReport": "2024-11-02",
+   "lastReport": "2025-05-24",
    "evidence": [
     {
      "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2022-06-06",
-     "by": "MEE6",
-     "text": "GG @mushroom, you just advanced to level 1!",
+     "channel": "scammer-list",
+     "timestamp": "2024-11-02T20:37:19.148+00:00",
+     "reportedBy": "hellcaty",
+     "text": "?ban @alent **- fake alent**",
      "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/983275120468582430"
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1302370982656348252"
+    },
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:45:54.557+00:00",
+     "reportedBy": "hellcaty",
+     "text": "?ban @alent \nfake alent",
+     "attachments": [],
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937881155309719"
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-11-02T20:35:56.696+00:00",
+     "reportedBy": "hellcaty",
+     "text": "@alent **- fake alent**",
+     "attachments": [],
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1302370636827594752"
     }
    ]
   },
@@ -1767,20 +1331,20 @@
    ],
    "accountCreated": "2022-02-19",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-06-19",
    "lastReport": "2022-06-19",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-06-19",
-     "by": "colasicot",
+     "timestamp": "2022-06-19T13:21:18.601+00:00",
+     "reportedBy": "colasicot",
      "text": "@Eighty One scammer @Nxtzk D' Cria",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/988070977894232164"
@@ -1795,79 +1359,23 @@
    ],
    "accountCreated": "2020-01-19",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-07-16",
    "lastReport": "2022-07-16",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-07-16",
-     "by": "farmforwin",
+     "timestamp": "2022-07-16T22:55:19.455+00:00",
+     "reportedBy": "farmforwin",
      "text": "@Gnaw Tf u have a scammer on loa ? L",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/997999905677246555"
-    }
-   ]
-  },
-  {
-   "discordId": "932076882751520808",
-   "currentUsername": "trenzinho3541",
-   "displayNames": [
-    "TRENZINHO"
-   ],
-   "accountCreated": "2022-01-16",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2022-07-23",
-   "lastReport": "2022-07-23",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2022-07-23",
-     "by": "MEE6",
-     "text": "GG @TRENZINHO, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1000195774254161940"
-    }
-   ]
-  },
-  {
-   "discordId": "547271562085138457",
-   "currentUsername": "crumpsia_retired",
-   "displayNames": [
-    "Crumpsia Retired"
-   ],
-   "accountCreated": "2019-02-19",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2022-11-27",
-   "lastReport": "2022-11-27",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2022-11-27",
-     "by": "MEE6",
-     "text": "GG @Crumpsia Retired, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1046433652910870579"
     }
    ]
   },
@@ -1879,51 +1387,23 @@
    ],
    "accountCreated": "2019-09-19",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-08-11",
    "lastReport": "2022-08-11",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-08-11",
-     "by": "kfc1987",
+     "timestamp": "2022-08-11T08:44:46.252+00:00",
+     "reportedBy": "kfc1987",
      "text": "ban this scamner hes scam me acc with hotmail things @Divinno i have proofs",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1007207941415374908"
-    }
-   ]
-  },
-  {
-   "discordId": "667340777160179714",
-   "currentUsername": "tagimaku",
-   "displayNames": [
-    "Tagimaku"
-   ],
-   "accountCreated": "2020-01-16",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2022-08-17",
-   "lastReport": "2022-08-17",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2022-08-17",
-     "by": "rafaelqqer_6666",
-     "text": "Alr banned",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1009510372639776918"
     }
    ]
   },
@@ -1935,20 +1415,20 @@
    ],
    "accountCreated": "2019-06-14",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-12-06",
    "lastReport": "2022-12-06",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-12-06",
-     "by": "kritibot",
+     "timestamp": "2022-12-06T11:33:26.251+00:00",
+     "reportedBy": "kritibot",
      "text": "@Inv1ngo want Buy kk with mm scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1049649768042872832"
@@ -1963,20 +1443,20 @@
    ],
    "accountCreated": "2022-11-29",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2022-12-26",
    "lastReport": "2022-12-26",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2022-12-26",
-     "by": "thewolf6144",
+     "timestamp": "2022-12-26T14:54:01.271+00:00",
+     "reportedBy": "thewolf6144",
      "text": "@Lyn  scammer bitch",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1056948003887394865"
@@ -1991,20 +1471,20 @@
    ],
    "accountCreated": "2023-01-27",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-01-29",
    "lastReport": "2023-01-29",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-01-29",
-     "by": "Deleted User",
+     "timestamp": "2023-01-29T00:20:18.359+00:00",
+     "reportedBy": "Deleted User",
      "text": "@Fekru is scammer don’t buy his acc he kicked me off it and sighed me off the acc here is the gmail gamerun510@gmail.com",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1069049313688309760"
@@ -2019,20 +1499,20 @@
    ],
    "accountCreated": "2016-12-02",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-01-29",
    "lastReport": "2023-01-29",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-01-29",
-     "by": "bhoyze",
+     "timestamp": "2023-01-29T16:31:59.435+00:00",
+     "reportedBy": "bhoyze",
      "text": "@unknowneed is scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1069293846124564597"
@@ -2047,20 +1527,20 @@
    ],
    "accountCreated": "2022-12-31",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-02-28",
    "lastReport": "2023-02-28",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-02-28",
-     "by": "Deleted User",
+     "timestamp": "2023-02-28T18:08:57.48+00:00",
+     "reportedBy": "Deleted User",
      "text": "These are @🎰 acc and alts don’t trust him he uses them for scam",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1080189884293202003/IMG_2444.png?ex=6ab6b8b9&is=6ab56739&hm=dde0eaf5c3322bd327eea60b44f033c09fb534b4f3e52425f54384a75baef637&",
@@ -2072,58 +1552,39 @@
    ]
   },
   {
-   "discordId": "979063005264351252",
-   "currentUsername": "gero_arias",
+   "discordId": "620081878837362708",
+   "currentUsername": "casualblink",
    "displayNames": [
-    "José chala  Main novaria"
+    "Casual<3"
    ],
-   "accountCreated": "2022-05-25",
+   "accountCreated": "2019-09-08",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 0,
    "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-03-12",
-   "lastReport": "2023-03-12",
+   "replyPingsIgnored": 0,
+   "firstReport": "2023-04-24",
+   "lastReport": "2023-04-24",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-03-12",
-     "by": "MEE6",
-     "text": "GG @José chala  Main novaria, you just advanced to level 1!",
+     "timestamp": "2023-04-24T13:55:36.044+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Casual<3, you just advanced to level 1!",
      "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1084615731930476625"
-    }
-   ]
-  },
-  {
-   "discordId": "1085491804276785212",
-   "currentUsername": "wae5060",
-   "displayNames": [
-    "Wae"
-   ],
-   "accountCreated": "2023-03-15",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-04-02",
-   "lastReport": "2023-04-02",
-   "evidence": [
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1100057457906163783"
+    },
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-04-02",
-     "by": "MEE6",
-     "text": "GG @Wae, you just advanced to level 4!",
+     "timestamp": "2023-04-24T16:26:15.513+00:00",
+     "reportedBy": "d1mitrije69",
+     "text": "@Casual<3 that is fake mm acc of Fxrex he is warden sama",
      "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1091958883381161985"
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1100095372187152394"
     }
    ]
   },
@@ -2135,20 +1596,20 @@
    ],
    "accountCreated": "2023-03-15",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-05-02",
    "lastReport": "2023-05-02",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-05-02",
-     "by": "halerd",
+     "timestamp": "2023-05-02T13:00:55.611+00:00",
+     "reportedBy": "halerd",
      "text": "@uzdiiilekk banned him",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1102942801697722438"
@@ -2156,114 +1617,39 @@
    ]
   },
   {
-   "discordId": "998988807900774472",
-   "currentUsername": "aeumm",
+   "discordId": "1093383186991554704",
+   "currentUsername": "fortifiedhill_20",
    "displayNames": [
-    "Dubdubdubdub"
+    "fortifiedhill_20"
    ],
-   "accountCreated": "2022-07-19",
+   "accountCreated": "2023-04-06",
    "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-05-06",
-   "lastReport": "2023-05-06",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-05-06",
-     "by": "MEE6",
-     "text": "GG @Dubdubdubdub, you just advanced to level 4!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1104470298495025224"
-    }
-   ]
-  },
-  {
-   "discordId": "980836148060500028",
-   "currentUsername": "jacob.56",
-   "displayNames": [
-    "JA"
-   ],
-   "accountCreated": "2022-05-30",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
    "distinctReporters": 1,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-07-02",
-   "lastReport": "2023-07-02",
+   "lastReport": "2025-01-25",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-07-02",
-     "by": "bdjl_geetansh",
-     "text": "This scammer is from turkish 💀",
+     "timestamp": "2023-07-02T19:24:20.852+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @fortifiedhill_20, you just advanced to level 1!",
      "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1125145958381011054"
-    }
-   ]
-  },
-  {
-   "discordId": "1085752828808679494",
-   "currentUsername": "leafzy5672",
-   "displayNames": [
-    "hoody"
-   ],
-   "accountCreated": "2023-03-16",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-07-03",
-   "lastReport": "2023-07-03",
-   "evidence": [
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1125144952473649183"
+    },
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-07-03",
-     "by": "MEE6",
-     "text": "GG @hoody, you just advanced to level 1!",
+     "timestamp": "2025-01-25T11:03:47.087+00:00",
+     "reportedBy": "wyzoo0175",
+     "text": "@fortifiedhill_20  try scam",
      "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1125261395135565854"
-    }
-   ]
-  },
-  {
-   "discordId": "524617211755888670",
-   "currentUsername": "vasco_110",
-   "displayNames": [
-    "Vasco Tabasco"
-   ],
-   "accountCreated": "2018-12-18",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2023-08-05",
-   "lastReport": "2023-08-05",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2023-08-05",
-     "by": "MEE6",
-     "text": "GG @Vasco Tabasco, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1137292774367055872"
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1332667228721512449"
     }
    ]
   },
@@ -2275,20 +1661,20 @@
    ],
    "accountCreated": "2020-12-12",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-08-25",
    "lastReport": "2023-08-25",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-08-25",
-     "by": "Deleted User",
+     "timestamp": "2023-08-25T13:18:51.187+00:00",
+     "reportedBy": "Deleted User",
      "text": "@Nii Kun ❤🇻🇳 scammer",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1144621917127585852/IMG_0790.png.jpg?ex=6ab674bb&is=6ab5233b&hm=67762521070e071d69e52cb6248671b73355c1335886825455787c8e0f31acba&",
@@ -2306,79 +1692,23 @@
    ],
    "accountCreated": "2023-08-25",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-12-22",
    "lastReport": "2023-12-22",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2023-12-22",
-     "by": "dhu213",
+     "timestamp": "2023-12-22T16:35:00.592+00:00",
+     "reportedBy": "dhu213",
      "text": "@kreapx scammer old name rofi",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1187795438003302430"
-    }
-   ]
-  },
-  {
-   "discordId": "1165608070429282395",
-   "currentUsername": "dhu213",
-   "displayNames": [
-    "dhu"
-   ],
-   "accountCreated": "2023-10-22",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2024-01-19",
-   "lastReport": "2024-01-19",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2024-01-19",
-     "by": "MEE6",
-     "text": "GG @dhu, you just advanced to level 4!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1198012552693682186"
-    }
-   ]
-  },
-  {
-   "discordId": "1049403891600597142",
-   "currentUsername": "burqklq.",
-   "displayNames": [
-    "aisburak"
-   ],
-   "accountCreated": "2022-12-05",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2024-08-24",
-   "lastReport": "2024-08-24",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2024-08-24",
-     "by": "MEE6",
-     "text": "GG @aisburak, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1276888815277051934"
     }
    ]
   },
@@ -2390,20 +1720,20 @@
    ],
    "accountCreated": "2017-07-23",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2024-09-12",
    "lastReport": "2024-09-12",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2024-09-12",
-     "by": "umutcinar66",
+     "timestamp": "2024-09-12T11:23:39.678+00:00",
+     "reportedBy": "umutcinar66",
      "text": "@Leblanc scammer",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1283749867860131891/Screenshot_20240912_141619_Discord.jpg?ex=6ab659bb&is=6ab5083b&hm=e852034cd31a025d02ef4c107f21628383bf323fdf51e3aeb0fd891e162f6b99&",
@@ -2421,107 +1751,23 @@
    ],
    "accountCreated": "2017-01-07",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2024-11-13",
    "lastReport": "2024-11-13",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2024-11-13",
-     "by": "Deleted User",
+     "timestamp": "2024-11-13T11:45:50.517+00:00",
+     "reportedBy": "Deleted User",
      "text": "@Hellcaty get @Bex tf outta here hes a scammer stripped an acc and scammed all 4 accs hes tryna sell @Natu bex is a scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1306223498565521459"
-    }
-   ]
-  },
-  {
-   "discordId": "619968966022004737",
-   "currentUsername": "tapiszon",
-   "displayNames": [
-    "Tapiszon"
-   ],
-   "accountCreated": "2019-09-07",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2024-11-20",
-   "lastReport": "2024-11-20",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2024-11-20",
-     "by": "toxicbutyou",
-     "text": "if he dont want use mm its not scammer proof i think",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1308781442012282910"
-    }
-   ]
-  },
-  {
-   "discordId": "1135295594320105613",
-   "currentUsername": "smxreking",
-   "displayNames": [
-    "𝔖𝔪𝔬𝔯𝔢"
-   ],
-   "accountCreated": "2023-07-30",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2024-12-01",
-   "lastReport": "2024-12-01",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2024-12-01",
-     "by": "MEE6",
-     "text": "GG @𝔖𝔪𝔬𝔯𝔢, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1312810776553197670"
-    }
-   ]
-  },
-  {
-   "discordId": "1224848133092147242",
-   "currentUsername": "shop_izho",
-   "displayNames": [
-    "SHOP IZHO"
-   ],
-   "accountCreated": "2024-04-02",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2024-12-26",
-   "lastReport": "2024-12-26",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2024-12-26",
-     "by": "MEE6",
-     "text": "GG @SHOP IZHO, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1321781500223426592"
     }
    ]
   },
@@ -2533,107 +1779,23 @@
    ],
    "accountCreated": "2023-06-21",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-02-08",
    "lastReport": "2025-02-08",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2025-02-08",
-     "by": "louis04578",
+     "timestamp": "2025-02-08T07:04:30.894+00:00",
+     "reportedBy": "louis04578",
      "text": "@FURKAN  bro this @Diddy is rahul Sharma... he scammed using this acc",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1337680444602449942"
-    }
-   ]
-  },
-  {
-   "discordId": "807648858686619678",
-   "currentUsername": "kakoitobotnafamily",
-   "displayNames": [
-    "#𝚄𝚕𝚝𝚛𝚊𝚖𝚖𝚊♡"
-   ],
-   "accountCreated": "2021-02-06",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-02-18",
-   "lastReport": "2025-02-18",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-02-18",
-     "by": "heisenberg_x0",
-     "text": "He is a scammer",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1341466002201907253"
-    }
-   ]
-  },
-  {
-   "discordId": "799372473170132993",
-   "currentUsername": "mituyy.",
-   "displayNames": [
-    "𝐍𝐚𝐦-ı 𝐃𝐢𝐠̆𝐞𝐫 𝐌𝐢𝐭𝐮𝐲"
-   ],
-   "accountCreated": "2021-01-14",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-03-05",
-   "lastReport": "2025-03-05",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-03-05",
-     "by": "agentvsfight",
-     "text": "That's your fault he did not scam.",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1346740317637972030"
-    }
-   ]
-  },
-  {
-   "discordId": "1345636040874004531",
-   "currentUsername": "ice.middleman",
-   "displayNames": [
-    "Ixe"
-   ],
-   "accountCreated": "2025-03-02",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2025-03-04",
-   "lastReport": "2025-03-04",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-03-04",
-     "by": "MEE6",
-     "text": "GG @Ixe, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1346513804263161928"
     }
    ]
   },
@@ -2645,51 +1807,23 @@
    ],
    "accountCreated": "2024-05-27",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-03-23",
    "lastReport": "2025-03-23",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2025-03-23",
-     "by": "yanniebigpensil",
+     "timestamp": "2025-03-23T21:31:01.215+00:00",
+     "reportedBy": "yanniebigpensil",
      "text": "@Kazakh this guy scammer",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1353481186034581646"
-    }
-   ]
-  },
-  {
-   "discordId": "1354971728748613743",
-   "currentUsername": "jecob00917",
-   "displayNames": [
-    "Jecob"
-   ],
-   "accountCreated": "2025-03-28",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2025-04-15",
-   "lastReport": "2025-04-15",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-04-15",
-     "by": "MEE6",
-     "text": "GG @Jecob, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1361618120443297972"
     }
    ]
   },
@@ -2701,20 +1835,20 @@
    ],
    "accountCreated": "2018-07-16",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-05-22",
    "lastReport": "2025-05-22",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2025-05-22",
-     "by": "darkshadow2604",
+     "timestamp": "2025-05-22T18:56:28.864+00:00",
+     "reportedBy": "darkshadow2604",
      "text": "Fake Lightning tried to scam me, didnt work tho.\nScammers:\n@yoczarnuchu @marcin4k.",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1375185566047404042/IMG_7237.png?ex=6ab6c3dc&is=6ab5725c&hm=da07dd1932c3ce8b126d2ac79cee2cb78dde8a8fab05a043073f95b7bf26759c&",
@@ -2733,20 +1867,20 @@
    ],
    "accountCreated": "2018-07-13",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-05-22",
    "lastReport": "2025-05-22",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2025-05-22",
-     "by": "darkshadow2604",
+     "timestamp": "2025-05-22T18:56:28.864+00:00",
+     "reportedBy": "darkshadow2604",
      "text": "Fake Lightning tried to scam me, didnt work tho.\nScammers:\n@yoczarnuchu @marcin4k.",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1375185566047404042/IMG_7237.png?ex=6ab6c3dc&is=6ab5725c&hm=da07dd1932c3ce8b126d2ac79cee2cb78dde8a8fab05a043073f95b7bf26759c&",
@@ -2765,51 +1899,23 @@
    ],
    "accountCreated": "2017-12-15",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-09-16",
    "lastReport": "2026-09-16",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2026-09-16",
-     "by": "delshad20",
+     "timestamp": "2026-09-16T13:14:29.22+00:00",
+     "reportedBy": "delshad20",
      "text": "@sidest scammed my heart",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1549770452505727150"
-    }
-   ]
-  },
-  {
-   "discordId": "578129539071344650",
-   "currentUsername": "bld_kinna",
-   "displayNames": [
-    "BoladoKina"
-   ],
-   "accountCreated": "2019-05-15",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2025-07-30",
-   "lastReport": "2025-07-30",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-07-30",
-     "by": "dreamglxtch",
-     "text": "Its fake Leblanc",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1400107859639009361"
     }
    ]
   },
@@ -2821,20 +1927,20 @@
    ],
    "accountCreated": "2025-03-03",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-08-10",
    "lastReport": "2025-08-10",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2025-08-10",
-     "by": "vooocado",
+     "timestamp": "2025-08-10T03:43:34.106+00:00",
+     "reportedBy": "vooocado",
      "text": "@frosty why there still fake leb in dis server",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1403946854172987505"
@@ -2849,163 +1955,23 @@
    ],
    "accountCreated": "2025-08-19",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-08-22",
    "lastReport": "2025-08-22",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2025-08-22",
-     "by": "roquerucoy",
+     "timestamp": "2025-08-22T18:13:38.504+00:00",
+     "reportedBy": "roquerucoy",
      "text": "@13thGX scam",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1408514469675405343"
-    }
-   ]
-  },
-  {
-   "discordId": "1319315450932236353",
-   "currentUsername": "thanh18520",
-   "displayNames": [
-    "Thana Vendas"
-   ],
-   "accountCreated": "2024-12-19",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2025-09-09",
-   "lastReport": "2025-09-09",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-09-09",
-     "by": "MEE6",
-     "text": "GG @Thana Vendas, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1414973138277634158"
-    }
-   ]
-  },
-  {
-   "discordId": "1406697565109358714",
-   "currentUsername": "itary0912",
-   "displayNames": [
-    "Itary"
-   ],
-   "accountCreated": "2025-08-17",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2025-09-11",
-   "lastReport": "2025-09-11",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-09-11",
-     "by": "MEE6",
-     "text": "GG @Itary, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1415638052935696414"
-    }
-   ]
-  },
-  {
-   "discordId": "1032714334624817195",
-   "currentUsername": "retired_smooth",
-   "displayNames": [
-    "Lonely smooth"
-   ],
-   "accountCreated": "2022-10-20",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2025-12-13",
-   "lastReport": "2025-12-13",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2025-12-13",
-     "by": "MEE6",
-     "text": "GG @Lonely smooth, you just advanced to level 2!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1449435629979963532"
-    }
-   ]
-  },
-  {
-   "discordId": "440815092347699201",
-   "currentUsername": "bhxdoomelee",
-   "displayNames": [
-    "LegionOfMonkey"
-   ],
-   "accountCreated": "2018-05-01",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2026-01-14",
-   "lastReport": "2026-01-14",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-01-14",
-     "by": "MEE6",
-     "text": "GG @LegionOfMonkey, you just advanced to level 3!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1460994332369748144"
-    }
-   ]
-  },
-  {
-   "discordId": "994581240470589580",
-   "currentUsername": "parabdjl",
-   "displayNames": [
-    "Parashar"
-   ],
-   "accountCreated": "2022-07-07",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2026-04-02",
-   "lastReport": "2026-04-02",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-04-02",
-     "by": "MEE6",
-     "text": "GG @Parashar, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1489181395090669679"
     }
    ]
   },
@@ -3017,51 +1983,23 @@
    ],
    "accountCreated": "2021-04-30",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-04-01",
    "lastReport": "2026-04-01",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2026-04-01",
-     "by": "rellskiis",
+     "timestamp": "2026-04-01T20:38:32.677+00:00",
+     "reportedBy": "rellskiis",
      "text": "@𝙰𝙱𝚈𝚂𝚂 scammed my account and sold to @Mrkusa",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1489001041843327106"
-    }
-   ]
-  },
-  {
-   "discordId": "1197226822400745617",
-   "currentUsername": "nanarshito",
-   "displayNames": [
-    "tydon"
-   ],
-   "accountCreated": "2024-01-17",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2026-08-14",
-   "lastReport": "2026-08-14",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-08-14",
-     "by": "MEE6",
-     "text": "GG @tydon, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1537712435736215692"
     }
    ]
   },
@@ -3073,20 +2011,20 @@
    ],
    "accountCreated": "2017-11-16",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-08-14",
    "lastReport": "2026-08-14",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2026-08-14",
-     "by": "nanarshito",
+     "timestamp": "2026-08-14T06:40:13.418+00:00",
+     "reportedBy": "nanarshito",
      "text": "scammer @lomoji",
      "attachments": [],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1537712433316110399"
@@ -3101,81 +2039,25 @@
    ],
    "accountCreated": "2026-03-01",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Europe-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-05-15",
    "lastReport": "2026-05-15",
    "evidence": [
     {
      "server": "Europe-Market",
      "channel": "scammer-proofs",
-     "date": "2026-05-15",
-     "by": "shinzakis",
+     "timestamp": "2026-05-15T08:52:53.282+00:00",
+     "reportedBy": "shinzakis",
      "text": "using fake leblanc @Danny",
      "attachments": [
       "https://cdn.discordapp.com/attachments/983274544250904576/1504768523946295366/Screenshot_2026-05-15-11-51-19-207_com.discord.jpg?ex=6ab63665&is=6ab4e4e5&hm=965212c568135993b7a234288affa8da53f35adba61f12ca83ec429fc3f7eaa8&"
      ],
      "link": "https://discord.com/channels/972502585825173514/983274544250904576/1504768523635920947"
-    }
-   ]
-  },
-  {
-   "discordId": "1461309266374688794",
-   "currentUsername": "droied7272",
-   "displayNames": [
-    "Droied"
-   ],
-   "accountCreated": "2026-01-15",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2026-05-21",
-   "lastReport": "2026-05-21",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-05-21",
-     "by": "MEE6",
-     "text": "GG @Droied, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1507024196100821143"
-    }
-   ]
-  },
-  {
-   "discordId": "721452591451734076",
-   "currentUsername": "uzay_sosisi",
-   "displayNames": [
-    "UzaySosisi"
-   ],
-   "accountCreated": "2020-06-13",
-   "confidence": "low",
-   "serversAccusing": [
-    "Europe-Market"
-   ],
-   "distinctReporters": 0,
-   "proofMessages": 0,
-   "botBanned": true,
-   "firstReport": "2026-08-04",
-   "lastReport": "2026-08-04",
-   "evidence": [
-    {
-     "server": "Europe-Market",
-     "channel": "scammer-proofs",
-     "date": "2026-08-04",
-     "by": "MEE6",
-     "text": "GG @UzaySosisi, you just advanced to level 1!",
-     "attachments": [],
-     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1534242146083668038"
     }
    ]
   },
@@ -3187,20 +2069,20 @@
    ],
    "accountCreated": "2025-08-05",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-09-02",
    "lastReport": "2025-09-02",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "ban-list",
-     "date": "2025-09-02",
-     "by": "drivetheshadow",
+     "timestamp": "2025-09-02T13:45:23.621+00:00",
+     "reportedBy": "drivetheshadow",
      "text": "@Mamedowff  scammer",
      "attachments": [],
      "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1412433229365121124"
@@ -3215,20 +2097,20 @@
    ],
    "accountCreated": "2026-08-10",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-08-16",
    "lastReport": "2026-08-16",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-08-16",
-     "by": "rucoyslayer_14662",
+     "timestamp": "2026-08-16T16:08:08.036+00:00",
+     "reportedBy": "rucoyslayer_14662",
      "text": "@Sveet  Scammer @κlαuzø",
      "attachments": [],
      "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1538580128353751171"
@@ -3243,20 +2125,20 @@
    ],
    "accountCreated": "2018-08-21",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-08-18",
    "lastReport": "2025-08-18",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2025-08-18",
-     "by": "sveetzy",
+     "timestamp": "2025-08-18T15:50:01.669+00:00",
+     "reportedBy": "sveetzy",
      "text": "guys @ram scammed me",
      "attachments": [],
      "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1407028776587755591"
@@ -3271,20 +2153,20 @@
    ],
    "accountCreated": "2021-05-09",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-09-17",
    "lastReport": "2025-09-17",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2025-09-17",
-     "by": "sameson_",
+     "timestamp": "2025-09-17T17:35:07.486+00:00",
+     "reportedBy": "sameson_",
      "text": "@GOOOD BYE 😞 @Deleted User \nScam 30kk",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1406537186593083483/1417926858892251186/Screenshot_20250917_192832.jpg?ex=6ab6b0ca&is=6ab55f4a&hm=dd27a2c82878c37611089b9ad860e7c20b1eb03758af37dbdb879e8b5659a6df&",
@@ -3297,114 +2179,30 @@
    ]
   },
   {
-   "discordId": "552889264468393984",
-   "currentUsername": "hardcoresxpo",
+   "discordId": "1406611666824724601",
+   "currentUsername": "deviousdev404",
    "displayNames": [
-    "تSxpo !"
+    "deviousdev404"
    ],
-   "accountCreated": "2019-03-06",
+   "accountCreated": "2025-08-17",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-01-12",
-   "lastReport": "2026-01-12",
+   "replyPingsIgnored": 2,
+   "firstReport": "2026-08-11",
+   "lastReport": "2026-08-11",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-01-12",
-     "by": "imklauz",
-     "text": "Yeah, he’s a scammer and already on the ban list.",
+     "timestamp": "2026-08-11T17:51:30.267+00:00",
+     "reportedBy": "asifbro3053",
+     "text": "@deviousdev404 he is scammer,approved by sidest,abyss and dream glitch middle mans",
      "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1460235058769301598"
-    }
-   ]
-  },
-  {
-   "discordId": "782278920179286036",
-   "currentUsername": "crissssto",
-   "displayNames": [
-    "Crissssto"
-   ],
-   "accountCreated": "2020-11-28",
-   "confidence": "low",
-   "serversAccusing": [
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-06-03",
-   "lastReport": "2026-06-03",
-   "evidence": [
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-06-03",
-     "by": "rafaelkris",
-     "text": "Yea looks like hes in scammer list",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1511522402574536704"
-    }
-   ]
-  },
-  {
-   "discordId": "956871834526175262",
-   "currentUsername": "nightmares7337",
-   "displayNames": [
-    "Sharper"
-   ],
-   "accountCreated": "2022-03-25",
-   "confidence": "low",
-   "serversAccusing": [
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-07-03",
-   "lastReport": "2026-07-03",
-   "evidence": [
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-07-03",
-     "by": "imklauz",
-     "text": "Sadly, he’s still active across other servers, and people are continuing to get scammed.",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1522577737171079228"
-    }
-   ]
-  },
-  {
-   "discordId": "1081540236942778409",
-   "currentUsername": "asifbro3053",
-   "displayNames": [
-    "Kylen sir"
-   ],
-   "accountCreated": "2023-03-04",
-   "confidence": "low",
-   "serversAccusing": [
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-08-20",
-   "lastReport": "2026-08-20",
-   "evidence": [
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-20",
-     "by": "rafaelkris",
-     "text": "We need the proofs that he actually scammed we have putted a sus role on him for now",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1539830853562007603"
+     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1536794203068301352"
     }
    ]
   },
@@ -3416,51 +2214,23 @@
    ],
    "accountCreated": "2020-05-07",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-08-16",
    "lastReport": "2026-08-16",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-08-16",
-     "by": "rucoyslayer_14662",
+     "timestamp": "2026-08-16T16:08:18.613+00:00",
+     "reportedBy": "rucoyslayer_14662",
      "text": "@GitGod he got scammed by this guy 50kk giveaway gold",
      "attachments": [],
      "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1538580172717031544"
-    }
-   ]
-  },
-  {
-   "discordId": "1441693544648540302",
-   "currentUsername": "yoinkz._",
-   "displayNames": [
-    "Xbow"
-   ],
-   "accountCreated": "2025-11-22",
-   "confidence": "low",
-   "serversAccusing": [
-    "Klauzo-Treasury"
-   ],
-   "distinctReporters": 1,
-   "proofMessages": 0,
-   "botBanned": false,
-   "firstReport": "2026-08-20",
-   "lastReport": "2026-08-20",
-   "evidence": [
-    {
-     "server": "Klauzo-Treasury",
-     "channel": "scamming-proof",
-     "date": "2026-08-20",
-     "by": "deviousdev404",
-     "text": "Denial doesn't even apply here because nobody is denying anything bud and my point is that the guy is making a fake conversation using a level 2 account with a similar name🤣",
-     "attachments": [],
-     "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1539822429667467344"
     }
    ]
   },
@@ -3472,20 +2242,20 @@
    ],
    "accountCreated": "2025-10-28",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Klauzo-Treasury"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2026-09-08",
    "lastReport": "2026-09-08",
    "evidence": [
     {
      "server": "Klauzo-Treasury",
      "channel": "scamming-proof",
-     "date": "2026-09-08",
-     "by": "rafaelkris",
+     "timestamp": "2026-09-08T10:29:23.454+00:00",
+     "reportedBy": "rafaelkris",
      "text": "@Vhon zhaii fake vhon btw",
      "attachments": [],
      "link": "https://discord.com/channels/1350105552155574292/1406537186593083483/1546829801786970163"
@@ -3500,20 +2270,20 @@
    ],
    "accountCreated": "2018-03-11",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-12-30",
    "lastReport": "2025-12-30",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2025-12-30",
-     "by": "hellcaty",
+     "timestamp": "2025-12-30T11:01:30.476+00:00",
+     "reportedBy": "hellcaty",
      "text": "@|| pro DIV || - fake div",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1455516142172114995"
@@ -3528,23 +2298,60 @@
    ],
    "accountCreated": "2023-08-12",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Market"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-05-25",
    "lastReport": "2025-05-25",
    "evidence": [
     {
      "server": "Rucoy-Market",
      "channel": "scammer-list",
-     "date": "2025-05-25",
-     "by": "ysqlevrai",
+     "timestamp": "2025-05-25T08:08:53.904+00:00",
+     "reportedBy": "ysqlevrai",
      "text": "?ban @Umutys \nFake umutys",
      "attachments": [],
      "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376109760994087063"
+    }
+   ]
+  },
+  {
+   "discordId": "1377249515018518628",
+   "currentUsername": "noobguyew",
+   "displayNames": [
+    "Ho ho ho nigga"
+   ],
+   "accountCreated": "2025-05-28",
+   "confidence": "low",
+   "distinctReporters": 1,
+   "serversAccusing": [
+    "Rucoy-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-06-02",
+   "lastReport": "2025-06-02",
+   "evidence": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-06-02T12:46:32.633+00:00",
+     "reportedBy": "drivetheshadow",
+     "text": "What when I tried @Ho ho ho nigga  to scam",
+     "attachments": [],
+     "link": "https://discord.com/channels/985707520486150186/1375929455628783736/1379078735692824639"
+    },
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-proof",
+     "timestamp": "2025-06-02T12:49:18.897+00:00",
+     "reportedBy": "drivetheshadow",
+     "text": "Bro I didnt try to scam this man maybe try to scamback u cuz some proofs got to players",
+     "attachments": [],
+     "link": "https://discord.com/channels/985707520486150186/1375929455628783736/1379079433054584933"
     }
    ]
   },
@@ -3556,20 +2363,20 @@
    ],
    "accountCreated": "2022-10-18",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2024-02-27",
    "lastReport": "2024-02-27",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2024-02-27",
-     "by": "hellcaty",
+     "timestamp": "2024-02-27T05:53:06.952+00:00",
+     "reportedBy": "hellcaty",
      "text": "@Otsako - fake iow xd",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1211913887083929641"
@@ -3584,20 +2391,20 @@
    ],
    "accountCreated": "2023-11-01",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2024-07-22",
    "lastReport": "2024-07-22",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2024-07-22",
-     "by": "barjomi.exe",
+     "timestamp": "2024-07-22T05:24:35.959+00:00",
+     "reportedBy": "barjomi.exe",
      "text": "@Leblanc \nUses other people's screenshots to scammer people\nhttps://discord.com/channels/1036340340245934212/1264713898200662158",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1264815339036741632"
@@ -3612,20 +2419,20 @@
    ],
    "accountCreated": "2025-01-07",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-01-09",
    "lastReport": "2025-01-09",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2025-01-09",
-     "by": "hellcaty",
+     "timestamp": "2025-01-09T13:38:33.632+00:00",
+     "reportedBy": "hellcaty",
      "text": "@Karpy - using fake leblanc",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1326907973464883231"
@@ -3640,20 +2447,20 @@
    ],
    "accountCreated": "2025-07-19",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-07-22",
    "lastReport": "2025-07-22",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2025-07-22",
-     "by": "hellcaty",
+     "timestamp": "2025-07-22T04:32:15.253+00:00",
+     "reportedBy": "hellcaty",
      "text": "@simoss\nTrying fake my vouch\n(i never vouched for him)",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1037013986610249858/1397073735907020840/Screenshot_2025-07-22-07-29-53-195_com.discord-edit.jpg?ex=6ab6a20f&is=6ab5508f&hm=96fd16d46de96f60096b8514b14389a211600ed6116dc8cb5397f31a8df51a0b&",
@@ -3672,20 +2479,20 @@
    ],
    "accountCreated": "2023-02-05",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 1,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-02-05",
    "lastReport": "2023-02-05",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2023-02-05",
-     "by": "kingkovinko",
+     "timestamp": "2023-02-05T10:57:48.926+00:00",
+     "reportedBy": "kingkovinko",
      "text": "@Rares fake Rares",
      "attachments": [
       "https://cdn.discordapp.com/attachments/1037013986610249858/1071746462981029938/Screenshot_2023-02-05-12-56-54-261_com.discord.jpg?ex=6ab653ac&is=6ab5022c&hm=46ab4933f9df96046d434273f84a0a5687550c46cbeb6575f277049ab87233ca&"
@@ -3702,20 +2509,20 @@
    ],
    "accountCreated": "2023-02-03",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2023-09-24",
    "lastReport": "2023-09-24",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2023-09-24",
-     "by": "hellcaty",
+     "timestamp": "2023-09-24T09:02:18.575+00:00",
+     "reportedBy": "hellcaty",
      "text": "X2 fake Rafaelqqer xD\n1) @Deleted User \n2) @I am BATMAN \nBe careful its fake and they 1000000% wants scam",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1155428992208339006"
@@ -3730,23 +2537,695 @@
    ],
    "accountCreated": "2022-04-16",
    "confidence": "low",
+   "distinctReporters": 1,
    "serversAccusing": [
     "Rucoy-Online-Market-Place"
    ],
-   "distinctReporters": 1,
    "proofMessages": 0,
-   "botBanned": false,
+   "replyPingsIgnored": 0,
    "firstReport": "2025-06-01",
    "lastReport": "2025-06-01",
    "evidence": [
     {
      "server": "Rucoy-Online-Market-Place",
      "channel": "scammers-list",
-     "date": "2025-06-01",
-     "by": "toxicbutyou",
+     "timestamp": "2025-06-01T11:32:39.317+00:00",
+     "reportedBy": "toxicbutyou",
      "text": "!ban @Light scammer cousin hrd member",
      "attachments": [],
      "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1378697753152065566"
+    }
+   ]
+  },
+  {
+   "discordId": "818958214091636757",
+   "currentUsername": "islam9016",
+   "displayNames": [
+    "Лидер клана .V A Y N. A H."
+   ],
+   "accountCreated": "2021-03-09",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 4,
+   "firstReport": "2022-12-07",
+   "lastReport": "2022-12-07",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2022-12-07T18:14:09.843+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Лидер клана .V A Y N. A H., you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1050113002042576996"
+    }
+   ]
+  },
+  {
+   "discordId": "664517810369724417",
+   "currentUsername": "marmagka",
+   "displayNames": [
+    "mushroom"
+   ],
+   "accountCreated": "2020-01-08",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2022-06-06",
+   "lastReport": "2022-06-06",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2022-06-06T07:44:17.088+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @mushroom, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/983275120468582430"
+    }
+   ]
+  },
+  {
+   "discordId": "932076882751520808",
+   "currentUsername": "trenzinho3541",
+   "displayNames": [
+    "TRENZINHO"
+   ],
+   "accountCreated": "2022-01-16",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2022-07-23",
+   "lastReport": "2022-07-23",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2022-07-23T00:20:55.321+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @TRENZINHO, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1000195774254161940"
+    }
+   ]
+  },
+  {
+   "discordId": "547271562085138457",
+   "currentUsername": "crumpsia_retired",
+   "displayNames": [
+    "Crumpsia Retired"
+   ],
+   "accountCreated": "2019-02-19",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 2,
+   "firstReport": "2022-11-27",
+   "lastReport": "2022-11-27",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2022-11-27T14:33:44.651+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Crumpsia Retired, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1046433652910870579"
+    }
+   ]
+  },
+  {
+   "discordId": "979063005264351252",
+   "currentUsername": "gero_arias",
+   "displayNames": [
+    "José chala  Main novaria"
+   ],
+   "accountCreated": "2022-05-25",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2023-03-12",
+   "lastReport": "2023-03-12",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2023-03-12T23:15:41.678+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @José chala  Main novaria, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1084615731930476625"
+    }
+   ]
+  },
+  {
+   "discordId": "1085491804276785212",
+   "currentUsername": "wae5060",
+   "displayNames": [
+    "Wae"
+   ],
+   "accountCreated": "2023-03-15",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2023-04-02",
+   "lastReport": "2023-04-02",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2023-04-02T05:34:45.413+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Wae, you just advanced to level 4!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1091958883381161985"
+    }
+   ]
+  },
+  {
+   "discordId": "1085454924457971712",
+   "currentUsername": "d1mitrije69",
+   "displayNames": [
+    "Dimitrije"
+   ],
+   "accountCreated": "2023-03-15",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 4,
+   "firstReport": "2023-05-04",
+   "lastReport": "2023-05-04",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2023-05-04T07:02:52.097+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Dimitrije, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1103577469040201768"
+    }
+   ]
+  },
+  {
+   "discordId": "998988807900774472",
+   "currentUsername": "aeumm",
+   "displayNames": [
+    "Dubdubdubdub"
+   ],
+   "accountCreated": "2022-07-19",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2023-05-06",
+   "lastReport": "2023-05-06",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2023-05-06T18:10:39.227+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Dubdubdubdub, you just advanced to level 4!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1104470298495025224"
+    }
+   ]
+  },
+  {
+   "discordId": "1085752828808679494",
+   "currentUsername": "leafzy5672",
+   "displayNames": [
+    "hoody"
+   ],
+   "accountCreated": "2023-03-16",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 1,
+   "firstReport": "2023-07-03",
+   "lastReport": "2023-07-03",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2023-07-03T03:07:02.946+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @hoody, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1125261395135565854"
+    }
+   ]
+  },
+  {
+   "discordId": "524617211755888670",
+   "currentUsername": "vasco_110",
+   "displayNames": [
+    "Vasco Tabasco"
+   ],
+   "accountCreated": "2018-12-18",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2023-08-05",
+   "lastReport": "2023-08-05",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2023-08-05T07:55:27.287+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Vasco Tabasco, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1137292774367055872"
+    }
+   ]
+  },
+  {
+   "discordId": "1165608070429282395",
+   "currentUsername": "dhu213",
+   "displayNames": [
+    "dhu"
+   ],
+   "accountCreated": "2023-10-22",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 1,
+   "firstReport": "2024-01-19",
+   "lastReport": "2024-01-19",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2024-01-19T21:14:10.559+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @dhu, you just advanced to level 4!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1198012552693682186"
+    }
+   ]
+  },
+  {
+   "discordId": "1049403891600597142",
+   "currentUsername": "burqklq.",
+   "displayNames": [
+    "aisburak"
+   ],
+   "accountCreated": "2022-12-05",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2024-08-24",
+   "lastReport": "2024-08-24",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2024-08-24T13:00:17.009+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @aisburak, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1276888815277051934"
+    }
+   ]
+  },
+  {
+   "discordId": "1135295594320105613",
+   "currentUsername": "smxreking",
+   "displayNames": [
+    "𝔖𝔪𝔬𝔯𝔢"
+   ],
+   "accountCreated": "2023-07-30",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2024-12-01",
+   "lastReport": "2024-12-01",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2024-12-01T16:01:19.975+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @𝔖𝔪𝔬𝔯𝔢, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1312810776553197670"
+    }
+   ]
+  },
+  {
+   "discordId": "1224848133092147242",
+   "currentUsername": "shop_izho",
+   "displayNames": [
+    "SHOP IZHO"
+   ],
+   "accountCreated": "2024-04-02",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 1,
+   "firstReport": "2024-12-26",
+   "lastReport": "2024-12-26",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2024-12-26T10:07:47.166+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @SHOP IZHO, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1321781500223426592"
+    }
+   ]
+  },
+  {
+   "discordId": "1345636040874004531",
+   "currentUsername": "ice.middleman",
+   "displayNames": [
+    "Ixe"
+   ],
+   "accountCreated": "2025-03-02",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-03-04",
+   "lastReport": "2025-03-04",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-03-04T16:05:07.953+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Ixe, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1346513804263161928"
+    }
+   ]
+  },
+  {
+   "discordId": "1354971728748613743",
+   "currentUsername": "jecob00917",
+   "displayNames": [
+    "Jecob"
+   ],
+   "accountCreated": "2025-03-28",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-04-15",
+   "lastReport": "2025-04-15",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-04-15T08:24:17.555+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Jecob, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1361618120443297972"
+    }
+   ]
+  },
+  {
+   "discordId": "1319315450932236353",
+   "currentUsername": "thanh18520",
+   "displayNames": [
+    "Thana Vendas"
+   ],
+   "accountCreated": "2024-12-19",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-09-09",
+   "lastReport": "2025-09-09",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-09-09T13:58:05.095+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Thana Vendas, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1414973138277634158"
+    }
+   ]
+  },
+  {
+   "discordId": "1406697565109358714",
+   "currentUsername": "itary0912",
+   "displayNames": [
+    "Itary"
+   ],
+   "accountCreated": "2025-08-17",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-09-11",
+   "lastReport": "2025-09-11",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-09-11T10:00:13.103+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Itary, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1415638052935696414"
+    }
+   ]
+  },
+  {
+   "discordId": "1032714334624817195",
+   "currentUsername": "retired_smooth",
+   "displayNames": [
+    "Lonely smooth"
+   ],
+   "accountCreated": "2022-10-20",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2025-12-13",
+   "lastReport": "2025-12-13",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2025-12-13T16:19:43.399+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Lonely smooth, you just advanced to level 2!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1449435629979963532"
+    }
+   ]
+  },
+  {
+   "discordId": "440815092347699201",
+   "currentUsername": "bhxdoomelee",
+   "displayNames": [
+    "LegionOfMonkey"
+   ],
+   "accountCreated": "2018-05-01",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-01-14",
+   "lastReport": "2026-01-14",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-01-14T13:49:52.799+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @LegionOfMonkey, you just advanced to level 3!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1460994332369748144"
+    }
+   ]
+  },
+  {
+   "discordId": "994581240470589580",
+   "currentUsername": "parabdjl",
+   "displayNames": [
+    "Parashar"
+   ],
+   "accountCreated": "2022-07-07",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-04-02",
+   "lastReport": "2026-04-02",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-04-02T08:35:12.242+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Parashar, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1489181395090669679"
+    }
+   ]
+  },
+  {
+   "discordId": "1197226822400745617",
+   "currentUsername": "nanarshito",
+   "displayNames": [
+    "tydon"
+   ],
+   "accountCreated": "2024-01-17",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-08-14",
+   "lastReport": "2026-08-14",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-08-14T06:40:13.995+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @tydon, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1537712435736215692"
+    }
+   ]
+  },
+  {
+   "discordId": "1461309266374688794",
+   "currentUsername": "droied7272",
+   "displayNames": [
+    "Droied"
+   ],
+   "accountCreated": "2026-01-15",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-05-21",
+   "lastReport": "2026-05-21",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-05-21T14:16:07.506+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @Droied, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1507024196100821143"
+    }
+   ]
+  },
+  {
+   "discordId": "721452591451734076",
+   "currentUsername": "uzay_sosisi",
+   "displayNames": [
+    "UzaySosisi"
+   ],
+   "accountCreated": "2020-06-13",
+   "confidence": "low",
+   "distinctReporters": 0,
+   "serversAccusing": [
+    "Europe-Market"
+   ],
+   "proofMessages": 0,
+   "replyPingsIgnored": 0,
+   "firstReport": "2026-08-04",
+   "lastReport": "2026-08-04",
+   "evidence": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-proofs",
+     "timestamp": "2026-08-04T16:50:32.467+00:00",
+     "reportedBy": "MEE6",
+     "text": "GG @UzaySosisi, you just advanced to level 1!",
+     "attachments": [],
+     "link": "https://discord.com/channels/972502585825173514/983274544250904576/1534242146083668038"
     }
    ]
   }
