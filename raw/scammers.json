@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "1461772543269667014",
+    "name": "Rucoy World",
+    "iconUrl": "https://cdn.discordapp.com/icons/1461772543269667014/052c37c05b2191c744d5502630930bc1.png?size=512"
+  },
+  "channel": {
+    "id": "1461970295563882496",
+    "type": "GuildTextChat",
+    "categoryId": "1461781238007205939",
+    "category": "⛔-Scam",
+    "name": "\uD83D\uDCDB│scammers",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-09-24T20:15:37.9188655+00:00",
+  "messages": [],
+  "messageCount": 0
+}

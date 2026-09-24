@@ -1,0 +1,2301 @@
+{
+  "guild": {
+    "id": "972502585825173514",
+    "name": "Europe Market",
+    "iconUrl": "https://cdn.discordapp.com/icons/972502585825173514/d183b2bed45572f6552463c2a99eca37.png?size=512"
+  },
+  "channel": {
+    "id": "1006454860796932167",
+    "type": "GuildTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "ban",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-09-24T20:08:53.1054561+00:00",
+  "messages": [
+    {
+      "id": "1006456122238062642",
+      "type": "20",
+      "timestamp": "2022-08-09T06:57:18.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456120719704158",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006456230144917564",
+      "type": "20",
+      "timestamp": "2022-08-09T06:57:44.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456228576251985",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006456320607649812",
+      "type": "20",
+      "timestamp": "2022-08-09T06:58:05.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456319051567195",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006456439025446993",
+      "type": "20",
+      "timestamp": "2022-08-09T06:58:34.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456437221896232",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006456642805702737",
+      "type": "20",
+      "timestamp": "2022-08-09T06:59:22.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456641174122558",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006456767326212096",
+      "type": "20",
+      "timestamp": "2022-08-09T06:59:52.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456765732360233",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006456942463561779",
+      "type": "20",
+      "timestamp": "2022-08-09T07:00:34.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006456940890697800",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457147242053704",
+      "type": "20",
+      "timestamp": "2022-08-09T07:01:22.972+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457145593700352",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457239336394754",
+      "type": "20",
+      "timestamp": "2022-08-09T07:01:44.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457237201506394",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457403241398373",
+      "type": "20",
+      "timestamp": "2022-08-09T07:02:24.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457401609814026",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457501950160957",
+      "type": "20",
+      "timestamp": "2022-08-09T07:02:47.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457500272435272",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457620351156274",
+      "type": "20",
+      "timestamp": "2022-08-09T07:03:15.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457618690211890",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457754870886412",
+      "type": "20",
+      "timestamp": "2022-08-09T07:03:47.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457753318994030",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006457848345137213",
+      "type": "20",
+      "timestamp": "2022-08-09T07:04:10.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006457846747115581",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006617814276259860",
+      "type": "20",
+      "timestamp": "2022-08-09T17:39:48.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006617812569165926",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006618013346312302",
+      "type": "20",
+      "timestamp": "2022-08-09T17:40:36.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006618012356444300",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006881120828272730",
+      "type": "20",
+      "timestamp": "2022-08-10T11:06:06.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006881119091822612",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006881435061342239",
+      "type": "20",
+      "timestamp": "2022-08-10T11:07:21.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006881433496850502",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006901935619711046",
+      "type": "20",
+      "timestamp": "2022-08-10T12:28:48.785+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @kirigaia was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006901933891653632",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006902289698672773",
+      "type": "20",
+      "timestamp": "2022-08-10T12:30:13.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006902287848968283",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1006905361099411577",
+      "type": "20",
+      "timestamp": "2022-08-10T12:42:25.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":koyabotOk: @Unknown was banned!",
+      "author": {
+        "id": "276060004262477825",
+        "name": "Koya",
+        "discriminator": "1050",
+        "nickname": "Koya",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1270357965404377251",
+            "name": "Koya",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1006905359014826055",
+        "name": "ban",
+        "user": {
+          "id": "866749947121500210",
+          "name": "otcblater",
+          "discriminator": "0000",
+          "nickname": "Eighty One",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "318482551666769921",
+          "name": "koyabotOk",
+          "code": "koyabotOk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/318482551666769921.png"
+        }
+      ]
+    },
+    {
+      "id": "1007560560080060516",
+      "type": "Default",
+      "timestamp": "2022-08-12T08:05:57.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban ?ban 1004994947251970098",
+      "author": {
+        "id": "701765560924635168",
+        "name": "rafaelqqer_6666",
+        "discriminator": "0000",
+        "nickname": "☠Rafaelqqer☠",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/701765560924635168/c88488a4b360a3ff16a19e3994febec0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1007560584704827423",
+      "type": "Default",
+      "timestamp": "2022-08-12T08:06:02.964+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: **mcquenn#3554 a été banni !** (Raison : Aucune raison fournie)",
+      "author": {
+        "id": "466578580449525760",
+        "name": "RaidProtect",
+        "discriminator": "0418",
+        "nickname": "RaidProtect",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466578580449525760/a_e5a554904d731ddf2f3793053ba6f58f.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1008055300378595348",
+      "type": "Default",
+      "timestamp": "2022-08-13T16:51:52.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@! ★ ◤\uD835\uDC03\uD835\uDC0E\uD835\uDC02\uD835\uDC13\uD835\uDC0E\uD835\uDC11 \uD835\uDC18\uD835\uDC04\uD835\uDC13\uD835\uDC08◢ \uD80C\uDCE0",
+      "author": {
+        "id": "866749947121500210",
+        "name": "otcblater",
+        "discriminator": "0000",
+        "nickname": "Eighty One",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "972503837640372304",
+            "name": "☄️ ● Members",
+            "color": "#11806A",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/866749947121500210/6d3bddb0151b9f992c0adeed1d356d16.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "496387978097197076",
+          "name": "doctor_yeti",
+          "discriminator": "0000",
+          "nickname": "! ★ ◤\uD835\uDC03\uD835\uDC0E\uD835\uDC02\uD835\uDC13\uD835\uDC0E\uD835\uDC11 \uD835\uDC18\uD835\uDC04\uD835\uDC13\uD835\uDC08◢ \uD80C\uDCE0",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/496387978097197076/8bfdf8d3b3162fe5579b9db9a402c971.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1013445102330466425",
+      "type": "Default",
+      "timestamp": "2022-08-28T13:49:01.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: **Low performance#2704 a été banni !** (Raison : Aucune raison fournie)",
+      "author": {
+        "id": "466578580449525760",
+        "name": "RaidProtect",
+        "discriminator": "0418",
+        "nickname": "RaidProtect",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466578580449525760/a_e5a554904d731ddf2f3793053ba6f58f.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1016433567837978694",
+      "type": "Default",
+      "timestamp": "2022-09-05T19:44:06.995+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: **ios#6321 a été banni !** (Raison : Aucune raison fournie)",
+      "author": {
+        "id": "466578580449525760",
+        "name": "RaidProtect",
+        "discriminator": "0418",
+        "nickname": "RaidProtect",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466578580449525760/a_e5a554904d731ddf2f3793053ba6f58f.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1126825988723056712",
+      "type": "Default",
+      "timestamp": "2023-07-07T10:44:11.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ban @Hellcaty",
+      "author": {
+        "id": "701765560924635168",
+        "name": "rafaelqqer_6666",
+        "discriminator": "0000",
+        "nickname": "☠Rafaelqqer☠",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/701765560924635168/c88488a4b360a3ff16a19e3994febec0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1050302387660791878",
+          "name": "hellcaty_",
+          "discriminator": "0000",
+          "nickname": "Hellcaty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1050302387660791878/6f0677f19b3c174c6ce72faa3ffde6d6.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1126825996033740901",
+      "type": "Default",
+      "timestamp": "2023-07-07T10:44:12.869+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "972506878137471050",
+            "name": "MEE6",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/765030df32975c5b23f8dfe86d6ff520.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reason:** Unspecified",
+          "color": "#5BCEF5",
+          "author": {
+            "name": "FearlessFighter#7268 has been banned",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2XxQMkJp0ci7mvhkoh84pJlgMIhOtFEAl5gMOGwVbig/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1050302387660791878/2125589d5a7194030bd538b9fe76322e.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/1050302387660791878/2125589d5a7194030bd538b9fe76322e.png?size=1024"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1126858511071059998",
+      "type": "Default",
+      "timestamp": "2023-07-07T12:53:25.058+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!unban 980929564089937940",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "986526949600006154",
+            "name": "⚜️ ● Trusted Middleman",
+            "color": "#FFCC00",
+            "position": 33
+          },
+          {
+            "id": "973271873821507594",
+            "name": "\uD83D\uDD31 ● Trusted",
+            "color": "#C27C0E",
+            "position": 32
+          },
+          {
+            "id": "972503837640372304",
+            "name": "☄️ ● Members",
+            "color": "#11806A",
+            "position": 25
+          },
+          {
+            "id": "973250869762068531",
+            "name": "\uD83D\uDC79 ● Demon",
+            "color": "#BF0000",
+            "position": 24
+          },
+          {
+            "id": "973258320452415488",
+            "name": "\uD83C\uDF0B ● Lava",
+            "color": "#A86060",
+            "position": 23
+          },
+          {
+            "id": "973258174935232562",
+            "name": "❄️ ● İce",
+            "color": "#BBFFF8",
+            "position": 22
+          },
+          {
+            "id": "973258081238671431",
+            "name": "\uD83D\uDC09 ● Dragon",
+            "color": "#59972D",
+            "position": 21
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1126858514749476874",
+      "type": "Default",
+      "timestamp": "2023-07-07T12:53:25.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "972506878137471050",
+            "name": "MEE6",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/765030df32975c5b23f8dfe86d6ff520.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#5BCEF5",
+          "author": {
+            "name": "weygar is now unbanned",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ZQQW8E4OGC1-2z-4ARpdL3w8G5T4BON5RLZcVarF5Uo/%3Fsize%3D1024/https/cdn.discordapp.com/embed/avatars/0.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/embed/avatars/0.png?size=1024"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1126903251971870740",
+      "type": "20",
+      "timestamp": "2023-07-07T15:51:12.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: The category has been created and the channels has been moved.",
+      "author": {
+        "id": "458276816071950337",
+        "name": "ServerStats",
+        "discriminator": "0197",
+        "nickname": "ServerStats",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          },
+          {
+            "id": "1126903039446499370",
+            "name": "ServerStats",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458276816071950337/c100108f7602bd84ffef257993f77d66.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1126903250872975532",
+        "name": "category create",
+        "user": {
+          "id": "660818635497144333",
+          "name": "hellcaty",
+          "discriminator": "0000",
+          "nickname": "Hellcaty",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "986526949600006154",
+              "name": "⚜️ ● Trusted Middleman",
+              "color": "#FFCC00",
+              "position": 33
+            },
+            {
+              "id": "973271873821507594",
+              "name": "\uD83D\uDD31 ● Trusted",
+              "color": "#C27C0E",
+              "position": 32
+            },
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            },
+            {
+              "id": "973250869762068531",
+              "name": "\uD83D\uDC79 ● Demon",
+              "color": "#BF0000",
+              "position": 24
+            },
+            {
+              "id": "973258320452415488",
+              "name": "\uD83C\uDF0B ● Lava",
+              "color": "#A86060",
+              "position": 23
+            },
+            {
+              "id": "973258174935232562",
+              "name": "❄️ ● İce",
+              "color": "#BBFFF8",
+              "position": 22
+            },
+            {
+              "id": "973258081238671431",
+              "name": "\uD83D\uDC09 ● Dragon",
+              "color": "#59972D",
+              "position": 21
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1126903341478314044",
+      "type": "20",
+      "timestamp": "2023-07-07T15:51:33.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: The bot has turned the **all** counter **on** as a **voice** channel.",
+      "author": {
+        "id": "458276816071950337",
+        "name": "ServerStats",
+        "discriminator": "0197",
+        "nickname": "ServerStats",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          },
+          {
+            "id": "1126903039446499370",
+            "name": "ServerStats",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458276816071950337/c100108f7602bd84ffef257993f77d66.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1126903340341665862",
+        "name": "counter create",
+        "user": {
+          "id": "660818635497144333",
+          "name": "hellcaty",
+          "discriminator": "0000",
+          "nickname": "Hellcaty",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "986526949600006154",
+              "name": "⚜️ ● Trusted Middleman",
+              "color": "#FFCC00",
+              "position": 33
+            },
+            {
+              "id": "973271873821507594",
+              "name": "\uD83D\uDD31 ● Trusted",
+              "color": "#C27C0E",
+              "position": 32
+            },
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            },
+            {
+              "id": "973250869762068531",
+              "name": "\uD83D\uDC79 ● Demon",
+              "color": "#BF0000",
+              "position": 24
+            },
+            {
+              "id": "973258320452415488",
+              "name": "\uD83C\uDF0B ● Lava",
+              "color": "#A86060",
+              "position": 23
+            },
+            {
+              "id": "973258174935232562",
+              "name": "❄️ ● İce",
+              "color": "#BBFFF8",
+              "position": 22
+            },
+            {
+              "id": "973258081238671431",
+              "name": "\uD83D\uDC09 ● Dragon",
+              "color": "#59972D",
+              "position": 21
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1126903403247829124",
+      "type": "20",
+      "timestamp": "2023-07-07T15:51:48.187+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: The bot has turned the **members** counter **on** as a **voice** channel.",
+      "author": {
+        "id": "458276816071950337",
+        "name": "ServerStats",
+        "discriminator": "0197",
+        "nickname": "ServerStats",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          },
+          {
+            "id": "1126903039446499370",
+            "name": "ServerStats",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458276816071950337/c100108f7602bd84ffef257993f77d66.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1126903401528180927",
+        "name": "counter create",
+        "user": {
+          "id": "660818635497144333",
+          "name": "hellcaty",
+          "discriminator": "0000",
+          "nickname": "Hellcaty",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "986526949600006154",
+              "name": "⚜️ ● Trusted Middleman",
+              "color": "#FFCC00",
+              "position": 33
+            },
+            {
+              "id": "973271873821507594",
+              "name": "\uD83D\uDD31 ● Trusted",
+              "color": "#C27C0E",
+              "position": 32
+            },
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            },
+            {
+              "id": "973250869762068531",
+              "name": "\uD83D\uDC79 ● Demon",
+              "color": "#BF0000",
+              "position": 24
+            },
+            {
+              "id": "973258320452415488",
+              "name": "\uD83C\uDF0B ● Lava",
+              "color": "#A86060",
+              "position": 23
+            },
+            {
+              "id": "973258174935232562",
+              "name": "❄️ ● İce",
+              "color": "#BBFFF8",
+              "position": 22
+            },
+            {
+              "id": "973258081238671431",
+              "name": "\uD83D\uDC09 ● Dragon",
+              "color": "#59972D",
+              "position": 21
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1126903469249405021",
+      "type": "20",
+      "timestamp": "2023-07-07T15:52:03.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":white_check_mark: The bot has turned the **bots** counter **on** as a **voice** channel.",
+      "author": {
+        "id": "458276816071950337",
+        "name": "ServerStats",
+        "discriminator": "0197",
+        "nickname": "ServerStats",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          },
+          {
+            "id": "1126903039446499370",
+            "name": "ServerStats",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458276816071950337/c100108f7602bd84ffef257993f77d66.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1126903468108558407",
+        "name": "counter create",
+        "user": {
+          "id": "660818635497144333",
+          "name": "hellcaty",
+          "discriminator": "0000",
+          "nickname": "Hellcaty",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "986526949600006154",
+              "name": "⚜️ ● Trusted Middleman",
+              "color": "#FFCC00",
+              "position": 33
+            },
+            {
+              "id": "973271873821507594",
+              "name": "\uD83D\uDD31 ● Trusted",
+              "color": "#C27C0E",
+              "position": 32
+            },
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            },
+            {
+              "id": "973250869762068531",
+              "name": "\uD83D\uDC79 ● Demon",
+              "color": "#BF0000",
+              "position": 24
+            },
+            {
+              "id": "973258320452415488",
+              "name": "\uD83C\uDF0B ● Lava",
+              "color": "#A86060",
+              "position": 23
+            },
+            {
+              "id": "973258174935232562",
+              "name": "❄️ ● İce",
+              "color": "#BBFFF8",
+              "position": 22
+            },
+            {
+              "id": "973258081238671431",
+              "name": "\uD83D\uDC09 ● Dragon",
+              "color": "#59972D",
+              "position": 21
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+        }
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "✅",
+          "code": "white_check_mark",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+        }
+      ]
+    },
+    {
+      "id": "1276925563617017946",
+      "type": "20",
+      "timestamp": "2024-08-24T15:26:18.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#607D8B",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1126828981577064578",
+            "name": "Dyno",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "972557201044561991",
+            "name": "\uD83E\uDD16 ● Robot",
+            "color": "#607D8B",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***cvte. was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1276925559766515722",
+        "name": "ban",
+        "user": {
+          "id": "981142851981307944",
+          "name": "toxicbutyou",
+          "discriminator": "0000",
+          "nickname": "ToXic",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "972503837640372304",
+              "name": "☄️ ● Members",
+              "color": "#11806A",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/981142851981307944/eedd80acf2b3bdb5a92faf96d31f339b.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 35
+}

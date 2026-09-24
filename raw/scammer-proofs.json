@@ -1,0 +1,5013 @@
+{
+  "guild": {
+    "id": "1461772543269667014",
+    "name": "Rucoy World",
+    "iconUrl": "https://cdn.discordapp.com/icons/1461772543269667014/052c37c05b2191c744d5502630930bc1.png?size=512"
+  },
+  "channel": {
+    "id": "1461781393125412999",
+    "type": "GuildTextChat",
+    "categoryId": "1461781238007205939",
+    "category": "⛔-Scam",
+    "name": "\uD83D\uDEAB│scammer-proofs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-09-24T20:15:45.511745+00:00",
+  "messages": [
+    {
+      "id": "1464507913874702440",
+      "type": "Default",
+      "timestamp": "2026-01-24T06:31:35.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BoSS,♤,『SHelby』  ban these hacked accs",
+      "author": {
+        "id": "1378089559031812168",
+        "name": "legendmofficial",
+        "discriminator": "0000",
+        "nickname": "Legendm",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1378089559031812168/118c527c83d76e3987946a3ec066ddd5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1464509185113723142",
+      "type": "Reply",
+      "timestamp": "2026-01-24T06:36:38.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Show me",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1378089559031812168",
+          "name": "legendmofficial",
+          "discriminator": "0000",
+          "nickname": "Legendm",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1378089559031812168/118c527c83d76e3987946a3ec066ddd5.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1464507913874702440",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1465086154234790197",
+      "type": "Default",
+      "timestamp": "2026-01-25T20:49:19.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1452812160572067902",
+        "name": "stefan_kin_38385",
+        "discriminator": "0000",
+        "nickname": "Stefan_king",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1452812160572067902/377c3a77832cebd116f94a7f06793e4c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1465086150875152657",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086150875152657/Screenshot_20260125_223747_Discord.jpg?ex=6ab6358e&is=6ab4e40e&hm=377e0e5f9f8446e7dbacafd6d36b447bd2b66ad30aff70e8f7a7b29e6260a9ef&",
+          "fileName": "Screenshot_20260125_223747_Discord.jpg",
+          "fileSizeBytes": 107544
+        },
+        {
+          "id": "1465086151215022272",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086151215022272/Screenshot_20260125_223925_Discord.jpg?ex=6ab6358e&is=6ab4e40e&hm=ebd9ab9077ba9ad8c8b653331ed5240da481c0492442ed096815f9deb76569e8&",
+          "fileName": "Screenshot_20260125_223925_Discord.jpg",
+          "fileSizeBytes": 96799
+        },
+        {
+          "id": "1465086151688851628",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086151688851628/Screenshot_20260125_222026_Rucoy_Online.jpg?ex=6ab6358e&is=6ab4e40e&hm=da35076eccd3a646b53f87b776eacba93f135e898da2c135ca6acd1f13e26614&",
+          "fileName": "Screenshot_20260125_222026_Rucoy_Online.jpg",
+          "fileSizeBytes": 131811
+        },
+        {
+          "id": "1465086152477507697",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086152477507697/Screenshot_20260125_222017_Rucoy_Online.jpg?ex=6ab6358e&is=6ab4e40e&hm=01c550275837899e6139177acd0e022b4736993b668ed398e7974ccf6dba445d&",
+          "fileName": "Screenshot_20260125_222017_Rucoy_Online.jpg",
+          "fileSizeBytes": 142215
+        },
+        {
+          "id": "1465086153374961969",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086153374961969/Screenshot_20260125_195841_Rucoy_Online.jpg?ex=6ab6358e&is=6ab4e40e&hm=403e2b6148d6cc3a600a810d79ef41fd23b99fe6e9683f50462ab4f077a12735&",
+          "fileName": "Screenshot_20260125_195841_Rucoy_Online.jpg",
+          "fileSizeBytes": 130070
+        },
+        {
+          "id": "1465086153798717655",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086153798717655/Screenshot_20260125_164213_Rucoy_Online.jpg?ex=6ab6358f&is=6ab4e40f&hm=d229522e1c84fed6cf501000274cab608fcb30de9365808e426ad168fb8b90e6&",
+          "fileName": "Screenshot_20260125_164213_Rucoy_Online.jpg",
+          "fileSizeBytes": 153643
+        },
+        {
+          "id": "1465086154121674975",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1465086154121674975/Screenshot_20260125_164201_Rucoy_Online.jpg?ex=6ab6358f&is=6ab4e40f&hm=be7c9c13ea50f9598ebf554bf0715f93c489abf665ce04c7af06f8492c6fedc2&",
+          "fileName": "Screenshot_20260125_164201_Rucoy_Online.jpg",
+          "fileSizeBytes": 174612
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1194480877904859159",
+              "name": "louis04578",
+              "discriminator": "0000",
+              "nickname": "Im Louis",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1465086613154697392",
+      "type": "Default",
+      "timestamp": "2026-01-25T20:51:08.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Him scamed me",
+      "author": {
+        "id": "1452812160572067902",
+        "name": "stefan_kin_38385",
+        "discriminator": "0000",
+        "nickname": "Stefan_king",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1452812160572067902/377c3a77832cebd116f94a7f06793e4c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468733712127623312",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:23:24.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Stefan_king  bru ...",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1452812160572067902",
+          "name": "stefan_kin_38385",
+          "discriminator": "0000",
+          "nickname": "Stefan_king",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1452812160572067902/377c3a77832cebd116f94a7f06793e4c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468733819195752619",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:23:50.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which server do you play in .. how did you meet him?",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468733869405638852",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:24:02.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He is a known scammer",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468733885608231065",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:24:06.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From na4",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468733938695540778",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:24:18.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He is banned across servers too",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468734618747535443",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:27:00.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1468734619045073071",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1468734619045073071/Screenshot_2026-02-05-03-56-06-03_572064f74bd5f9fa804b05334aa4f912.jpg?ex=6ab64c74&is=6ab4faf4&hm=c0aa062cfcaad796ad0eb88fca12dc71b862e1ad2997b9fe580a2f00b9e0a671&",
+          "fileName": "Screenshot_2026-02-05-03-56-06-03_572064f74bd5f9fa804b05334aa4f912.jpg",
+          "fileSizeBytes": 90890
+        },
+        {
+          "id": "1468734619846180935",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1468734619846180935/Screenshot_2026-02-05-03-56-15-58_572064f74bd5f9fa804b05334aa4f912.jpg?ex=6ab64c75&is=6ab4faf5&hm=344a4d7bea06702f83868cd13d3fad3790a43780e72d8799813c53acab4ae4ec&",
+          "fileName": "Screenshot_2026-02-05-03-56-15-58_572064f74bd5f9fa804b05334aa4f912.jpg",
+          "fileSizeBytes": 46141
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1468734676150522010",
+      "type": "Default",
+      "timestamp": "2026-02-04T22:27:14.565+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Check his mutual servers with you and report in all those servers",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1469014707938525322",
+      "type": "Default",
+      "timestamp": "2026-02-05T16:59:59.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am not banning",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1469014865937957076",
+      "type": "Default",
+      "timestamp": "2026-02-05T17:00:37.016+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have a scammer role on my server.@Im Louis",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1194480877904859159",
+          "name": "louis04578",
+          "discriminator": "0000",
+          "nickname": "Im Louis",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1469015501547114671",
+      "type": "Reply",
+      "timestamp": "2026-02-05T17:03:08.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This guy scammer?",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1194480877904859159",
+          "name": "louis04578",
+          "discriminator": "0000",
+          "nickname": "Im Louis",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1468733712127623312",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1470345163540009154",
+      "type": "Default",
+      "timestamp": "2026-02-09T09:06:44.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1429212817042444501",
+        "name": "radouuu",
+        "discriminator": "0000",
+        "nickname": "Radouuu",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1429212817042444501/d762940e4978936695707a78e6ee7c10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1470344776602615882",
+        "channelId": "1155389797309874256",
+        "guildId": "1151553907546402876"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-02-09T09:05:12.427+00:00",
+        "timestampEdited": null,
+        "content": "@Unknown scammer",
+        "attachments": [
+          {
+            "id": "1470345162449227872",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1470345162449227872/image.png?ex=6ab639a4&is=6ab4e824&hm=c943d8321cb0b24b644fb1f923beadd3831d1c5d28cc68cf404764a6990a8b98&",
+            "fileName": "image.png",
+            "fileSizeBytes": 139098
+          },
+          {
+            "id": "1470345162675847361",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1470345162675847361/image.png?ex=6ab639a4&is=6ab4e824&hm=707d22da1770bc8201706b1604ba54a213764db765d6b3162d16e2b94735355f&",
+            "fileName": "image.png",
+            "fileSizeBytes": 61148
+          },
+          {
+            "id": "1470345162935763125",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1470345162935763125/image.png?ex=6ab639a4&is=6ab4e824&hm=51ad6e834efde0314fbde7d0944a5ed941d6fb282010cf69f8ad3cd8382a2b89&",
+            "fileName": "image.png",
+            "fileSizeBytes": 51362
+          },
+          {
+            "id": "1470345163246276751",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1470345163246276751/image.png?ex=6ab639a4&is=6ab4e824&hm=aafda59888bee162c7886d7e70a47a3fbc12bf24c3f713c9974c892e239a1c54&",
+            "fileName": "image.png",
+            "fileSizeBytes": 9072
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473416792826446081",
+      "type": "Default",
+      "timestamp": "2026-02-17T20:32:18.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fake mm @Bogalaf",
+      "author": {
+        "id": "285776466912739328",
+        "name": "scorlyrx7",
+        "discriminator": "0000",
+        "nickname": "Scorlyrx7",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/285776466912739328/e9c854e6c5b9b481a2ac85375b133c63.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1473416792964599914",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1473416792964599914/leblanc_fake.png?ex=6ab63192&is=6ab4e012&hm=f5a2f3b05e8142ad7cf4ea032036c44a801c93196b33fd09bcd8268e1ca9aaf6&",
+          "fileName": "leblanc_fake.png",
+          "fileSizeBytes": 69046
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1143534679555838082",
+          "name": "jav.buruclee",
+          "discriminator": "0000",
+          "nickname": "Bogalaf",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            },
+            {
+              "id": "1462442920723484702",
+              "name": "\uD83D\uDCDB | Scammer",
+              "color": "#E91E63",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1143534679555838082/f36a532c1bdb9075985e0de045d7b64d.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473540621158580297",
+      "type": "Reply",
+      "timestamp": "2026-02-18T04:44:21.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Done",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "285776466912739328",
+          "name": "scorlyrx7",
+          "discriminator": "0000",
+          "nickname": "Scorlyrx7",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/285776466912739328/e9c854e6c5b9b481a2ac85375b133c63.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1473416792826446081",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1484235271838109757",
+      "type": "Default",
+      "timestamp": "2026-03-19T17:01:04.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fake sidest",
+      "author": {
+        "id": "1173664567168077967",
+        "name": "domagalski._84233",
+        "discriminator": "0000",
+        "nickname": "domagalski",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1173664567168077967/e54de0b94f1946b0cf6eef56d2f858ef.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1484235270747324557",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1484235270747324557/IMG_4960.png?ex=6ab6a8d0&is=6ab55750&hm=537f7764c71144226fd5be17601d5fdc0b486bbe42d4082fb6d07466353ade8a&",
+          "fileName": "IMG_4960.png",
+          "fileSizeBytes": 395888
+        },
+        {
+          "id": "1484235271032803500",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1484235271032803500/IMG_4959.png?ex=6ab6a8d0&is=6ab55750&hm=873cd46e7df9515f1a8f9cfd989652db3fd5b63d9a3607d486b11706606f227f&",
+          "fileName": "IMG_4959.png",
+          "fileSizeBytes": 374994
+        },
+        {
+          "id": "1484235271326273606",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1484235271326273606/IMG_4958.png?ex=6ab6a8d0&is=6ab55750&hm=13a3d4e36320d9b153f0267e4543101c2741aec6d2fa7d43d84c049cbb40aeb1&",
+          "fileName": "IMG_4958.png",
+          "fileSizeBytes": 223940
+        },
+        {
+          "id": "1484235271636779189",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1484235271636779189/IMG_4957.png?ex=6ab6a8d0&is=6ab55750&hm=952a78a56077e2e445551d298ac4deb866886cca7eb06ac1b55358eb7a20a852&",
+          "fileName": "IMG_4957.png",
+          "fileSizeBytes": 366311
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1011582496518971492",
+              "name": "shelby.boss",
+              "discriminator": "0000",
+              "nickname": "BoSS,♤,『SHelby』",
+              "color": "#410000",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1488148984475160821",
+      "type": "Default",
+      "timestamp": "2026-03-30T12:12:46.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":BANpls: @\uD835\uDC74\uD835\uDC82\uD835\uDC99\uD835\uDC8A\uD835\uDC8E\uD835\uDC96\uD835\uDC94 :Warn: This person has scammed me out of 240kk. We had a deal where he was supposed to buy my account for 240kk, and I was promised to receive the Golds after 7 days. However, even after the 7-day period has passed, he is refusing to give me the Golds and not even returned my account either. He is a fraud. I have attached the screenshots below as evidence.\n\nhe made fake proofs with hes alt accounts. scamming in Facebook group name \"Rucoy online market\" dont trust him or in his fake proofs.",
+      "author": {
+        "id": "1464173186785607731",
+        "name": "magical.rai",
+        "discriminator": "0000",
+        "nickname": "MAGICAL \uD83E\uDE84",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1464173186785607731/d649d871bd4e2b14799a661b38f09232.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1488148980570525788",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148980570525788/Screenshot_20260330_152602.jpg?ex=6ab6653d&is=6ab513bd&hm=8997346ce8067443152940c86df28f448571778f00ad58a51ee998fa14efb1ec&",
+          "fileName": "Screenshot_20260330_152602.jpg",
+          "fileSizeBytes": 21888
+        },
+        {
+          "id": "1488148981044215811",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148981044215811/Screenshot_20260330_061634_com.facebook.katana.jpg?ex=6ab6653d&is=6ab513bd&hm=bc94f7a7ce41f3f94c62fc2503f7a0d113ffa3f747f7ec7f270ce1eece1510b7&",
+          "fileName": "Screenshot_20260330_061634_com.facebook.katana.jpg",
+          "fileSizeBytes": 124521
+        },
+        {
+          "id": "1488148981384085716",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148981384085716/Screenshot_20260330_061052_com.facebook.katana.jpg?ex=6ab6653d&is=6ab513bd&hm=a6c75aeed4943a432415d10dcdac434227ccb91614b10776c10963fde94b9443&",
+          "fileName": "Screenshot_20260330_061052_com.facebook.katana.jpg",
+          "fileSizeBytes": 164334
+        },
+        {
+          "id": "1488148981795000440",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148981795000440/Screenshot_20260330_154551.jpg?ex=6ab6653d&is=6ab513bd&hm=8f4ebb33284ebd78b52b0f68b6354886f55ab23ec7f7245cc5c6d3611e5c4a1f&",
+          "fileName": "Screenshot_20260330_154551.jpg",
+          "fileSizeBytes": 50970
+        },
+        {
+          "id": "1488148982126346341",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148982126346341/Screenshot_20260329_225618_edit_45137193255091.jpg?ex=6ab6653d&is=6ab513bd&hm=5ef150cf0a845f4043cc1d3c6ca8482ecd3f105c2fbcd45c1c68b29a7263f82a&",
+          "fileName": "Screenshot_20260329_225618_edit_45137193255091.jpg",
+          "fileSizeBytes": 90286
+        },
+        {
+          "id": "1488148982914879568",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148982914879568/Screenshot_20260329_225728_edit_45048537615000.jpg?ex=6ab6653d&is=6ab513bd&hm=027a10bc2f1e6d629aec1c08fa62c7ab6f8e41b6ea667ad3915b88cffa29092f&",
+          "fileName": "Screenshot_20260329_225728_edit_45048537615000.jpg",
+          "fileSizeBytes": 82235
+        },
+        {
+          "id": "1488148983254745180",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148983254745180/Screenshot_20260329_225709_edit_45081279421766.jpg?ex=6ab6653e&is=6ab513be&hm=47e79f9a577f4acde06d1f924a108bdfe211f08b9816411ef03196a69e7c3fd3&",
+          "fileName": "Screenshot_20260329_225709_edit_45081279421766.jpg",
+          "fileSizeBytes": 71084
+        },
+        {
+          "id": "1488148983644684349",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148983644684349/Screenshot_20260329_231244.jpg?ex=6ab6653e&is=6ab513be&hm=47c3371376b740a8c22e569c5a2ca992539671068418f2386a0f54890df0c43a&",
+          "fileName": "Screenshot_20260329_231244.jpg",
+          "fileSizeBytes": 66013
+        },
+        {
+          "id": "1488148984026497054",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1488148984026497054/Screenshot_20260329_231330.jpg?ex=6ab6653e&is=6ab513be&hm=24778b5d4ee9162f64d91375669c840b118e5c2896349dc714a0d67381b8cbf9&",
+          "fileName": "Screenshot_20260329_231330.jpg",
+          "fileSizeBytes": 92599
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1396924766635688109",
+          "name": "maximum.7799",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDC74\uD835\uDC82\uD835\uDC99\uD835\uDC8A\uD835\uDC8E\uD835\uDC96\uD835\uDC94",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            },
+            {
+              "id": "1462442920723484702",
+              "name": "\uD83D\uDCDB | Scammer",
+              "color": "#E91E63",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1396924766635688109/bbdae13a6c14c30ce59d8db0115e4f07.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "1472926273126006794",
+          "name": "BANpls",
+          "code": "BANpls",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1472926273126006794.png"
+        },
+        {
+          "id": "1472925321434239076",
+          "name": "Warn",
+          "code": "Warn",
+          "isAnimated": true,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1472925321434239076.gif"
+        }
+      ]
+    },
+    {
+      "id": "1492212679354351716",
+      "type": "Default",
+      "timestamp": "2026-04-10T17:20:26.729+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1410402496714772660",
+        "name": "jamuraixix",
+        "discriminator": "0000",
+        "nickname": "JamuraiX",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462442920723484702",
+            "name": "\uD83D\uDCDB | Scammer",
+            "color": "#E91E63",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1492212677039100004",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1492212677039100004/Screenshot_20260410_091019_Chrome.jpg?ex=6ab6ad5a&is=6ab55bda&hm=f042f790a62d727da8851149eca04f5b2751e4d20ca11711348a99b4d343e003&",
+          "fileName": "Screenshot_20260410_091019_Chrome.jpg",
+          "fileSizeBytes": 111222
+        },
+        {
+          "id": "1492212677496406127",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1492212677496406127/Screenshot_20260410_101511_Discord.jpg?ex=6ab6ad5a&is=6ab55bda&hm=f82fd809376a60197c7ad76c4709b9a753d3284d1038565d379b68b5a38fa8e0&",
+          "fileName": "Screenshot_20260410_101511_Discord.jpg",
+          "fileSizeBytes": 139692
+        },
+        {
+          "id": "1492212678079287467",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1492212678079287467/Screenshot_20260410_101523_Discord.jpg?ex=6ab6ad5a&is=6ab55bda&hm=bec10bc219303b2de018de02be4aea1e305b63d4cc157eccbf43b3c00e4a8145&",
+          "fileName": "Screenshot_20260410_101523_Discord.jpg",
+          "fileSizeBytes": 128792
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492212723214450738",
+      "type": "Default",
+      "timestamp": "2026-04-10T17:20:37.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Mr Snezzer",
+      "author": {
+        "id": "1410402496714772660",
+        "name": "jamuraixix",
+        "discriminator": "0000",
+        "nickname": "JamuraiX",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462442920723484702",
+            "name": "\uD83D\uDCDB | Scammer",
+            "color": "#E91E63",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "874921547687673856",
+          "name": "m.snezzer",
+          "discriminator": "0000",
+          "nickname": "Mr Snezzer",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492212724674068541",
+      "type": "Default",
+      "timestamp": "2026-04-10T17:20:37.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@g̸͎l̴̡x̷͜t̶̛x̸̡c̴͓h̷̨.exe",
+      "author": {
+        "id": "1410402496714772660",
+        "name": "jamuraixix",
+        "discriminator": "0000",
+        "nickname": "JamuraiX",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462442920723484702",
+            "name": "\uD83D\uDCDB | Scammer",
+            "color": "#E91E63",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1411657067369861173",
+          "name": "rucoyslayer_14662",
+          "discriminator": "0000",
+          "nickname": "g̸͎l̴̡x̷͜t̶̛x̸̡c̴͓h̷̨.exe",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1411657067369861173/c1ed0efd41f4305d98a726335512596d.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492212786292592883",
+      "type": "Default",
+      "timestamp": "2026-04-10T17:20:52.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Snezzer paid glitch before I could recover the acc",
+      "author": {
+        "id": "1410402496714772660",
+        "name": "jamuraixix",
+        "discriminator": "0000",
+        "nickname": "JamuraiX",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462442920723484702",
+            "name": "\uD83D\uDCDB | Scammer",
+            "color": "#E91E63",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492212830328324097",
+      "type": "Default",
+      "timestamp": "2026-04-10T17:21:02.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "U disable the account",
+      "author": {
+        "id": "1411657067369861173",
+        "name": "rucoyslayer_14662",
+        "discriminator": "0000",
+        "nickname": "g̸͎l̴̡x̷͜t̶̛x̸̡c̴͓h̷̨.exe",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1411657067369861173/c1ed0efd41f4305d98a726335512596d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508338838618112001",
+      "type": "Default",
+      "timestamp": "2026-05-25T05:20:02.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@JamuraiX  banned scammer",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1410402496714772660",
+          "name": "jamuraixix",
+          "discriminator": "0000",
+          "nickname": "JamuraiX",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462442920723484702",
+              "name": "\uD83D\uDCDB | Scammer",
+              "color": "#E91E63",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496556549079183",
+      "type": "Reply",
+      "timestamp": "2026-05-25T15:46:45.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please don't ask for a ban without sending proof \uD83D\uDE4F",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1194480877904859159",
+          "name": "louis04578",
+          "discriminator": "0000",
+          "nickname": "Im Louis",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1508338838618112001",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1508496622160711721",
+      "type": "Reply",
+      "timestamp": "2026-05-25T15:47:01.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He is already banned from top servers",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1508496556549079183",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496839182258247",
+      "type": "Default",
+      "timestamp": "2026-05-25T15:47:52.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1473759856207859925",
+        "channelId": "1099402467449507850",
+        "guildId": "1036340340245934212"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-02-18T19:15:30.854+00:00",
+        "timestampEdited": null,
+        "content": "!ban @JamuraiX",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496860426272858",
+      "type": "Default",
+      "timestamp": "2026-05-25T15:47:58.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hell Caty server yea?",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496892437205194",
+      "type": "Reply",
+      "timestamp": "2026-05-25T15:48:05.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So many servers",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1508496860426272858",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496912200765690",
+      "type": "Default",
+      "timestamp": "2026-05-25T15:48:10.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thts his alt",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496938989912104",
+      "type": "Default",
+      "timestamp": "2026-05-25T15:48:16.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "His main scammer name is infernal",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508496949513425046",
+      "type": "Default",
+      "timestamp": "2026-05-25T15:48:19.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alright Thsnk's",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1194480877904859159",
+              "name": "louis04578",
+              "discriminator": "0000",
+              "nickname": "Im Louis",
+              "color": "#0C415B",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508507146898247772",
+      "type": "Reply",
+      "timestamp": "2026-05-25T16:28:50.528+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wheres the proof dumbass",
+      "author": {
+        "id": "1410402496714772660",
+        "name": "jamuraixix",
+        "discriminator": "0000",
+        "nickname": "JamuraiX",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462442920723484702",
+            "name": "\uD83D\uDCDB | Scammer",
+            "color": "#E91E63",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1194480877904859159",
+          "name": "louis04578",
+          "discriminator": "0000",
+          "nickname": "Im Louis",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1508496622160711721",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508558729346547842",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:53:48.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1508554536053374976",
+        "channelId": "1342962462537809930",
+        "guildId": "1244673362693722142"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-05-25T19:37:08.983+00:00",
+        "timestampEdited": null,
+        "content": "Well since i don't have old proofs i can't really get him banned but here's all that i have in knowledge and in screenshots",
+        "attachments": [
+          {
+            "id": "1508558729358872677",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558729358872677/IMG_20260526_010529.jpg?ex=6ab6d14c&is=6ab57fcc&hm=d61e4c97779f002f14461ee562c8dbb50df6967a0da814fc41d9e7e0c77d0483&",
+            "fileName": "IMG_20260526_010529.jpg",
+            "fileSizeBytes": 111907
+          },
+          {
+            "id": "1508558729627304126",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558729627304126/IMG_20260526_010339.jpg?ex=6ab6d14c&is=6ab57fcc&hm=0d88d7691316615cb1e6cb5af4b6a75b6a8b6ea33caed3bd08fc924f10bc0e67&",
+            "fileName": "IMG_20260526_010339.jpg",
+            "fileSizeBytes": 37158
+          },
+          {
+            "id": "1508558729887612998",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558729887612998/IMG_20260526_010306.jpg?ex=6ab6d14c&is=6ab57fcc&hm=d5b3cef1a4e8ad2bb97160bb9093c12fdb6f157676eae001259c4f19cce6f42c&",
+            "fileName": "IMG_20260526_010306.jpg",
+            "fileSizeBytes": 124315
+          },
+          {
+            "id": "1508558730151727224",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558730151727224/Screenshot_2026_0526_010128.png?ex=6ab6d14c&is=6ab57fcc&hm=d4a2d4ece28ffd5afdfcb2e0b091a9fd0f778cd716dd96950acb73fec8df0a11&",
+            "fileName": "Screenshot_2026_0526_010128.png",
+            "fileSizeBytes": 178247
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508558797428359318",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:54:04.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This guy named rahul was famous in 2020 - 2022 as indian scammer , at that time he made a discord server just to scam people after getting some members , but he failed at that time",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508558875509395547",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:54:23.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1508556220196458586",
+        "channelId": "1342962462537809930",
+        "guildId": "1244673362693722142"
+      },
+      "forwardedMessage": {
+        "timestamp": "2023-04-25T14:51:21.918+00:00",
+        "timestampEdited": null,
+        "content": "",
+        "attachments": [
+          {
+            "id": "1508558875559989279",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558875559989279/Screenshot_2023-04-25-19-37-26.png?ex=6ab6d16f&is=6ab57fef&hm=d11b8f3ac3bd8add324946721885179c2fc93265eced5b90fca7a5cba6b19a62&",
+            "fileName": "Screenshot_2023-04-25-19-37-26.png",
+            "fileSizeBytes": 79631
+          },
+          {
+            "id": "1508558875966570496",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558875966570496/Screenshot_2023-04-25-19-38-30.png?ex=6ab6d16f&is=6ab57fef&hm=ef6d42a1978377be528cb16d1c197dfe0d9879f0f0bf48ca3ed5c5097465faed&",
+            "fileName": "Screenshot_2023-04-25-19-38-30.png",
+            "fileSizeBytes": 137812
+          },
+          {
+            "id": "1508558876516155523",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558876516155523/Screenshot_2023-04-25-19-39-50.png?ex=6ab6d16f&is=6ab57fef&hm=4d994551f4b27b1b0adf7d9558e31a066f1859b9a104933eb39913bc1ca9be2b&",
+            "fileName": "Screenshot_2023-04-25-19-39-50.png",
+            "fileSizeBytes": 188023
+          },
+          {
+            "id": "1508558876956688564",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558876956688564/Screenshot_2023-04-25-20-12-39.png?ex=6ab6d16f&is=6ab57fef&hm=750de7d4397d984785ac8a04ca3f1a1e565dc47c286ddae82cc6515789dd1ff9&",
+            "fileName": "Screenshot_2023-04-25-20-12-39.png",
+            "fileSizeBytes": 127657
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508558919486668871",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:54:34.075+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1508556259278716998",
+        "channelId": "1342962462537809930",
+        "guildId": "1244673362693722142"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-05-25T19:43:59.832+00:00",
+        "timestampEdited": null,
+        "content": "",
+        "attachments": [
+          {
+            "id": "1508558919826411540",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558919826411540/Screenshot_20260526_011330.jpg?ex=6ab6d17a&is=6ab57ffa&hm=84ff61b73314a56cca3776751b19dcd4263f816caf12b67439527264ba36e260&",
+            "fileName": "Screenshot_20260526_011330.jpg",
+            "fileSizeBytes": 152751
+          },
+          {
+            "id": "1508558920111882270",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558920111882270/Screenshot_20260526_011148.jpg?ex=6ab6d17a&is=6ab57ffa&hm=33ebbd31ab465a18430db5390f7ed49661ddb79c9dcb4f14e9b303a35573c51f&",
+            "fileName": "Screenshot_20260526_011148.jpg",
+            "fileSizeBytes": 95408
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508558975254270222",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:54:47.371+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1508556805083758672",
+        "channelId": "1342962462537809930",
+        "guildId": "1244673362693722142"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-05-25T19:46:09.962+00:00",
+        "timestampEdited": null,
+        "content": "",
+        "attachments": [
+          {
+            "id": "1508558975271174326",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508558975271174326/Screenshot_20260526_011510.jpg?ex=6ab6d187&is=6ab58007&hm=9c5e2c9cdd7b901524076abe51c7894ea7b19456788677de51fe6823e56bde21&",
+            "fileName": "Screenshot_20260526_011510.jpg",
+            "fileSizeBytes": 102912
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508558985026867280",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:54:49.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you cany understand those ss well they're in hindi(indian tongue) just ai them or google lens",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508559057642852435",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:55:07.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That fugi and maximus guy was rahul",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508559076865609729",
+      "type": "Default",
+      "timestamp": "2026-05-25T19:55:11.597+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tag : roko26262",
+      "author": {
+        "id": "874921547687673856",
+        "name": "m.snezzer",
+        "discriminator": "0000",
+        "nickname": "Mr Snezzer",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508710328651747460",
+      "type": "Reply",
+      "timestamp": "2026-05-26T05:56:12.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@JamuraiX  ☠️",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "874921547687673856",
+          "name": "m.snezzer",
+          "discriminator": "0000",
+          "nickname": "Mr Snezzer",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/874921547687673856/2567d8377788ede5df8b0616d95db2c6.png?size=512"
+        },
+        {
+          "id": "1410402496714772660",
+          "name": "jamuraixix",
+          "discriminator": "0000",
+          "nickname": "JamuraiX",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462442920723484702",
+              "name": "\uD83D\uDCDB | Scammer",
+              "color": "#E91E63",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1410402496714772660/5d42da6a1c59c5f50810f5b938dc9174.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1508558729346547842",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "☠️",
+          "code": "skull_crossbones",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2620.svg"
+        }
+      ]
+    },
+    {
+      "id": "1508739545263509504",
+      "type": "Default",
+      "timestamp": "2026-05-26T07:52:18.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BoSS,♤,『SHelby』 why didn't you ban the scammer?",
+      "author": {
+        "id": "1194480877904859159",
+        "name": "louis04578",
+        "discriminator": "0000",
+        "nickname": "Im Louis",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508739798515322931",
+      "type": "Reply",
+      "timestamp": "2026-05-26T07:53:18.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDDFF",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1194480877904859159",
+          "name": "louis04578",
+          "discriminator": "0000",
+          "nickname": "Im Louis",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1194480877904859159/4d8bfd7f864080392a3fb5f0e1467766.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1508739545263509504",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDDFF",
+          "code": "moyai",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5ff.svg"
+        }
+      ]
+    },
+    {
+      "id": "1508739922297622638",
+      "type": "Default",
+      "timestamp": "2026-05-26T07:53:48.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1508739922452807800",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1508739922452807800/Screenshot_2026-05-26-11-53-24-306_com.discord-edit.jpg?ex=6ab6d14c&is=6ab57fcc&hm=6a3eb77827c0b9572e0da5af28290a6ae170bb96d051185c7de6ba1644e8dd33&",
+          "fileName": "Screenshot_2026-05-26-11-53-24-306_com.discord-edit.jpg",
+          "fileSizeBytes": 106970
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508739939255320666",
+      "type": "Default",
+      "timestamp": "2026-05-26T07:53:52.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This bad?",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1520993947420463254",
+      "type": "Default",
+      "timestamp": "2026-06-29T03:26:55.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":v",
+      "author": {
+        "id": "594081585557405716",
+        "name": "gc2ps",
+        "discriminator": "0000",
+        "nickname": "Hungry Prytoll",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594081585557405716/20b0f403dcb7b99d24e13d2035730f0d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1520993947198029996",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1520993947198029996/IMG_7476.png?ex=6ab692bf&is=6ab5413f&hm=0c561ff88a9701a9de27647d6e63c9b53c34865e84e4adf4d0e5c73bc7011c22&",
+          "fileName": "IMG_7476.png",
+          "fileSizeBytes": 541653
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1521104824559599676",
+      "type": "Reply",
+      "timestamp": "2026-06-29T10:47:30.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea i know",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "594081585557405716",
+          "name": "gc2ps",
+          "discriminator": "0000",
+          "nickname": "Hungry Prytoll",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/594081585557405716/20b0f403dcb7b99d24e13d2035730f0d.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1520993947420463254",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1521104911671234641",
+      "type": "Default",
+      "timestamp": "2026-06-29T10:47:51.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Role rdy",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525114587244920873",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:20:52.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Scammer kruii",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525114659173040148",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:21:10.007+00:00",
+      "timestampEdited": "2026-07-12T07:31:04.834+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1525114656191152128",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114656191152128/Screenshot_2026-07-10-17-38-01-90.jpg?ex=6ab66735&is=6ab515b5&hm=a9bcea5519e597b06995b819737e8d9b4f5d02f6de3ebf26a4da3b0426eed241&",
+          "fileName": "Screenshot_2026-07-10-17-38-01-90.jpg",
+          "fileSizeBytes": 89935
+        },
+        {
+          "id": "1525114656761315449",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114656761315449/Screenshot_2026-07-10-17-37-54-06.jpg?ex=6ab66735&is=6ab515b5&hm=ebc66d65bd2433f24aaf39c5bee1772dce14bafb77c67d928afdf1a82ccc4a93&",
+          "fileName": "Screenshot_2026-07-10-17-37-54-06.jpg",
+          "fileSizeBytes": 93147
+        },
+        {
+          "id": "1525114657038405732",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114657038405732/Screenshot_2026-07-10-17-37-50-80.jpg?ex=6ab66735&is=6ab515b5&hm=234df6b62a5e985c0a945377f720adf21b2023e077c4e1a67966e11e36f253d1&",
+          "fileName": "Screenshot_2026-07-10-17-37-50-80.jpg",
+          "fileSizeBytes": 82153
+        },
+        {
+          "id": "1525114657369489458",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114657369489458/Screenshot_2026-07-10-17-37-45-00.jpg?ex=6ab66735&is=6ab515b5&hm=a913b037eff8619b0bb71d964cd53576a9372530d4b99b85aebe9543747cf25c&",
+          "fileName": "Screenshot_2026-07-10-17-37-45-00.jpg",
+          "fileSizeBytes": 95008
+        },
+        {
+          "id": "1525114657722073128",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114657722073128/Screenshot_2026-07-10-17-37-04-61.jpg?ex=6ab66735&is=6ab515b5&hm=72cf03690101e96e8473c7ad16d7fb0e4decf15bdbd21973bf68fc8703a0658c&",
+          "fileName": "Screenshot_2026-07-10-17-37-04-61.jpg",
+          "fileSizeBytes": 202464
+        },
+        {
+          "id": "1525114658082521179",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114658082521179/Screenshot_2026-07-10-17-36-57-22.jpg?ex=6ab66735&is=6ab515b5&hm=ee4eb7760d9b61540e109def167d1a288def99056d9c71fa664e4d222e78dd0b&",
+          "fileName": "Screenshot_2026-07-10-17-36-57-22.jpg",
+          "fileSizeBytes": 211449
+        },
+        {
+          "id": "1525114658434846801",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114658434846801/Screenshot_2026-07-10-17-36-52-11.jpg?ex=6ab66735&is=6ab515b5&hm=0dedac0b34273ee9c7a91b6cbf6c0885844d119acc03ac0ec1278aea56929664&",
+          "fileName": "Screenshot_2026-07-10-17-36-52-11.jpg",
+          "fileSizeBytes": 213886
+        },
+        {
+          "id": "1525114658896351352",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1525114658896351352/Screenshot_2026-07-10-17-36-46-33.jpg?ex=6ab66735&is=6ab515b5&hm=39fd03a62a61f17ffe49f2cffbfe6cd063b1532cb66d856c765ed182d9f34c03&",
+          "fileName": "Screenshot_2026-07-10-17-36-46-33.jpg",
+          "fileSizeBytes": 207967
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525120006663180299",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:42:24.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "f",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1316355832341987348",
+          "name": "darkfire_79",
+          "discriminator": "0000",
+          "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525114659173040148",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122285206376538",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:51:28.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I m too much sad",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525120006663180299",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122346594209973",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:51:42.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I m only 200+ player",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122435106472117",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:52:03.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ye",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122522121768970",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:52:24.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "don't trust anyone",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1316355832341987348",
+          "name": "darkfire_79",
+          "discriminator": "0000",
+          "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525122285206376538",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122603335811225",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:52:44.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What can I do now \uD83D\uDE14",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE14",
+          "code": "pensive",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f614.svg"
+        }
+      ]
+    },
+    {
+      "id": "1525122716452262071",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:53:11.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How much did he steal from you?",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1316355832341987348",
+          "name": "darkfire_79",
+          "discriminator": "0000",
+          "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525122603335811225",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122841857757325",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:53:40.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2kk++ items and gold",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525122716452262071",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122899583701104",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:53:54.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "f",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1316355832341987348",
+          "name": "darkfire_79",
+          "discriminator": "0000",
+          "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525122841857757325",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525122947675848795",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:54:06.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BoSS,♤,『SHelby』 bro that's all I have",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525123004483502182",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:54:19.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Write to me in 2 hours.",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525123060779192391",
+      "type": "Reply",
+      "timestamp": "2026-07-10T12:54:33.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't understand",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525123004483502182",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525123229826682990",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:55:13.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2 hours later write to me",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525123276962005023",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:55:24.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oky?",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525123931256913963",
+      "type": "Default",
+      "timestamp": "2026-07-10T12:58:00.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bro u mean I write all these things and send to you?",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525127218647269478",
+      "type": "Reply",
+      "timestamp": "2026-07-10T13:11:04.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nah",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1316355832341987348",
+          "name": "darkfire_79",
+          "discriminator": "0000",
+          "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525123931256913963",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525130770182701207",
+      "type": "Reply",
+      "timestamp": "2026-07-10T13:25:11.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So what I m not understanding",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525127218647269478",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525134145229946910",
+      "type": "Reply",
+      "timestamp": "2026-07-10T13:38:35.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just use the translation",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1316355832341987348",
+          "name": "darkfire_79",
+          "discriminator": "0000",
+          "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525130770182701207",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525134174862839960",
+      "type": "Reply",
+      "timestamp": "2026-07-10T13:38:42.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ".",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525123229826682990",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525134457978486834",
+      "type": "Default",
+      "timestamp": "2026-07-10T13:39:50.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BoSS,♤,『SHelby』 can you tell in simple",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525396244539773049",
+      "type": "Reply",
+      "timestamp": "2026-07-11T07:00:05.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE05",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1396924766635688109",
+          "name": "maximum.7799",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDC74\uD835\uDC82\uD835\uDC99\uD835\uDC8A\uD835\uDC8E\uD835\uDC96\uD835\uDC94",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            },
+            {
+              "id": "1462442920723484702",
+              "name": "\uD83D\uDCDB | Scammer",
+              "color": "#E91E63",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1396924766635688109/bbdae13a6c14c30ce59d8db0115e4f07.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1525394882980614234",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE05",
+          "code": "sweat_smile",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f605.svg"
+        }
+      ]
+    },
+    {
+      "id": "1525788463742451823",
+      "type": "Default",
+      "timestamp": "2026-07-12T08:58:37.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Scammer number",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1525788490632007761",
+      "type": "Default",
+      "timestamp": "2026-07-12T08:58:43.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "60019 16318",
+      "author": {
+        "id": "1316355832341987348",
+        "name": "darkfire_79",
+        "discriminator": "0000",
+        "nickname": "「⪨ʹʹܼ‽┃ᎠᾰR\uD835\uDC24┃‽ܼʹʹ⪩」",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316355832341987348/540e603a526365c48f3b3bd95ead6c46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1533021265437397043",
+      "type": "Default",
+      "timestamp": "2026-08-01T07:59:11.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1314606578858459196",
+        "name": "jimveranjonex",
+        "discriminator": "0000",
+        "nickname": "JimveranJonex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1314606578858459196/3d5ccc2496e1e061086b9206c8164d8e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1533021264132702328",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1533021264132702328/Screenshot_20260801_025510_Rucoy_Online.jpg?ex=6ab6d28f&is=6ab5810f&hm=4464d1e9958dbb17398189ee6d1579a0f0040312a022fe865b9fa859d58442c2&",
+          "fileName": "Screenshot_20260801_025510_Rucoy_Online.jpg",
+          "fileSizeBytes": 268407
+        },
+        {
+          "id": "1533021264611119115",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1533021264611119115/Screenshot_20260801_023728_Discord.jpg?ex=6ab6d28f&is=6ab5810f&hm=35458d5ddaf3cd2e41c35d1e9e9b738ac416d6b32530c2ef12fe61e1c150b2c4&",
+          "fileName": "Screenshot_20260801_023728_Discord.jpg",
+          "fileSizeBytes": 107759
+        },
+        {
+          "id": "1533021264917299220",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1533021264917299220/Screenshot_20260801_021520_Discord.jpg?ex=6ab6d28f&is=6ab5810f&hm=40e492708f4457ee79050d4c4d61fe4a16506bcdff16a1fd7c0ae71f1d4bcea6&",
+          "fileName": "Screenshot_20260801_021520_Discord.jpg",
+          "fileSizeBytes": 90977
+        },
+        {
+          "id": "1533021265265164288",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1533021265265164288/Screenshot_20260723_2333511_Discord.jpg?ex=6ab6d28f&is=6ab5810f&hm=52a656eed875ca6ffc6627fd7ae8cf2dc78619d678f03555125e64829787cd0e&",
+          "fileName": "Screenshot_20260723_2333511_Discord.jpg",
+          "fileSizeBytes": 127286
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1533032075039346790",
+      "type": "Default",
+      "timestamp": "2026-08-01T08:42:09.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "905336043702734911",
+      "author": {
+        "id": "1314606578858459196",
+        "name": "jimveranjonex",
+        "discriminator": "0000",
+        "nickname": "JimveranJonex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1314606578858459196/3d5ccc2496e1e061086b9206c8164d8e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1542469080194220114",
+      "type": "Default",
+      "timestamp": "2026-08-27T09:41:26.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1140549242193186856",
+        "name": "little_kabanchik",
+        "discriminator": "0000",
+        "nickname": "Luka",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1140549242193186856/5f32cd8b65bb6d7c69c57760860d441d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1542467688754839662",
+        "channelId": "1406537186593083483",
+        "guildId": "1350105552155574292"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-08-27T09:35:54.663+00:00",
+        "timestampEdited": null,
+        "content": "scammmed for 400kk",
+        "attachments": [
+          {
+            "id": "1542469079372144670",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1542469079372144670/image.png?ex=6ab641c6&is=6ab4f046&hm=c69f81d0abbfb187bdd4bd19ab24b249414e88029839fab2608632f9e5cb15e4&",
+            "fileName": "image.png",
+            "fileSizeBytes": 506277
+          },
+          {
+            "id": "1542469079875457075",
+            "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1542469079875457075/image.png?ex=6ab641c6&is=6ab4f046&hm=054acb21242557a9f57b0f3fdff45a319479988ec1cb09a5d37f6d00453c0ab7&",
+            "fileName": "image.png",
+            "fileSizeBytes": 400015
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1542470973175890000",
+      "type": "Default",
+      "timestamp": "2026-08-27T09:48:57.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@RoxyYy scammer",
+      "author": {
+        "id": "1140549242193186856",
+        "name": "little_kabanchik",
+        "discriminator": "0000",
+        "nickname": "Luka",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1140549242193186856/5f32cd8b65bb6d7c69c57760860d441d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "432580042518822922",
+          "name": "roiii11",
+          "discriminator": "0000",
+          "nickname": "RoxyYy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/432580042518822922/ec833d7fa2e74a56f50eb79883232424.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1542794278948839445",
+      "type": "Reply",
+      "timestamp": "2026-08-28T07:13:39.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idot",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1140549242193186856",
+          "name": "little_kabanchik",
+          "discriminator": "0000",
+          "nickname": "Luka",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1140549242193186856/5f32cd8b65bb6d7c69c57760860d441d.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1542469080194220114",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552444822621786162",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:21:28.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "scammer using a fake account in mm\n@Just Furıan accomplice\nnichalas.anj fake me",
+      "author": {
+        "id": "266638426567213057",
+        "name": "nicholas.anj",
+        "discriminator": "0000",
+        "nickname": "nicholas/tengu",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1552444819970990190",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1552444819970990190/IMG-20260923-WA0284.jpg?ex=6ab64b28&is=6ab4f9a8&hm=1e4fc57d8fe8a61aebbb9d1740a89ec52cd6d4a4271c525b4e0af906c67379e6&",
+          "fileName": "IMG-20260923-WA0284.jpg",
+          "fileSizeBytes": 32959
+        },
+        {
+          "id": "1552444820713111623",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1552444820713111623/IMG-20260923-WA0286.jpg?ex=6ab64b28&is=6ab4f9a8&hm=934d7d91be88687dea2da83a9db02091642974cd26914cb7ad558428d72948e5&",
+          "fileName": "IMG-20260923-WA0286.jpg",
+          "fileSizeBytes": 90214
+        },
+        {
+          "id": "1552444821833252974",
+          "url": "https://cdn.discordapp.com/attachments/1461781393125412999/1552444821833252974/IMG-20260923-WA0287.jpg?ex=6ab64b28&is=6ab4f9a8&hm=a09c3cf2ac50e1ba6945c693d2f13944109bf9a644e8e8e3c7939ad78c258dda&",
+          "fileName": "IMG-20260923-WA0287.jpg",
+          "fileSizeBytes": 112145
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1086471275435802664",
+          "name": "lotre_1",
+          "discriminator": "0000",
+          "nickname": "Just Furıan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552444831811239947",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:21:30.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BoSS,♤,『SHelby』",
+      "author": {
+        "id": "266638426567213057",
+        "name": "nicholas.anj",
+        "discriminator": "0000",
+        "nickname": "nicholas/tengu",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552444871892144129",
+      "type": "Reply",
+      "timestamp": "2026-09-23T22:21:40.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266638426567213057",
+          "name": "nicholas.anj",
+          "discriminator": "0000",
+          "nickname": "nicholas/tengu",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1552444822621786162",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552444901201940532",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:21:47.478+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh your fake?",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445055275499562",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:22:24.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tysm @nicholas/tengu  \uD83E\uDEF6",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266638426567213057",
+          "name": "nicholas.anj",
+          "discriminator": "0000",
+          "nickname": "nicholas/tengu",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445098917236809",
+      "type": "Reply",
+      "timestamp": "2026-09-23T22:22:34.617+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He created it himself in an attempt to pull off a scam",
+      "author": {
+        "id": "266638426567213057",
+        "name": "nicholas.anj",
+        "discriminator": "0000",
+        "nickname": "nicholas/tengu",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFF3️‍\uD83C\uDF08",
+            "code": "rainbow_flag",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3f3-fe0f-200d-1f308.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1011582496518971492",
+              "name": "shelby.boss",
+              "discriminator": "0000",
+              "nickname": "BoSS,♤,『SHelby』",
+              "color": "#410000",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1011582496518971492",
+          "name": "shelby.boss",
+          "discriminator": "0000",
+          "nickname": "BoSS,♤,『SHelby』",
+          "color": "#410000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786656301645966",
+              "name": "\uD83D\uDC51 | Owner",
+              "color": "#410000",
+              "position": 9
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1552444901201940532",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445147948515339",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:22:46.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE2D",
+      "author": {
+        "id": "266638426567213057",
+        "name": "nicholas.anj",
+        "discriminator": "0000",
+        "nickname": "nicholas/tengu",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE2D",
+          "code": "sob",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1552445198494081037",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:22:58.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "xd",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445230081646716",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:23:05.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I believe it's the same one that uses the Lightning fake",
+      "author": {
+        "id": "266638426567213057",
+        "name": "nicholas.anj",
+        "discriminator": "0000",
+        "nickname": "nicholas/tengu",
+        "color": "#0C415B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFF3️‍\uD83C\uDF08",
+            "code": "rainbow_flag",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3f3-fe0f-200d-1f308.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1011582496518971492",
+              "name": "shelby.boss",
+              "discriminator": "0000",
+              "nickname": "BoSS,♤,『SHelby』",
+              "color": "#410000",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445336235016253",
+      "type": "Reply",
+      "timestamp": "2026-09-23T22:23:31.198+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yea",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266638426567213057",
+          "name": "nicholas.anj",
+          "discriminator": "0000",
+          "nickname": "nicholas/tengu",
+          "color": "#0C415B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/266638426567213057/61fc85e3dfeaed7849da80c9c1662270.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1552445230081646716",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445364739768341",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:23:37.994+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gei light",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445466287800373",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:24:02.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Lightning",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "451465963762745351",
+          "name": "lightningclouds",
+          "discriminator": "0000",
+          "nickname": "Lightning",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786907280150609",
+              "name": "\uD83D\uDD31 | Trusted Middleman",
+              "color": "#E74C3C",
+              "position": 7
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            },
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/451465963762745351/fd790db40c30dcf5d01c8aa623334671.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445491827048499",
+      "type": "Reply",
+      "timestamp": "2026-09-23T22:24:08.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Everything is your fault.",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1552445466287800373",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445505668259911",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:24:11.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "xd",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1552445847848091760",
+      "type": "Default",
+      "timestamp": "2026-09-23T22:25:33.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE2D",
+      "author": {
+        "id": "451465963762745351",
+        "name": "lightningclouds",
+        "discriminator": "0000",
+        "nickname": "Lightning",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786907280150609",
+            "name": "\uD83D\uDD31 | Trusted Middleman",
+            "color": "#E74C3C",
+            "position": 7
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          },
+          {
+            "id": "1462425455150760017",
+            "name": "\uD83D\uDC64 | Member",
+            "color": "#0C415B",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/451465963762745351/fd790db40c30dcf5d01c8aa623334671.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE2D",
+          "code": "sob",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1552447382300397608",
+      "type": "Reply",
+      "timestamp": "2026-09-23T22:31:39.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://klipy.com/gifs/dog-crying-meme-doggo-crys",
+      "author": {
+        "id": "1011582496518971492",
+        "name": "shelby.boss",
+        "discriminator": "0000",
+        "nickname": "BoSS,♤,『SHelby』",
+        "color": "#410000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1461786656301645966",
+            "name": "\uD83D\uDC51 | Owner",
+            "color": "#410000",
+            "position": 9
+          },
+          {
+            "id": "1462454691915894906",
+            "name": "✅️ | Trusted",
+            "color": "#2ECC71",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011582496518971492/bb759ce37f2e9f952ca34aa4afd8bb00.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dog Crying Meme: Doggo Crys",
+          "url": "https://klipy.com/gifs/dog-crying-meme-doggo-crys",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YWGebs4fUJwcPTNMqecNhvR0os1O5zmHJsaKq8dgsrc/https/static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/b4/a4/194jLXyc.webp",
+            "canonicalUrl": "https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/b4/a4/194jLXyc.webp",
+            "width": 128,
+            "height": 110
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/6pVaCN2s7-pI59QF54CHeuJkUKT4A1niP8X7crB3WQU/https/static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/b4/a4/ZvK7hxdK.mp4",
+            "canonicalUrl": "https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/b4/a4/ZvK7hxdK.mp4",
+            "width": 128,
+            "height": 110
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "451465963762745351",
+          "name": "lightningclouds",
+          "discriminator": "0000",
+          "nickname": "Lightning",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1461786907280150609",
+              "name": "\uD83D\uDD31 | Trusted Middleman",
+              "color": "#E74C3C",
+              "position": 7
+            },
+            {
+              "id": "1462454691915894906",
+              "name": "✅️ | Trusted",
+              "color": "#2ECC71",
+              "position": 6
+            },
+            {
+              "id": "1462425455150760017",
+              "name": "\uD83D\uDC64 | Member",
+              "color": "#0C415B",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/451465963762745351/fd790db40c30dcf5d01c8aa623334671.png?size=512"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1552445847848091760",
+        "channelId": "1461781393125412999",
+        "guildId": "1461772543269667014"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 96
+}

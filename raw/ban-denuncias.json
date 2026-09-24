@@ -1,0 +1,2343 @@
+{
+  "guild": {
+    "id": "1162207038647054387",
+    "name": "Loja do Bestial",
+    "iconUrl": "https://cdn.discordapp.com/icons/1162207038647054387/a1c2f3c1f42cf55797df363a4cda0027.png?size=512"
+  },
+  "channel": {
+    "id": "1350524929942229153",
+    "type": "GuildTextChat",
+    "categoryId": "1350523467186962534",
+    "category": "｢  Denúncias  ｣",
+    "name": "\uD83D\uDED1⎮ban-mudo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-09-24T20:10:45.8883915+00:00",
+  "messages": [
+    {
+      "id": "1351541792050516018",
+      "type": "20",
+      "timestamp": "2025-03-18T13:04:33.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***937937\\_ was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1351541786555711558",
+        "name": "ban",
+        "user": {
+          "id": "980929564089937940",
+          "name": "weygar",
+          "discriminator": "0000",
+          "nickname": "!   WEYGAR",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/980929564089937940/a_2807bcddd340f3579b297251c8e6aa3a.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353632233608581150",
+      "type": "20",
+      "timestamp": "2025-03-24T07:31:13.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***kxnap1 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1353632230471241768",
+        "name": "ban",
+        "user": {
+          "id": "980929564089937940",
+          "name": "weygar",
+          "discriminator": "0000",
+          "nickname": "!   WEYGAR",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/980929564089937940/a_2807bcddd340f3579b297251c8e6aa3a.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1357132765426094180",
+      "type": "20",
+      "timestamp": "2025-04-02T23:21:05.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***1valievv was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1357132762959843509",
+        "name": "ban",
+        "user": {
+          "id": "980929564089937940",
+          "name": "weygar",
+          "discriminator": "0000",
+          "nickname": "!   WEYGAR",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/980929564089937940/a_2807bcddd340f3579b297251c8e6aa3a.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1357762271811731598",
+      "type": "20",
+      "timestamp": "2025-04-04T17:02:31.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***papaya2938 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1357762269416653031",
+        "name": "ban",
+        "user": {
+          "id": "980929564089937940",
+          "name": "weygar",
+          "discriminator": "0000",
+          "nickname": "!   WEYGAR",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/980929564089937940/a_2807bcddd340f3579b297251c8e6aa3a.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1360242597582344436",
+      "type": "20",
+      "timestamp": "2025-04-11T13:18:27.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***ynxko. was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1360242591815438415",
+        "name": "ban",
+        "user": {
+          "id": "980929564089937940",
+          "name": "weygar",
+          "discriminator": "0000",
+          "nickname": "!   WEYGAR",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/980929564089937940/a_2807bcddd340f3579b297251c8e6aa3a.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1361214660124082336",
+      "type": "20",
+      "timestamp": "2025-04-14T05:41:05.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***sovereignnsun was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2D",
+            "code": "sob",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "1058511617505116180",
+              "name": "always.empty0",
+              "discriminator": "0000",
+              "nickname": "Fear",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1058511617505116180/d837ed18fe2b7deae7835eb249e89862.png?size=512"
+            },
+            {
+              "id": "1213441638047817768",
+              "name": "iannzrn_45022",
+              "discriminator": "0000",
+              "nickname": "Rianezr0x",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1213441638047817768/4ed467367125c19560a87c56294d9ce6.png?size=512"
+            },
+            {
+              "id": "1308545903698640959",
+              "name": "srdarkznx",
+              "discriminator": "0000",
+              "nickname": "BGK",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1308545903698640959/a4cb5b8a549d9fd4fe3f99498019bca8.png?size=512"
+            },
+            {
+              "id": "1367008513015943200",
+              "name": "iago044800",
+              "discriminator": "0000",
+              "nickname": "iagø",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1367008513015943200/4d5b3ace9ca53d83d19063bdcdf6d012.png?size=512"
+            },
+            {
+              "id": "1370554832892727408",
+              "name": "xandao.sola",
+              "discriminator": "0000",
+              "nickname": "Xandao Sola",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1370554832892727408/894a8b7f1c5dd254f2d67f1d04b066db.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD95",
+            "code": "middle_finger",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f595.svg"
+          },
+          "count": 10,
+          "users": [
+            {
+              "id": "894049085600956466",
+              "name": "_dhevon",
+              "discriminator": "0000",
+              "nickname": "TheReisz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/894049085600956466/4d32ca7116e777b0505b700af43917a6.png?size=512"
+            },
+            {
+              "id": "1058511617505116180",
+              "name": "always.empty0",
+              "discriminator": "0000",
+              "nickname": "Fear",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1058511617505116180/d837ed18fe2b7deae7835eb249e89862.png?size=512"
+            },
+            {
+              "id": "1273249990503960650",
+              "name": "cris_jn",
+              "discriminator": "0000",
+              "nickname": "cris_jn",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1273249990503960650/88f539952e596eea9ff99faf90aeb2d9.png?size=512"
+            },
+            {
+              "id": "1308545903698640959",
+              "name": "srdarkznx",
+              "discriminator": "0000",
+              "nickname": "BGK",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1308545903698640959/a4cb5b8a549d9fd4fe3f99498019bca8.png?size=512"
+            },
+            {
+              "id": "1337531515927793684",
+              "name": "mk6770187",
+              "discriminator": "0000",
+              "nickname": "Mk-677",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1337531515927793684/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+            },
+            {
+              "id": "1367008513015943200",
+              "name": "iago044800",
+              "discriminator": "0000",
+              "nickname": "iagø",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1367008513015943200/4d5b3ace9ca53d83d19063bdcdf6d012.png?size=512"
+            },
+            {
+              "id": "1383044051288330273",
+              "name": "dex_xpz",
+              "discriminator": "0000",
+              "nickname": "\uD835\uDD6F\uD835\uDD8A\uD835\uDD9D",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1383044051288330273/82c24f815618700a2a56522432068d96.png?size=512"
+            },
+            {
+              "id": "1387928699231273091",
+              "name": "wwe_golden",
+              "discriminator": "0000",
+              "nickname": "あ┋! Sɴᴏᴡhan",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1387928699231273091/f18d4f1af3f7cb7928ea6eb331fc0f31.png?size=512"
+            },
+            {
+              "id": "1388415117842186293",
+              "name": "temquebanirojunin_87434",
+              "discriminator": "0000",
+              "nickname": "Tem que banir o Junin",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1388415117842186293/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+            },
+            {
+              "id": "1417771804700840026",
+              "name": "dzbgi",
+              "discriminator": "0000",
+              "nickname": "I am Not human",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1417771804700840026/77e3e736b80c26f2abd6e10ffb6c94ba.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1308545903698640959",
+              "name": "srdarkznx",
+              "discriminator": "0000",
+              "nickname": "BGK",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1308545903698640959/a4cb5b8a549d9fd4fe3f99498019bca8.png?size=512"
+            },
+            {
+              "id": "1338601179701051432",
+              "name": "juansebastian06635",
+              "discriminator": "0000",
+              "nickname": "Juan",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1338601179701051432/f129e44e98dde2ca50ea013a1e6adb58.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "interaction": {
+        "id": "1361214656475168788",
+        "name": "ban",
+        "user": {
+          "id": "980929564089937940",
+          "name": "weygar",
+          "discriminator": "0000",
+          "nickname": "!   WEYGAR",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/980929564089937940/a_2807bcddd340f3579b297251c8e6aa3a.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1454130469279895705",
+      "type": "Default",
+      "timestamp": "2025-12-26T15:15:20.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @ZERO\\Fan",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1449791031607562270",
+          "name": "zero_ieam",
+          "discriminator": "0000",
+          "nickname": "ZERO\\Fan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1454130471490420869",
+      "type": "Default",
+      "timestamp": "2025-12-26T15:15:20.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***r.x.h.u.l was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1454170102579724439",
+      "type": "Default",
+      "timestamp": "2025-12-26T17:52:49.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Leblanc",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1448271610523156643",
+          "name": "leblacmid",
+          "discriminator": "0000",
+          "nickname": "Leblanc",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1448271610523156643/623d97bc9a15eccd9a772d8bf9118c1b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1454170105352028416",
+      "type": "Default",
+      "timestamp": "2025-12-26T17:52:50.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***herox\\_17 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1455535417519636753",
+      "type": "Default",
+      "timestamp": "2025-12-30T12:18:06.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @|| pro DIV ||",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "422417909982167042",
+          "name": "div29.07",
+          "discriminator": "0000",
+          "nickname": "|| pro DIV ||",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/422417909982167042/e04ed39f31234cef959d9af6d662468a.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1455535420334014567",
+      "type": "Default",
+      "timestamp": "2025-12-30T12:18:06.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***div29.07 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1458326714076758047",
+      "type": "Default",
+      "timestamp": "2026-01-07T05:09:43.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Leblanc",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1097463789965807626",
+          "name": "leblecmid",
+          "discriminator": "0000",
+          "nickname": "Leblanc",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1097463789965807626/425d94390fcd15cf2182a7dea653d954.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1458326716568043612",
+      "type": "Default",
+      "timestamp": "2026-01-07T05:09:43.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***reaper\\_0076 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1459585732401430760",
+      "type": "Default",
+      "timestamp": "2026-01-10T16:32:36.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Devil",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1171458406884843682",
+          "name": "lucifer02767",
+          "discriminator": "0000",
+          "nickname": "Devil",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1171458406884843682/13d16e8e403eb3d0c41c87008099efcb.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1459585734775144562",
+      "type": "Default",
+      "timestamp": "2026-01-10T16:32:36.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***lucifer02767 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1459837747673038858",
+      "type": "Default",
+      "timestamp": "2026-01-11T09:14:01.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Naruto_0299",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1261166186607935508",
+          "name": "itachi.009._83150",
+          "discriminator": "0000",
+          "nickname": "Naruto_0299",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1261166186607935508/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1459837750269313126",
+      "type": "Default",
+      "timestamp": "2026-01-11T09:14:02.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***itachi.009.\\_83150 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1462827028872036557",
+      "type": "Default",
+      "timestamp": "2026-01-19T15:12:21.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Leblanc",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1462827034572230669",
+      "type": "Default",
+      "timestamp": "2026-01-19T15:12:23.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***leblecmid was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1462827066616451112",
+      "type": "Default",
+      "timestamp": "2026-01-19T15:12:30.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Mamk",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1461475023654092824",
+          "name": "hullo0308",
+          "discriminator": "0000",
+          "nickname": "Mamk",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1461475023654092824/f7f2e9361e8a54ce6e72580ac7b967af.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1462827068411609202",
+      "type": "Default",
+      "timestamp": "2026-01-19T15:12:31.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***hullo0308 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1462827470670532831",
+      "type": "Default",
+      "timestamp": "2026-01-19T15:14:07.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Leblanc",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1462827474772562127",
+      "type": "Default",
+      "timestamp": "2026-01-19T15:14:08.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***herox\\_17 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1471049105794007134",
+      "type": "Default",
+      "timestamp": "2026-02-11T07:43:57.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Thunder",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1460617019995979897",
+          "name": "windblow.1",
+          "discriminator": "0000",
+          "nickname": "Thunder",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1460617019995979897/f0ae656ed0c5cade803d1f4d8247befe.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1471049107094241335",
+      "type": "Default",
+      "timestamp": "2026-02-11T07:43:57.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***windblow.1 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473411147653971978",
+      "type": "Default",
+      "timestamp": "2026-02-17T20:09:52.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Lord",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1241429942013530186",
+          "name": "pandoszty_57536",
+          "discriminator": "0000",
+          "nickname": "Lord",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1241429942013530186/b9691164138cffdc0e76b7bcd8399f50.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473411150015107355",
+      "type": "Default",
+      "timestamp": "2026-02-17T20:09:52.819+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***pandoszty\\_57536 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473416224531681483",
+      "type": "Default",
+      "timestamp": "2026-02-17T20:30:02.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Bogalaf",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1143534679555838082",
+          "name": "jav.buruclee",
+          "discriminator": "0000",
+          "nickname": "Bogalaf",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1143534679555838082/f36a532c1bdb9075985e0de045d7b64d.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473416227111043318",
+      "type": "Default",
+      "timestamp": "2026-02-17T20:30:03.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***muchs5188 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1477757933554110635",
+      "type": "Default",
+      "timestamp": "2026-03-01T20:02:26.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?ban @Yuji",
+      "author": {
+        "id": "660818635497144333",
+        "name": "hellcaty",
+        "discriminator": "0000",
+        "nickname": "Hellcaty",
+        "color": "#FF0026",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1350533935146471434",
+            "name": "\uD83D\uDEA8| Moderador",
+            "color": "#FF0026",
+            "position": 19
+          },
+          {
+            "id": "1350534296850530534",
+            "name": "\uD83D\uDD28| Administração",
+            "color": "#05F99F",
+            "position": 18
+          },
+          {
+            "id": "1350535068220653618",
+            "name": "✔️ | Top Confiável",
+            "color": "#0453F2",
+            "position": 16
+          },
+          {
+            "id": "1350537704206635091",
+            "name": "\uD83E\uDD1D| Parcerias",
+            "color": "#EEFF00",
+            "position": 14
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/660818635497144333/a_a2c0e41e00ecc12a97a3b8093d84d406.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1467426664500826124",
+          "name": "yuji.best",
+          "discriminator": "0000",
+          "nickname": "Yuji",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1477757945466064999",
+      "type": "Default",
+      "timestamp": "2026-03-01T20:02:29.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#3498DB",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1170214713989275728",
+            "name": "\uD83E\uDD16 | \uD835\uDDD5\uD835\uDDFC\uD835\uDE01\uD835\uDE00",
+            "color": "#3498DB",
+            "position": 13
+          },
+          {
+            "id": "1350496863895289860",
+            "name": "Dyno",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1285591103151538207",
+            "name": "✨| Membro",
+            "color": "#FF6F00",
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***kenji\\_82 was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 32
+}

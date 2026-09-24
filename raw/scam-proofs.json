@@ -1,0 +1,87 @@
+{
+  "guild": {
+    "id": "1244667730758598728",
+    "name": "Coolix Market",
+    "iconUrl": "https://cdn.discordapp.com/icons/1244667730758598728/b5a3bf976838fe0c840fae818b971231.png?size=512"
+  },
+  "channel": {
+    "id": "1244689496059154503",
+    "type": "GuildTextChat",
+    "categoryId": "1244676551832899624",
+    "category": "Scam",
+    "name": "scam-proofs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-09-24T20:05:55.4922047+00:00",
+  "messages": [
+    {
+      "id": "1260612500244795473",
+      "type": "Default",
+      "timestamp": "2024-07-10T15:04:01.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# 50$ от стима в честь летней распродажи, забирай\n[steamcommunity.com/471238123](https://sc.link/WwYCA)\n@everyone",
+      "author": {
+        "id": "1140549242193186856",
+        "name": "little_kabanchik",
+        "discriminator": "0000",
+        "nickname": "Luka",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1244681775649787915",
+            "name": "Server creator",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1140549242193186856/5f32cd8b65bb6d7c69c57760860d441d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1260628854729347165",
+      "type": "Default",
+      "timestamp": "2024-07-10T16:09:00.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# 50$ от стима в честь летней распродажи, забирай\n[steamcommunity.com/659543922](https://sc.link/gPnFd)\n@everyone",
+      "author": {
+        "id": "1140549242193186856",
+        "name": "little_kabanchik",
+        "discriminator": "0000",
+        "nickname": "Luka",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1244681775649787915",
+            "name": "Server creator",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1140549242193186856/5f32cd8b65bb6d7c69c57760860d441d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}
