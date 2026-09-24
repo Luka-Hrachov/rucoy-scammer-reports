@@ -12,13 +12,51 @@ and preserved.
 
 | File | What it is |
 |---|---|
+| `scammers-verdict.json` | **Start here.** 120 accused accounts keyed by permanent Discord ID, each with a confidence rating and its evidence |
+| `identified.json` | All 501 accounts with a permanent ID, tagged `accused` / `staff-or-trader` / `mentioned-only` |
+| `by-name-only.json` | 352 bot-ban records that carry a username and nothing else |
 | `scammers-all.json` | All channels merged into one file (2.8 MB) |
 | `raw/<server>/<channel>.json` | Per-channel exports, unmodified |
 | `SOURCES.md` | Table of servers and message counts |
-| `merge.py` | The script that builds the merged file from `raw/` |
+| `merge.py`, `identify.py` | The scripts that build everything above from `raw/` |
 
 **4892 messages from 22 channels across 9 servers.** Full breakdown in
 [SOURCES.md](SOURCES.md).
+
+## The identifier problem
+
+Usernames are not identities. Discord dropped discriminators in 2023, people rename
+themselves, and accounts get resold — a 2023 ban on `Name#1234` says nothing about
+whoever holds that name today.
+
+The only stable key here is the **Discord user ID**, a snowflake that is issued once
+and never changes. It is not stored in the ban messages, but it *is* embedded in
+every `@mention`: Discord inlines the mentioned user's profile into the message, so
+each mention yields a permanent ID plus that account's username **as of the export
+date**. That is where all 501 identified accounts come from.
+
+A snowflake also encodes its own creation time, which is enough to catch mismatches.
+Worked example from this archive: `Maximus⚡#1665` was banned on 2023-04-25, while the
+account accused as "Maximus" in 2026 is ID `1396924766635688109`, created 2025-07-21.
+Two different accounts, two years apart, one name. Merging them would have been wrong.
+
+## Confidence, and why most entries have none
+
+`scammers-verdict.json` rates each accused account:
+
+| Rating | Meaning | Count |
+|---|---|---|
+| `high` | 3+ servers, 2+ distinct reporters | 1 |
+| `medium` | 2+ servers, or 2+ reporters with screenshots | 11 |
+| `low` | a single source | 108 |
+
+**Count reporters, not servers.** People cross-post the same accusation to every
+market server they are in, which makes one complaint look like three. `maximum.7799`
+appears on three servers but every post came from the same reporter. Use
+`distinctReporters`; treat `serversAccusing` as noise.
+
+Twelve of 120 accounts have any corroboration at all. The rest is one person's word,
+unverified. That is a property of the source material, not of the processing.
 
 ## Format
 

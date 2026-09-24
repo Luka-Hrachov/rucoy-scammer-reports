@@ -1,0 +1,6460 @@
+{
+ "note": "bot-ban records with no permanent id. hasDeadDiscriminator=true means the old Name#1234 format, unusable for lookup since Discord dropped discriminators.",
+ "count": 352,
+ "people": [
+  {
+   "handle": "rebel.410",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-04-18T03:34:09.467+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rebel.410**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1494903840170840145",
+     "attachments": []
+    },
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-08T15:21:35.294+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rebel.410**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1513563652018405557",
+     "attachments": []
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-06-08T15:06:27.068+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rebel.410**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1513559842642596002",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-09-01T12:07:12.302+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rebel.410**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1412046131516407984",
+     "attachments": []
+    }
+   ],
+   "reportCount": 4
+  },
+  {
+   "handle": "roiii11",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-02T17:17:23.36+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **roiii11**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1511418467125952656",
+     "attachments": []
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-06-03T00:10:35.316+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **roiii11**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1511522452126171267",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-08T15:14:06.558+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **roiii11**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1513561769883205753",
+     "attachments": []
+    }
+   ],
+   "reportCount": 3
+  },
+  {
+   "handle": "mrxboxs",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-04-09T18:55:52.051+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mrxboxs**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1491874305229979720",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-04-09T18:54:07.889+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mrxboxs**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1491873868342755459",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "rarely8",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-04-15T11:33:05.04+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rarely8**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1493937202302816376",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-04-15T11:32:25.723+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rarely8**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1493937037395361835",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "annachuuuu",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-04-19T10:48:33.629+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **annachuuuu**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1495375549055369226",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-04-19T10:48:01.221+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **annachuuuu**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1495375413126500442",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": ".bestial_warrior",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-05-06T16:15:55.687+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.bestial_warrior**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1501618527533011064",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-05-06T16:17:07.744+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.bestial_warrior**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1501618829761970366",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "bestial_warriior",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-05-07T13:47:30.027+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **bestial_warriior**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1501943562353512560",
+     "attachments": []
+    },
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-07-08T12:14:35.016+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **bestial_warriior**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1524388226729509045",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "festing0654",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-08T15:20:33.261+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **festing0654**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1513563391833407740",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-08T15:26:23.252+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **festing0654**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1513564859801796668",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "yesil_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-08T15:22:10.582+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yesil_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1513563800027140248",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-08T15:17:15.813+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yesil_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1513562563676475485",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "chocobo1919",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-08T15:27:00.975+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **chocobo1919**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1513565018023657482",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-08T15:26:05.967+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **chocobo1919**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1513564787303514275",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "shaze.777",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-22T09:18:40.522+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shaze.777**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1518545752123768863",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-22T09:18:21.793+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shaze.777**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1518545673568522422",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "vizard.ss",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-06-27T14:09:44.481+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **vizard.ss**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1520430940604600434",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-27T14:06:23.204+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **vizard.ss**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1520430096387670059",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "moshchnyy_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-08-01T12:57:26.977+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **moshchnyy_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1533096323090481174",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-08-01T12:28:09.579+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **moshchnyy_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1533088952029020282",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "lightingclouds",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-09-03T12:07:27.316+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lightingclouds**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1545042541165158401",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-09-03T12:06:05.008+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lightingclouds**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1545042195940249712",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "ziiell3",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-09-06T19:25:58.972+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ziiell3**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1546240063845830669",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-09-09T18:48:57.014+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ziiell3**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1547317907875434608",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "lotre_1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-09-24T01:44:06.927+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lotre_1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1552495817741303831",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-08-30T17:31:41.253+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lotre_1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1543674585428529223",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "wspg_.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2024-12-11T22:34:37.979+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **wspg_.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1316533632411893761",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-12-13T05:22:52.765+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **wspg_.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1316998758856265773",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "azmondir01",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2024-12-13T14:24:29.022+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **azmondir01**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1317135058036850748",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-12-07T10:12:10.006+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **azmondir01**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1314897233208021002",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "neiiij",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-01-05T17:54:06.759+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **neiiij**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1325522733798391810",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-11T12:34:39.547+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **neiiij**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1327616667878162444",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "impblackt9",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-01-12T09:14:56.157+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **impblackt9**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1327928793763151934",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-19T12:32:17.686+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **impblackt9**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1330515175794671738",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "ryukishin_999",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2026-04-03T10:55:20.778+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ryukishin_999**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1489579050912452698",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-25T20:21:44.13+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ryukishin_999**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211407706641006733",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "henvierx01",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-09-17T18:35:06.946+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **henvierx01**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1417941958298566778",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-09-17T11:31:01.742+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **henvierx01**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1417835233377783991",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "gettingtwisted",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-11-11T18:47:01.831+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **gettingtwisted**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1437876289351454822",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-11-11T09:00:23.006+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **gettingtwisted**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1437728654779220029",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "yugiko5156",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-11-17T16:10:40.508+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yugiko5156**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1440011268424597565",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-11-17T18:16:17.758+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yugiko5156**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1440042881942556723",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "newbie_noname",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-11-22T01:06:56.975+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **newbie_noname**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1441595777771110502",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-11-21T22:50:02.206+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **newbie_noname**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1441561322532769894",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "fressh.aa",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-12-09T07:34:10.291+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fressh.aa**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1447853819076542547",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-12-10T07:26:12.415+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fressh.aa**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1448214202585190483",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "herox_17",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-12-13T03:48:41.081+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **herox_17**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1449246624919457923",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-11T13:53:49.541+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **herox_17**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1448674137907138671",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "aresocah",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-05-25T08:02:58.452+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **aresocah**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1508379841064472707",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-29T12:11:33.724+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **aresocah**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1521125975545348139",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": ".rucoyslayer_14662",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-09-04T18:25:10.656+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.rucoyslayer_14662**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1545499985968234579",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-09-04T20:52:36.976+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.rucoyslayer_14662**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1545537090123599933",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "muaztheking.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:43:58.716+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **muaztheking.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937395282939916",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-15T09:14:07.473+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **muaztheking.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1361630661068460063",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "ggazha",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:44:08.089+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ggazha**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937434596147292",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-02-08T06:20:49.881+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ggazha**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1337669451276877886",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "alent3711.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:45:55.162+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alent3711.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937883692863488",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-11-02T20:36:08.426+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alent3711.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1302370686026780746",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": ".restartlife.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:46:11.991+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.restartlife.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937954278674432",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-20T14:55:28.844+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.restartlife.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1297573913953439794",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "mary_berry97",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:49:09.455+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mary_berry97**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375938698616766565",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-22T13:33:45.588+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mary_berry97**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1276172464136912906",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "leblancmid.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-25T07:55:12.976+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **leblancmid.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376106317772492840",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-12-28T13:45:21.811+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **leblancmid.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1322561031104499742",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "noobguyew",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-03T14:09:30.732+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **noobguyew**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1379462003218972713",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-03T14:08:03.852+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **noobguyew**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1379461638817710130",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "ultramegapipiska_93386",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-04T11:42:38.902+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ultramegapipiska_93386**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1379787431590494280",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-04T11:35:11.482+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ultramegapipiska_93386**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1379785554975133827",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "smk_rucoy",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-10T06:57:56.704+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **smk_rucoy**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1381890110852829247",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-10T08:14:01.289+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **smk_rucoy**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1381909256109949048",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "driveaboveocean1298",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-11T13:39:13.155+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **driveaboveocean1298**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1382353482673033356",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-09-07T11:46:49.846+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **driveaboveocean1298**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1414215331357917235",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "alexanderr7710",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-15T21:40:09.919+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alexanderr7710**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1383924068176101568",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-22T06:22:22.068+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alexanderr7710**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1298169560587042908",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "dororo77777",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-16T18:17:11.182+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **dororo77777**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1384235374716653750",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-16T08:15:04.333+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **dororo77777**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1384083847729119243",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "Carius#3308",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-24T17:04:43.032+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Carius#3308**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100105050623311893",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-06T17:54:03.564+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Carius#3308**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1104466122381725776",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "menkox",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-23T11:26:23.947+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **menkox**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1210548209097777172",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-26T14:14:58.652+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **menkox**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1266398364547944551",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "stillmayank",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-13T04:49:57.375+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **stillmayank**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1515216635953287252",
+     "attachments": []
+    },
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-14T05:53:03.506+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "**stillmayank** successfully unbanned. Reason: No reason given",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1515594904003154063",
+     "attachments": []
+    }
+   ],
+   "reportCount": 2
+  },
+  {
+   "handle": "moonxxx_22",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-04-04T18:19:05.511+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **moonxxx_22**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1490053111002173470",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lightninglouds",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Dream-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-09-02T10:08:52.45+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lightninglouds**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/948850425141002290/1481714537450180691/1544650311388635177",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kanastrra",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-01-05T17:55:26.623+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kanastrra**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1325523068772421733",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "amirall_1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-02-16T12:28:20.246+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **amirall_1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1340661040135934054",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "bigfarmers999",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-02-16T12:29:02.013+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **bigfarmers999**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1340661215319298061",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "azota_77",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-03-21T07:42:10.677+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **azota_77**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1352547825308930100",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "leblancmiddel",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Europe-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-07-30T13:39:38.852+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **leblancmiddel**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/972502585825173514/990201459213750342/1400110595868721154",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "im_raihan",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-09-29T08:16:37.453+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **im_raihan**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1422134964190838914",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "omago_h",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-10-01T05:29:01.117+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **omago_h**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1422817560591859765",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "jota_55151",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-10-04T17:51:24.729+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **jota_55151**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1424091553638383778",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "juansebastian06635",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-10-08T00:46:12.248+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **juansebastian06635**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1425283103055679550",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "wan0509_80203",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-10-16T17:06:50.004+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **wan0509_80203**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1428428989416083583",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ninjamizl",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-11-10T02:28:27.173+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ninjamizl**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1437267634361073676",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "devilzz6467",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-11-15T12:40:03.883+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **devilzz6467**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1439233490846744727",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ksaa.21",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-12-13T03:48:16.604+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ksaa.21**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1449246522255605902",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ply4vca.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-12-16T02:56:59.313+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ply4vca.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1450320778758459525",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ermir351",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2025-12-20T13:43:23.461+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ermir351**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1451933002727686204",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "reaper_0076",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-01-05T08:54:46.322+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **reaper_0076**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1457658575232045160",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "anmarsan12",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-01-11T09:29:22.666+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **anmarsan12**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1459841611243716776",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "hullo0308",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-01-19T10:49:59.313+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **hullo0308**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1462761000536379467",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "jsxf",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-01-27T12:37:54.257+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **jsxf**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1465687261344436417",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "swap.desk",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-01-31T15:19:53.271+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **swap.desk**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1467177577306132480",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "shop_izho",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-03-05T00:36:26.619+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shop_izho**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1478914050858418249",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "crwzy.meen",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-03-10T00:11:07.169+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **crwzy.meen**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1480719617151209594",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "idaten_warrior",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-03-24T08:48:26.56+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **idaten_warrior**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1485923235911438427",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rumylimoski",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-04-04T19:35:26.086+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rumylimoski**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1490072323326345226",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "qwereux",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-04-06T19:33:08.646+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **qwereux**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1490796522592407614",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "dio_brando_vampire",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-04-06T19:37:11.087+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **dio_brando_vampire**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1490797539463528529",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "parabdjl",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-04-08T10:06:06.008+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **parabdjl**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1491378597036822681",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "parashar0474_26916",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-04-08T10:06:36.667+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **parashar0474_26916**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1491378725630251040",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "jamuraixix",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-04-18T04:01:49.164+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **jamuraixix**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1494910801444864000",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "realsidest",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-05-16T10:35:59.681+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **realsidest**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1505156859139461211",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "nihal_t20",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-05-17T06:32:38.018+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **nihal_t20**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1505458003191660564",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "liltank47",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-05-29T00:42:01.743+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **liltank47**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1509718425046352022",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "javiierz_c",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-06-06T02:44:58.091+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **javiierz_c**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1512648466617340015",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "feropt",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-07-15T07:11:57.483+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **feropt**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1526848783575683194",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "vxlxk",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-07-15T07:12:06.814+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **vxlxk**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1526848822712733808",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "donxldtrump",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-08-10T10:31:28.693+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **donxldtrump**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1536321078975266899",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "captain.vb",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-08-16T19:13:10.948+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **captain.vb**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1538626697342099526",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "uhmm_official",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Klauzo-Treasury",
+     "channel": "ban-list",
+     "timestamp": "2026-09-06T08:51:31.753+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **uhmm_official**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1350105552155574292/1406536781352009768/1546080398356914247",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "9wwp",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-24T20:45:12.197+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **9wwp**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1375937703484461146",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "leblanc_mid",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-25T07:56:26.093+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **leblanc_mid**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376106624447545408",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "umutyss_79868",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-25T08:08:54.371+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **umutyss_79868**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376109762952826970",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "browler.01",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-26T11:23:31.337+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **browler.01**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1376521127563890699",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "fallenofficialmm",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-05-28T05:49:29.851+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fallenofficialmm**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1377161843210059806",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "_lord_yakuza_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-03T14:45:43.118+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **_lord_yakuza_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1379471114866135203",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mr_baki._.hanma",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-04T17:36:19.633+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mr_baki._.hanma**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1379876437787545660",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "weygarr",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-09T21:54:31.335+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **weygarr**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1381753354023075880",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "progamer_031",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-10T06:38:52.561+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **progamer_031**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1381885311969394780",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "_hakoo_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-11T05:23:25.88+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **_hakoo_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1382228713558511718",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "paviskawas",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-11T09:56:31.264+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **paviskawas**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1382297438840426667",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mr.is_back",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Market",
+     "channel": "scammer-list",
+     "timestamp": "2025-06-20T16:59:11.288+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mr.is_back**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/985707520486150186/1375930913644351730/1385665297280925696",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "FxreX#0822",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-24T14:01:21.702+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **FxreX#0822**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100058907700887684",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Fallenius#1335",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-24T14:01:40.399+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Fallenius#1335**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100058986121793596",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "proa#8033",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-25T12:36:13.8+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **proa#8033**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100399871472709662",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "BlueBot#8945",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-25T15:03:59.508+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **BlueBot#8945**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100437056947237027",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Maximus⚡#1665",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-25T15:39:56.839+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Maximus⚡#1665**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100446105449271336",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "LukaUA#1291",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-26T14:39:16.523+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **LukaUA#1291**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1100793224722927668",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lone wolf#1098",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-28T08:02:41.545+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lone wolf#1098**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1101418197082718258",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "John Abruzzi#8402",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-28T14:42:39.473+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **John Abruzzi#8402**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1101518851688108143",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Darkomega#8863",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-29T16:05:46.002+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Darkomega#8863**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1101902154572251156",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "OGAxina#6368",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-30T09:08:24.325+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **OGAxina#6368**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1102159510031835136",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ratatuy#0933",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-30T12:28:40.222+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ratatuy#0933**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1102209908356681789",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Kay Godly Il#5590",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-04-30T12:57:12.474+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Kay Godly Il#5590**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1102217090062094347",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "qwender#8602",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-01T19:03:38.429+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **qwender#8602**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1102671693706702958",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "celiski#5156",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-02T04:50:29.359+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **celiski#5156**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1102819379051245639",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Evil hope Bdjl#8721",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-02T08:52:34.628+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Evil hope Bdjl#8721**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1102880302445109310",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "xd bro#5424",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-05T10:55:39.386+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **xd bro#5424**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1103998439961919579",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "MandarinOneLove#1512",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-05T11:41:39.007+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **MandarinOneLove#1512**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1104010014651330580",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Kirа#7230",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-05T18:48:46.65+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Kirа#7230**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1104117504776863837",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "New Well#6108",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-05T18:51:37.195+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **New Well#6108**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1104118220094443690",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "iow#3125",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-06T17:51:18.754+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **iow#3125**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1104465431118479381",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Dopekingg#8347",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-07T22:46:44.836+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Dopekingg#8347**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1104902167560716439",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Seregadefault#6244",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-11T12:19:30.571+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Seregadefault#6244**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1106193869474897950",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Hellcaty#7659",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-12T18:04:04.571+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Hellcaty#7659**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1106642970381398167",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "iSteelix#8408",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-12T18:04:17.287+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **iSteelix#8408**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1106643023716155412",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Amiral#1973",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-13T13:56:44.668+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Amiral#1973**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1106943115182493727",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "iow#7158",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-14T20:30:54.548+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **iow#7158**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1107404697834369114",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "nekololi#4641",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-14T20:41:44.647+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **nekololi#4641**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1107407424547197080",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Turkish_Fbi*#9286",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-16T14:29:19.763+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Turkish_Fbi*#9286**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1108038479042060368",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Mystake#9436",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-18T13:14:53.971+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Mystake#9436**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1108744523884011570",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Tantō#6666",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-19T15:08:18.963+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Tantō#6666**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1109135453954789486",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Big Anubis#1942",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-22T15:25:15.57+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Big Anubis#1942**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1110226881510396097",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Akinal_Bdjl#9411",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-23T10:33:54.707+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Akinal_Bdjl#9411**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1110515949322387557",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Salamandrine#7588",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-23T16:37:51.079+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Salamandrine#7588**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1110607537704804414",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Turkish#1923",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-25T08:11:55.936+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Turkish#1923**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1111204994738294784",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Scara#8157",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-25T12:54:24.891+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Scara#8157**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1111276083808043078",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "哭哭可參考#6931",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-25T15:53:00.491+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **哭哭可參考#6931**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1111321028292001812",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Adrimiss#7301",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2023-05-27T21:04:10.313+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Adrimiss#7301**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1112124110932287561",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kaskader1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-18T15:30:56.173+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kaskader1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1208797809546108999",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ll.m3hm3t",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-18T15:32:55.96+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ll.m3hm3t**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1208798311968936036",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "den.media",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-19T07:03:43.699+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **den.media**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1209032554364276737",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lastyy0375",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-20T08:19:20.103+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lastyy0375**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1209413969287061525",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "pigeon.kingg",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-22T04:59:43.588+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **pigeon.kingg**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1210088511873753088",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "blocked_yu",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-22T05:32:25.948+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **blocked_yu**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1210096742608015412",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "v1212121",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-22T15:05:25.102+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **v1212121**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1210240939231285262",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "olima1234",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-23T09:55:23.84+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **olima1234**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1210525307749015582",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "dragon_big_city",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-23T12:23:39.359+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **dragon_big_city**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1210562618259939429",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "htt2198tth",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-24T19:40:57.623+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **htt2198tth**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211035057381183598",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mahmutpasaxl_98573",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-24T22:01:08.697+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mahmutpasaxl_98573**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211070335982506125",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rafelqqer_6666",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-26T14:47:36.945+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rafelqqer_6666**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211686010518380616",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rafaelqqer6666",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-26T14:47:45.069+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rafaelqqer6666**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211686044592898068",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "iow#8722",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-27T05:53:28.281+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **iow#8722**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211913976544231424",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "alopra#2434",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-27T07:52:14.271+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alopra#2434**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1211943865112862731",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "1212ydu#0937",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-29T06:55:59.263+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **1212ydu#0937**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1212654485034373160",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "qweasi",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-02-29T11:45:00.624+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **qweasi**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1212727219974049812",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "master_nya",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-02T09:13:12.399+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **master_nya**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1213413793040965662",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "otabek0029",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-02T13:09:11.24+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **otabek0029**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1213473179524141146",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "tippidon.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-07T03:54:27.383+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **tippidon.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1215145516237852722",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "freedomfighter0785",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-07T17:43:04.736+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **freedomfighter0785**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1215354045930414130",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "jacob.56",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-10T08:49:16.078+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **jacob.56**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1216306871598841857",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "d0nelor.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-17T14:36:10.02+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **d0nelor.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1218930886658101320",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "muhittinshow",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-17T17:00:09.354+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **muhittinshow**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1218967122651254865",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ofiu_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-30T21:27:28.701+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ofiu_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1223745438801334312",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "shacoxl1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-03-31T08:06:30.966+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shacoxl1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1223906257916923924",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sowerd35",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-01T09:17:17.307+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sowerd35**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1224286456227303445",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "darkweed1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-02T04:25:22.837+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **darkweed1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1224575383081582642",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoyez",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-06T17:28:10.916+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoyez**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1226221932945477773",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sla1212sla",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-08T04:00:10.331+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sla1212sla**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1226743366365220986",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "camekda",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-09T07:45:06.398+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **camekda**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1227162360838619146",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "awakenkingrucoyonline",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-15T06:23:35.033+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **awakenkingrucoyonline**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1229316172160303135",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "divan1365",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-15T18:41:33.871+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **divan1365**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1229501891067646083",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "exluphy",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-17T08:04:43.172+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **exluphy**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1230066399511314432",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kimgofroyal",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-18T03:19:29.237+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kimgofroyal**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1230357006330888262",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "shelby_xx",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-19T11:55:53.033+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shelby_xx**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1230849349655724052",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "verysofof",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-22T15:55:35.283+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **verysofof**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1231996836781490358",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "greedzzzz",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-22T19:38:51.968+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **greedzzzz**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1232053026550845491",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "damnag122",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-23T14:14:27.742+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **damnag122**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1232333775535341743",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kovinko9999",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-25T05:37:07.737+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kovinko9999**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1232928360049541162",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "khalil6i6",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-28T17:30:00.696+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **khalil6i6**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1234194926439239691",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "anka_898923",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-29T04:01:13.623+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **anka_898923**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1234353777008447579",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "anka898923",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-04-29T04:01:22.614+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **anka898923**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1234353814719692840",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "xxsortoxx",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-07T03:56:05.494+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **xxsortoxx**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1237251587546812437",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ken_gamer1929",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-16T15:38:58.292+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ken_gamer1929**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1240689963872288830",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "godbed",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-24T17:14:45.23+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **godbed**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1243613171202392115",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ikaros465",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-26T10:50:09.562+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ikaros465**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1244241160566738944",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "malone4608",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-27T18:17:55.131+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **malone4608**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1244716230795989114",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "f1ashningmcquen",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-29T16:04:42.699+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **f1ashningmcquen**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1245407483837681755",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "raikolow",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-29T16:11:43.485+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **raikolow**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1245409248741953569",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mamooo444",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-05-30T11:21:21.368+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mamooo444**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1245698562952790157",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "raikolow_1312",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-03T06:12:49.521+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **raikolow_1312**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1247070470101012500",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rafaelqqer_6666",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-03T12:24:16.507+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rafaelqqer_6666**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1247163948495536208",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "dopeboymari",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-05T04:04:34.86+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **dopeboymari**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1247762972084797481",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "666kwom",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-06T17:12:40.53+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **666kwom**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1248323690425225236",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kugelfisch9199",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-07T09:28:29.576+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kugelfisch9199**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1248569262923317301",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ry1312",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-09T15:38:29.19+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ry1312**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1249387150584058021",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "helloworld_1921",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-14T07:43:55.146+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **helloworld_1921**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1251079661115674645",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoy777",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-16T19:45:29.396+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoy777**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1251986026092695663",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "andrei.555.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-18T11:34:38.32+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **andrei.555.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1252587275057893397",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "tmrudanskytm",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-21T09:07:59.027+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **tmrudanskytm**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1253637531745124462",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "nolex0165_57089",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-29T19:21:05.771+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **nolex0165_57089**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1256690929457168386",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "crazzy333666.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-06-30T08:09:09.187+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **crazzy333666.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1256884217313366017",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "blessedus",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-02T22:04:50.382+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **blessedus**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1257819300459315323",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "wowioo",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-03T23:34:15.018+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **wowioo**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1258204189239279727",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "elnflx",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-07T06:38:53.585+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **elnflx**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1259398217691435040",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "seeyaurunglyface",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-08T08:47:06.898+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **seeyaurunglyface**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1259792873650393119",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ouroborosgenius",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-08T13:30:21.558+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ouroborosgenius**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1259864154420809840",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoyking12",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-13T09:24:02.147+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoyking12**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1261614104406396929",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "joshmadisonstyle8",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-13T13:41:44.456+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **joshmadisonstyle8**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1261678958030618696",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "chad018516",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-13T14:07:02.561+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **chad018516**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1261685325424758796",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "irymaevill",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-16T09:11:39.945+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **irymaevill**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1262698154982113402",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "jajaja066990",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-18T16:47:17.85+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **jajaja066990**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1263537594197737633",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "spanchbobik_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-21T20:07:50.545+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **spanchbobik_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1264675226575179837",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mrbombastic465",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-22T08:06:09.696+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mrbombastic465**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1264855997516615711",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "local_rucoy",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-25T18:09:38.72+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **local_rucoy**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1266095032767610911",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "yba_top1325",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-26T19:16:39.075+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yba_top1325**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1266474283224535085",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "jose_rbb7",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-07-31T14:50:57.033+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **jose_rbb7**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1268219356781744168",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "chad0565",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-03T06:19:59.691+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **chad0565**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1269177934166491136",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "9373837289228",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-06T16:45:43.627+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **9373837289228**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1270422568444104794",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "luke_8xt",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-08T08:10:58.654+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **luke_8xt**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1271017803209773108",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "fura_mag",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-10T04:16:54.16+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fura_mag**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1271683672063348778",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "_dalsy_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-14T07:20:22.688+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **_dalsy_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1273179396639031356",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "nancy.crouver",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-14T09:17:10.872+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **nancy.crouver**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1273208791092953171",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mondoros",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-16T09:27:42.873+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mondoros**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1273936217628741634",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "thewolf6144",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-20T12:46:04.887+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **thewolf6144**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1275435689755938916",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "_katara.__",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-22T13:38:21.491+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **_katara.__**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1276173621357707327",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sigmaalpha_6w",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-23T10:54:55.928+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sigmaalpha_6w**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1276494881711460372",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "helllkittyxd",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-23T19:34:06.853+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **helllkittyxd**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1276625538160529438",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "yasuodevilson",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-24T05:30:09.129+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yasuodevilson**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1276775536018063432",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "donmxgiccan_75719",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-24T13:11:53.602+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **donmxgiccan_75719**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1276891736999727145",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mxriam_030",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-27T19:52:22.002+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mxriam_030**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1278079683010760806",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "speed_0010",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-08-31T10:32:36.432+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **speed_0010**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1279388366382694523",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "op_sharer",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-01T11:21:51.352+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **op_sharer**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1279763148081205279",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "megalondon0757",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-05T13:07:15.807+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **megalondon0757**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1281239226230378496",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "notfound2106",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-07T15:09:42.182+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **notfound2106**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1281994814891495516",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "fastorion",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-13T17:25:37.087+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fastorion**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1284203346235752539",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "masnifexd",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-14T07:43:45.274+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **masnifexd**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1284419303344701494",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "fl0xyd_hs",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-16T05:02:35.937+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fl0xyd_hs**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1285103522936782878",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "distbow2906",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-21T09:11:52.246+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **distbow2906**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1286978193571577867",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "golden_mango_93823",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-25T13:02:39.503+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **golden_mango_93823**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1288485824639533087",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kxnap1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-26T09:08:44.773+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kxnap1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1288789346580959292",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": ".powerlifter.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-09-30T14:10:57.984+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.powerlifter.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1290314954242654290",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "darkstormxl",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-01T04:20:35.354+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **darkstormxl**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1290528768829685813",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "danyy3566",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-05T09:48:37.437+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **danyy3566**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1292060872931278899",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "carpediem8115",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-06T13:10:26.562+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **carpediem8115**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1292474050148302869",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "arbitrage2782",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-07T15:18:23.55+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **arbitrage2782**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1292868637635645502",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "inlufenmco6312",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-09T19:28:55.956+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **inlufenmco6312**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1293656463847325790",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "zenofye",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-12T04:23:53.048+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **zenofye**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1294515864540024866",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "axeel05._55088",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-12T10:47:54.018+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **axeel05._55088**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1294612505372397621",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": ".markyen",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-10-17T14:22:52.222+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.markyen**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1296478543689158718",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "alves0563",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-11-02T15:03:10.521+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alves0563**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1302286892619796501",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": ".twojstary_._",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-11-11T17:48:02.567+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.twojstary_._**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1305589873658433579",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "qlfunderscore",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-11-18T04:22:55.123+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **qlfunderscore**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1307923972612030504",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sobyasir",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-11-24T14:40:43.926+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sobyasir**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1310253777634201701",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": ".div2907",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-12-20T15:13:59.554+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.div2907**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1319684232410304665",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "karim_avrore",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2024-12-23T17:27:57.624+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **karim_avrore**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1320805110116253700",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "karpyy_1_94555",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-09T13:38:43.132+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **karpyy_1_94555**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1326908013310771210",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lazyryckos",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-10T06:17:08.994+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lazyryckos**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1327159276707516417",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ratarmy_009",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-10T06:18:07.312+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ratarmy_009**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1327159521310933096",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "just_azota",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-11T12:37:27.327+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **just_azota**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1327617371598491661",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lada0760",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-18T08:20:20.961+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lada0760**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1330089383788810292",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ziolessw",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-18T08:22:40.544+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ziolessw**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1330089969242472448",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mariajuiona",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-31T08:18:04.643+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mariajuiona**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1334799854282477610",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "shokikkjk",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-01-31T13:48:14.494+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shokikkjk**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1334882942820024452",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "miinox_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-02-01T16:44:32.055+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **miinox_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1335289696191905840",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "_rahul_sharma_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-02-04T17:30:03.864+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **_rahul_sharma_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1336388317826252891",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "huhugguc",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-02-20T19:23:32.506+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **huhugguc**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1342215081189965825",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "clonixzzzss",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-02-20T19:24:02.352+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **clonixzzzss**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1342215206373167196",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoyxneshara",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-03-10T16:48:16.585+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoyxneshara**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1348698988966313985",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "yeratzz",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-03-14T09:05:13.053+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yeratzz**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1350032007849054258",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "makson4k_228.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-03-22T07:55:07.095+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **makson4k_228.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1352913469707391046",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "1valievv",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-02T14:07:15.588+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **1valievv**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1356993388716490917",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sovereignnsun",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-13T12:03:41.495+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sovereignnsun**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1360948558278168667",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sanzion",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-14T17:56:50.442+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sanzion**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1361399819029053492",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "hightek.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-15T11:31:44.37+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **hightek.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1361665293004574912",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "frostysolo",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-21T17:32:09.949+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **frostysolo**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1363930324450410516",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "strixet",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-27T20:32:58.643+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **strixet**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1366150154364911727",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoy_player",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-04-28T14:00:26.255+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoy_player**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1366413756355051551",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mrbopack000",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-05-05T16:45:49.56+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mrbopack000**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1368992092772241499",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "beyondtherift143",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-05-19T14:33:16.074+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **beyondtherift143**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1374032163552493650",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "monorammus0114",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-05-21T04:03:43.428+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **monorammus0114**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1374598509323616286",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ronoazoro9999_55709",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-05-21T04:04:01.336+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ronoazoro9999_55709**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1374598584435085375",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "vladko_nervis",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-05-24T12:54:47.243+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **vladko_nervis**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1375819319446995035",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "sjjsjsloe._",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-05-26T11:18:08.321+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **sjjsjsloe._**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1376519772736589935",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoy_online",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-02T15:11:07.717+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoy_online**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1379115121632350208",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "alonegamer0465",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-03T14:01:34.374+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **alonegamer0465**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1379460005228707932",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "crystiano_ronaldo.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-07T09:16:02.532+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **crystiano_ronaldo.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1380837700537421886",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "nagii_toji",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-08T15:14:12.71+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **nagii_toji**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1381290224742563934",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "leblancemid",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-08T15:29:47.518+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **leblancemid**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1381294145611501702",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ramali",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-11T13:39:16.573+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ramali**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1382353497009422467",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kuzigami333",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-13T11:08:43.957+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kuzigami333**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1383040387202940948",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "weyls23",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-06-24T13:10:09.777+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **weyls23**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1387057212668641390",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "forsaken_rucoy",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-08T08:58:16.402+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **forsaken_rucoy**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1392067252697698325",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ego.ares",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-11T18:56:38.922+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ego.ares**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1393305002377875615",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "builzzmc",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-22T04:33:05.51+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **builzzmc**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1397073947698270251",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rucoy_warriors",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-22T14:39:51.503+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rucoy_warriors**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1397226645500334233",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "leblancmld",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-24T16:53:35.57+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **leblancmld**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1397985076607975474",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "noonesguy_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-26T09:17:54.957+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **noonesguy_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1398595177496576051",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lala.021",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-07-26T21:44:01.238+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lala.021**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1398782940888174757",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ghg043574",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-01T19:57:22.79+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ghg043574**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1400930431045472286",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "demon_rucoy",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-03T06:52:20.049+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **demon_rucoy**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1401457643561680896",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kill_ganos",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-05T07:10:48.312+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kill_ganos**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1402187067684815009",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "golemited",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-11T13:46:23.184+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **golemited**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1404460946147115019",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "magop12",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-16T09:46:38.113+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **magop12**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1406212550114414672",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "deathlook0",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-23T15:57:50.22+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **deathlook0**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1408842681161089075",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "bow2856",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-08-24T18:00:07.859+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **bow2856**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1409235845315170496",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "slyagilaz_77691",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-09-01T14:55:02.612+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **slyagilaz_77691**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1412088369457926246",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "brxkensword",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-09-17T11:27:48.252+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **brxkensword**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1417834421821902948",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "pantofeltwojejmatki",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-09-17T19:37:43.818+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **pantofeltwojejmatki**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1417957715761827981",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "spitball8878",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-09-21T07:17:55.834+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **spitball8878**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1419221090525515787",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kugelwillypig",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-12-10T08:10:04.678+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kugelwillypig**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1448225243096154166",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "div29.07",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2025-12-30T11:01:41.751+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **div29.07**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1455516189462630602",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "fighterhelper",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-01-04T10:40:54.35+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **fighterhelper**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1457322896811884608",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "hailezf",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-01-09T19:13:52.633+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **hailezf**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1459263929615122515",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lucifer02767",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-01-10T16:31:28.905+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lucifer02767**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1459585449323397215",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "windblow.1",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-01-14T11:45:36.646+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **windblow.1**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1460963058997264589",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "queenwie",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-04-05T10:34:31.881+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **queenwie**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1490298588389969971",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "royalvmusic",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "ban-scammer",
+     "timestamp": "2026-05-13T21:54:33.717+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **royalvmusic**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1099402467449507850/1504240462586970186",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Im Broken#1456",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2023-04-02T21:10:55.385+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Im Broken#1456**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1092194477319389296",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Umut At-Turki#0001",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2023-04-02T21:13:41.81+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Umut At-Turki#0001**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1092195175356432506",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "the boss went crazy#7425",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2023-04-06T18:11:46.708+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **the boss went crazy#7425**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1093598945562873877",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "aezakmi#4614",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2023-04-09T12:59:57.461+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **aezakmi#4614**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1094607636890140803",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "Balix#9846",
+   "hasDeadDiscriminator": true,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2023-04-22T13:53:10.501+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **Balix#9846**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1099332071723384852",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "villagehouse",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-03-03T17:36:52.256+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **villagehouse**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1213902932173398087",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "shine075350",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-08-27T15:40:53.514+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shine075350**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1278016397305450639",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "umutyss",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-08-27T16:36:16.189+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **umutyss**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1278030333614489642",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "miguel77777",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-08-31T07:55:21.481+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **miguel77777**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1279348793329975307",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": ".spiderman.01",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-12-28T13:45:06.845+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **.spiderman.01**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1322560968332415128",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mlekooo11",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2024-12-29T15:26:52.226+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mlekooo11**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1322948964021964822",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kiotaka0286",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-01-01T11:37:02.833+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kiotaka0286**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1323978290712547379",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "the_lordwave",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-02-20T20:21:24.931+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **the_lordwave**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1342229645596168252",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "cortezggezoffical",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-05-06T00:48:46.062+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **cortezggezoffical**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1369113629030617229",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "kixsrl.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-05-21T14:58:24.157+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **kixsrl.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1374763264642252850",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "yoczarnuchu",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-05-24T12:55:23.289+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **yoczarnuchu**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1375819470634745868",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "_mert0_0",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-06-01T11:32:39.756+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **_mert0_0**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1378697754993365042",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "infernalknight1808",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-06-07T13:20:22.317+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **infernalknight1808**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1380899188132282418",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ysqlevrai",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-06-28T10:47:01.405+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ysqlevrai**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1388470741888143400",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "blight_kaisen",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-06-28T10:47:10.067+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **blight_kaisen**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1388470778218938418",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "uwu_kills",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-07-08T21:08:30.035+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **uwu_kills**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1392251020394106882",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "toxicbutyours",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-07-22T16:03:46.057+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **toxicbutyours**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1397247761950310490",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "codixces",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-07-29T17:36:01.833+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **codixces**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1399807695736930456",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "simossz",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-08-30T14:54:42.259+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **simossz**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1411363508360314991",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "can_reis11",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-09-04T10:30:13.152+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **can_reis11**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1413108887829090424",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "mrbien79945",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-11-15T05:19:20.256+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **mrbien79945**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1439122578236117043",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "makola1245",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-11-15T19:25:17.641+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **makola1245**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1439335470139052144",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "lysy_top",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-04T09:04:07.625+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **lysy_top**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1446064517808128041",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "darkknight7421",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-06T19:14:49.604+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **darkknight7421**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1446942981138681877",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "toxicbutyou.",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-13T11:44:39.744+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **toxicbutyou.**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1449366408633782332",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "rouddisreal",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-17T21:15:52.174+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **rouddisreal**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1450959709086548102",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "shodaiw_",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-22T18:47:25.773+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **shodaiw_**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1452734292261339269",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "r.x.h.u.l",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2025-12-25T21:51:31.047+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **r.x.h.u.l**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1453867783094800385",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "8237902",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-01-07T21:04:03.826+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **8237902**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1458566883237167247",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "power_ranger.29",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-01-19T07:40:29.994+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **power_ranger.29**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1462713314156220690",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ayingsibak2222",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-12T17:29:05.373+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ayingsibak2222**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1515045290237759599",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "xvicinityofobscenityx",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-06-29T12:05:49.603+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **xvicinityofobscenityx**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1521124532197392456",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "ricoio",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-07-07T12:25:13.26+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **ricoio**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1524028515853537311",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "eurand",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-08-04T17:32:03.373+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **eurand**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1534252593700671669",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  },
+  {
+   "handle": "buellxb12r",
+   "hasDeadDiscriminator": false,
+   "reports": [
+    {
+     "server": "Rucoy-Online-Market-Place",
+     "channel": "scammers-list",
+     "timestamp": "2026-08-23T14:33:13.06+00:00",
+     "reportedBy": "Carl-bot",
+     "text": "Banned **buellxb12r**",
+     "isAccusation": true,
+     "link": "https://discord.com/channels/1036340340245934212/1037013986610249858/1541092956952592464",
+     "attachments": []
+    }
+   ],
+   "reportCount": 1
+  }
+ ]
+}
